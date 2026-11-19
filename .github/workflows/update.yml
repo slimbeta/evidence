@@ -17,9 +17,9 @@ jobs:
       - run: python scripts/update.py
       - name: Commit if changed
         run: |
-          if git diff --quiet; then echo "no changes"; exit 0; fi
+          git add data/
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add data/
           git commit -m "Update picks"
           git push
