@@ -1,0 +1,861 @@
+{
+ "updated": "2026-11-19T13:55:25+00:00",
+ "briefing": {
+  "headline": "Mental health, cancer and social connection",
+  "period": "Nov 13–19",
+  "made": "2026-11-19T13:55:25+00:00",
+  "bullets": [
+   {
+    "text": "A racing video game may seem out of place in the operating room, but it could help with pre-surgery anxiety.",
+    "source": "Yale",
+    "url": "https://medicine.yale.edu/news-article/video-games-preoperative-anxiety/",
+    "theme": "mental health"
+   },
+   {
+    "text": "UCSF’s Pediatric Neuro-Oncology Consortium advances clinical trials and new treatments for rare childhood brain tumors through global research partnerships.",
+    "source": "UCSF",
+    "url": "https://www.ucsf.edu/news/2026/11/432991/how-find-better-treatments-faster-rare-childhood-brain-tumors",
+    "theme": "cancer"
+   },
+   {
+    "text": "Exploring the Relationship Between Religiosity and Financial Risk-Taking in Denmark",
+    "source": "Stanford",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2kwRjRqaXhOR3hRaUxFMnBfQm45d3Bnc3ZpZ1FDa1RUbXF6NzdxeEtNZnFvdjVXMWdQemhab0Z0TzRHSVZKS0JIdHd0NXFRRV92Rno0VGJqREl5bkpkdmliQ3VaRTI1RmwzWG93QldnanozQUdmX28yajFyTXdPdDg5eVJtWmVfeE95ZzFwSm1GMHFMYmwtZ1hRTVY1WloycUFJTThTd29EVV9VNXg3eVZB?oc=5",
+    "theme": "social connection"
+   },
+   {
+    "text": "The findings from the study suggest that novelty might be more important than the scent itself, especially as people age.",
+    "source": "UCLA",
+    "url": "https://newsroom.ucla.edu/releases/can-scent-sharpen-memory-research-suggests-complicated-answer",
+    "theme": "the brain"
+   },
+   {
+    "text": "After another punishing European summer, electricity suppliers are being warned that climate change is placing power grids under increasing strain, and at possible risk of collapse.",
+    "source": "University of Cambridge",
+    "url": "https://www.cam.ac.uk/research/news/heatwaves-are-threatening-europes-power-supplies-researchers-warn",
+    "theme": "environmental exposures"
+   },
+   {
+    "text": "MIT researchers discovered that waves of cerebrospinal fluid (CSF), which help remove debris from the brain during sleep, are significantly reduced in older adults.",
+    "source": "MIT",
+    "url": "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113",
+    "theme": "sleep"
+   }
+  ]
+ },
+ "articles": [
+  {
+   "url": "https://news.mit.edu/2026/confirmed-numbers-tell-language-sells-1119",
+   "title": "Confirmed: Numbers tell, but language sells",
+   "source": "MIT",
+   "desk": "news",
+   "published": "2026-11-19T05:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "cats": [
+    "Research",
+    "Science communications",
+    "Data",
+    "Language",
+    "Communications",
+    "MIT Sloan School of Management"
+   ],
+   "description": "When people want to persuade their audience that a statistic is high or low, relatively more of them use language to describe the data, rather than stating the original numbers, a new study shows.",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-NumbersTell-01-press.jpg?itok=M3pbunds",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a Creative Commons Attribution Non-Commercial No Derivatives license. You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided below, credit the images to \"MIT.\"",
+    "Suppose you are in charge of your firm’s commuting policy and, after some research, you determine that 57 percent of your colleagues drive to work. How would you communicate that number to co-workers?",
+    "You could just tell them the number. Or you could characterize it in words. If you want to imply that 57 percent is a large number, you could call it “a clear majority,” or even “approaching two-thirds” (roughly 67 percent). However, if you seek to minimize 57 percent, you might call it “barely over half.”",
+    "Either way, when people are motivated to persuade their audience that a number is particularly high or low, they are considerably more likely to use language to describe the data, rather than simply airing the original numbers.",
+    "Now a new study co-authored by an MIT scholar quantifies this phenomenon: People motivated to persude others about statistical facts are 25 percent to 29 percent more likely to use words describing the numbers in question, instead of the numbers themselves. That is a large enough increase to be termed “substantial,” “significant,” or any number of other words.",
+    "“If I’m a well-informed expert and I have incentives to persuade my audience, I’m relatively more likely to choose to use language,” says co-author Victor de Chaisemartin, a doctoral candidate at the MIT Sloan School of Management.",
+    "The language that experts choose when seeking to persuade others is also more slanted than their numeric communications. As the authors note in the paper, people appear to be leveraging the imprecision of language in ways they feel are palatable: Whereas reporting a number incorrectly would be precisely false, it may be more psychologically comfortable to slant a message using language.",
+    "And that’s just the half of it. The study also shows that audiences find language-based descriptions of numbers convincing — even when they are told there is an agenda behind them.",
+    "“Language messages are particularly persuasive,” de Chaisemartin says. Telling an audience they are being spun, he notes, “actually doesn’t do very much to mitigate this. That’s interesting. It makes you wonder what’s going through people’s heads, and how they are dealing with information.”",
+    "The paper, “ Numbers Tell, Words Sell ,” is being published in the American Economic Review. The authors are de Chaisemartin; Michael Thaler, a lecturer in economics at University College London; and Mattie Toma, an associate professor at the University of Warwick."
+   ],
+   "lede": "When people want to persuade their audience that a statistic is high or low, relatively more of them use language to describe the data, rather than stating the original numbers, a new study shows.",
+   "tags": [
+    "longevity"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://medicine.yale.edu/news-article/video-games-preoperative-anxiety/",
+   "title": "Video games may reduce rise in pre-surgery anxiety in children",
+   "source": "Yale",
+   "desk": "news",
+   "published": "2026-11-18T15:31:13+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "description": "A study by Yale’s Department of Anesthesiology found that playing a driving-themed video game immediately before surgery may reduce the rise in pre-surgery",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_jpg,h_630,q_auto,w_1200/v1/yms/prod/745e892b-6469-46d2-8c2e-c432a95979bb",
+   "paragraphs": [
+    "A racing video game may seem out of place in the operating room, but it could help with pre-surgery anxiety. A study by Yale’s Department of Anesthesiology published in the Journal of Clinical Anesthesia found that playing a driving-themed video game immediately before surgery may reduce the rise in pre-surgery anxiety in children ages 4 to 14. The children were undergoing procedures with general anesthesia.",
+    "Pre-surgery anxiety in children is common and can complicate care. It has been associated with a difficult recovery, highlighting the importance of anxiety management to help reduce stress in young patients before surgery.",
+    "Anthony Longhini, MD, assistant professor of anesthesiology and principal investigator on the study, cares for pediatric patients at Yale New Haven Hospital. Working with his team, he used a portable Bedside Entertainment and Relaxation Theater (BERT) system. The BERT setup enhanced the video game-based intervention.",
+    "“It was a Lego Batman racing game, because it’s the kind of thing that stays on the track, even if you’re not using the steering wheel, so the child can be either passively or actively steering,” says Longhini. “It’s not violent or complex. It’s something that a small three-year-old or an older child can use.”",
+    "When describing his work, Longhini emphasized the team’s interest in using video game technology that would allow the patient to still be aware of the room around them. The BERT allowed patients to be actively engaged while still being aware of the surrounding operating room staff.",
+    "\"We thought that, by adding an active element to it, the child would be engaged further than they would by just watching a screen or holding a tablet.\"",
+    "“We wanted to avoid using a passive device that would be more similar to a large TV or an iPad,” says Longhini. “It has some novelty because it’s large and it’s not something they see all the time. We thought that, by adding an active element to it, the child would be engaged further than they would by just watching a screen or holding a tablet.”",
+    "The operating room staff responded well to the device, even though it was new to their busy workspace.",
+    "“We surveyed the operating room staff, and a lot of them were excited to see it come out,” says Longhini. “The projector has a clamp that would go onto the operating table, and then the screen would sit at the bottom of the bed. The staff began to help set it up and take it down for each patient, which was nice. I was surprised by how accepted it was.”",
+    "The team found that the patients in the BERT group had significantly smaller increases in anxiety before induction of anesthesia than those who received standard care. The immersive video game experience engaged surgical patients and distracted them from worrying about their procedures."
+   ],
+   "lede": "A racing video game may seem out of place in the operating room, but it could help with pre-surgery anxiety.",
+   "tags": [
+    "brain"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://www.caltech.edu/about/news/engineered-nanosyringes-open-a-new-route-into-plant-cells",
+   "title": "Engineered Nanosyringes Open a New Route into Plant Cells",
+   "source": "Caltech",
+   "desk": "news",
+   "published": "2026-11-18T13:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "description": "Caltech researchers reprogrammed bacterial injection machines to recognize plant cells and deliver active proteins, introducing new possibilities for studying and engineering plants",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://caltech-prod.resources.caltech.edu/main/images/demirer-ecis-1-web_1024.88e58ed7.width-600.jpg",
+   "paragraphs": [
+    "Understanding and improving plants often requires changing what happens inside their cells. Proteins control how cells grow, respond to stress, and carry out countless other tasks. Delivering these molecular tools directly into plant cells could give researchers new ways to study those processes and engineer useful traits. But getting active proteins past the cell wall and membrane that protect each plant cell remains a major obstacle.",
+    "Now a team of Caltech researchers has adapted tiny bacterial \"nanosyringes\" to recognize plant cells and inject proteins into them. The system delivered enzymes that rearrange DNA and enable targeted gene insertion in leaf cells, establishing a new route for bringing functional molecular tools into plants. The advance could support research across plant biology and biotechnology, with longer-term applications in crop improvement.",
+    "\"One of the biggest barriers to studying and improving plants is getting useful biomolecules inside their cells,\" says Gozde Demirer, the Clare Boothe Luce Assistant Professor of Chemical Engineering and corresponding author of a paper about the work that appears in the journal Nature Nanotechnology.",
+    "\"We constantly hear about groundbreaking technologies in human medicine, but this feels like a massive step to bridge the gap between those breakthroughs and the agricultural sector,\" says Mark G. Legendre, the lead author of the new paper and a chemical engineering graduate student in Demirer's lab. \"While our platform still requires more development before it might be deployed in the field, we're confident that we can eventually produce the first plant transformation system with cell-targeting and multifunctional capabilities.\"",
+    "Many existing approaches to genetic modification in plants introduce DNA instructions that tell cells to make a desired protein. Delivering the protein itself bypasses that step, which reduces the chance of unwanted DNA ending up in the plant's genome. With further development, the new approach using modified nanosyringes could also offer more control over when and where a molecular tool acts, whether the goal is a temporary change in cell behavior or a lasting change to the genome.",
+    "The Caltech team adapted an injection system originally found in bacteria from the genus Photorhabdus. In nature, these bacteria release tiny syringes that deliver toxins into insect cells. The bacterial tail fibers recognize and attach to a target cell. Then a surrounding sheath contracts, driving an inner tube through the cell membrane. The researchers engineered the system, produced it in laboratory bacteria, and applied the purified particles to plant cells.",
+    "To make the tail fibers attach to plant cells instead of insect cells, the scientists replaced their natural binding region with a short chain of amino acids called flg22. Many plants have an immune receptor called FLS2 (FLAGELLIN SENSITIVE 2) on the surface of their cells that recognizes flg22 as a sign of bacterial infection. So displaying flg22 on the nanosyringes gave the tail fibers a molecular attachment point on plant cells."
+   ],
+   "lede": "Understanding and improving plants often requires changing what happens inside their cells. Proteins control how cells grow, respond to stress, and carry out countless other tasks.",
+   "tags": [
+    "nutrition"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmY0bDk0MWM1OWY4dUp5VThIYkVsaUF1dWhSMFJZeTkzN21GRENiYUtObE4tdFNCU0FVS2R1TlFsbFdzd1VmSUhfRzZ0aUZiY0ZjNkVYVmRrVjBldmV6ZjZBZlp4V2tvTWpWWHNzTVF0WjJGcFJBdm5YOG1JcEZ4SXBBMWtQQTFyM01CYS1UN0JHQnRMOGZBcll3?oc=5",
+   "title": "Take regular breaks to reduce health risks of prolonged sitting",
+   "source": "Harvard",
+   "desk": "news",
+   "published": "2026-11-17T21:48:33+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "fitness"
+   ]
+  },
+  {
+   "url": "https://www.ucsf.edu/news/2026/11/432991/how-find-better-treatments-faster-rare-childhood-brain-tumors",
+   "title": "How to Find Better Treatments Faster for Rare Childhood Brain Tumors",
+   "source": "UCSF",
+   "desk": "news",
+   "published": "2026-11-17T18:35:54+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "description": "UCSF’s Pediatric Neuro-Oncology Consortium advances clinical trials and new treatments for rare childhood brain tumors through global research partnerships.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.ucsf.edu/sites/default/files/2026-11/DMG-Tumor-Full.jpg",
+   "paragraphs": [
+    "Brain tumors are the leading cause of cancer-related death among children in the U.S. And many pediatric brain tumors are so rare that no single hospital sees enough patients to answer critical questions or test promising treatments quickly.",
+    "UC San Francisco pediatric neuro-oncologists Sabine Mueller, MD, PhD, and Michael Prados, MD, wanted to change that. In 2012, after decades of limited progress against some of the most difficult-to-treat childhood brain tumors, they founded PNOC to bring researchers and institutions together to help accelerate the search for better treatments.",
+    "What began with six institutions has grown into a network of nearly 300 pediatric brain tumor specialists at 43 centers around the world. Together, PNOC researchers have conducted 40 clinical trials involving more than 1,400 pediatric patients.",
+    "Today, PNOC is leading international clinical trials — including work funded by the National Institutes of Health (NIH) — to find new ways to learn from patient data across institutions and develop new treatment approaches.",
+    "The associated PNOC Foundation, formed to support PNOC, helps fund the consortium’s research and clinical trials. Allyn and Bruce Campbell, whose son was successfully treated for a brain tumor at UCSF, established the foundation in 2013. The goal was to help create a model that could more quickly move discoveries from the lab to children, regardless of where they lived.",
+    "“We want every child with brain cancer to have access to the best treatments possible and not only survive but thrive,” said Allyn and Bruce Campbell. “With additional funding from foundations, industry, and governments, we can turn more research into real treatments for more children around the country and world.”",
+    "Fewer than 5,000 children are diagnosed with a brain tumor in the U.S. each year. For the rarest types, the patient population is small and widely dispersed across the country, making it difficult to enroll enough children in traditional clinical trials.",
+    "PNOC’s model brings together physicians, researchers, patients, and families across institutions and countries to study rare brain tumors that no single center can explore alone. PNOC is helping lead international trials that allow researchers to test several treatments using the same basic trial structure.",
+    "One of those studies focuses on diffuse midline glioma (DMG), a rare and aggressive pediatric brain tumor that develops in midline structures of the central nervous system, most commonly the brainstem. Fewer than 10% of brainstem located DMG of children survive two years after diagnosis.",
+    "In 2025, research from PNOC’s DMG working group, led by UCSF in collaboration with partners including the University of Michigan, contributed to the FDA’s accelerated approval of the first-of-its-kind treatment for DMG with a specific genetic mutation."
+   ],
+   "lede": "UCSF’s Pediatric Neuro-Oncology Consortium advances clinical trials and new treatments for rare childhood brain tumors through global research partnerships.",
+   "tags": [
+    "brain",
+    "longevity"
+   ],
+   "evidence": "Clinical trial"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2kwRjRqaXhOR3hRaUxFMnBfQm45d3Bnc3ZpZ1FDa1RUbXF6NzdxeEtNZnFvdjVXMWdQemhab0Z0TzRHSVZKS0JIdHd0NXFRRV92Rno0VGJqREl5bkpkdmliQ3VaRTI1RmwzWG93QldnanozQUdmX28yajFyTXdPdDg5eVJtWmVfeE95ZzFwSm1GMHFMYmwtZ1hRTVY1WloycUFJTThTd29EVV9VNXg3eVZB?oc=5",
+   "title": "Exploring the Relationship Between Religiosity and Financial Risk-Taking in Denmark",
+   "source": "Stanford",
+   "desk": "news",
+   "published": "2026-11-17T12:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "money_ai"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObEV6XzdvMTJNbmxkNGd1ZzhWc29LMUdzRFQ4T0pkTFU3djlSX3dkWGFDYlY4aVBYZGNRaGRMUGV0Z3FpblNqdnh1ZWZiR01JaVRnbHphRlVvZXpnYWVoUjRZMmViY2lBa2hjbW9aSkdlVEZwVExROU05N2JTUm5UVUlUZVNPd1cyc1JOaGhYTGVDOWVOUkJUblR0T1ppRF9EZ0tXTDVwWHpYUkxMWVVjN2huVVR0TkpiWVYtT3hvNmFYMUNMYU5wWjZwRTBDVTZD?oc=5",
+   "title": "Sharp Rise in Key Psychological Risk Factor May Help Explain Growing Anxiety Among Young Adults",
+   "source": "Columbia",
+   "desk": "news",
+   "published": "2026-11-17T04:51:42+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://news.harvard.edu/gazette/story/2026/11/a-growing-public-health-worry-prolonged-sitting/",
+   "title": "A growing public health worry: Prolonged sitting",
+   "source": "Harvard",
+   "desk": "news",
+   "published": "2026-11-16T19:24:30+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "cats": [
+    "Health",
+    "Cancer",
+    "Exercise",
+    "Heart Health",
+    "Research"
+   ],
+   "description": "Most Americans are sedentary 6-8 hours a day, elevating their risk for heart disease and cancer, say experts",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://news.harvard.edu/wp-content/uploads/2026/11/sitting_header.png",
+   "paragraphs": [
+    "Most American adults spend six to eight hours per day sitting. Health experts have taken note. The U.S. Department of Health and Human Services has recommended that people “move more and sit less” to help lower the risk of chronic diseases associated with sedentary behavior.",
+    "Over the past decade, a growing body of research has focused on the role of sedentary behavior — including sitting, reclining, or lying down — on poor health outcomes. Study after study points to the importance of avoiding prolonged sitting — more than eight hours a day — to reduce its adverse health effects.",
+    "The growing interest corresponds with changes in the workplace as computers have increasingly taken over tasks that used to get workers on their feet in the past, such as copying and scanning.",
+    "“Now, you can sit at your desk, and you don’t really have to move,” said I-Min Lee, a leading expert in physical activity and health whose research has helped shape public health guidelines. “We just don’t move around as much these days.”",
+    "Studies have shown that prolonged sitting is associated with worse cardiometabolic health, which over time can lead to a higher risk of diabetes, heart disease, and early death, said Lee. Sitting too much can reduce blood flow, weaken blood vessel function, and impair glucose and insulin processing, she added.",
+    "“Those who are more sedentary are at higher risk,” said Lee, a Harvard Medical School professor of medicine at Brigham and Women’s Hospital and a professor of epidemiology in the Harvard T.H. Chan School of Public Health. “Your risk climbs with more sitting. Once you get above seven to nine hours of sitting a day, the risk really goes up more steeply. The more you sit, the worse off you are.”",
+    "Even regular physical activity cannot completely counteract all the harmful effects of too much sitting, research has shown. A 2025 study, published in the Journal of the American College of Cardiology, examined the association between daily time spent sitting and future risk of four common cardiovascular diseases — atrial fibrillation, heart attack, heart failure, and death from cardiovascular causes — and whether the risk might be offset by physical activity.",
+    "The study found that individuals who sat more were more likely to develop those four cardiovascular diseases, said Ezimamaka Ajufo, an HMS clinical fellow in medicine at Brigham and Women’s Hospital and the study’s lead author. It also found that while physical activity can completely neutralize the risk of atrial fibrillation and heart attack, it can only partly offset the risk of heart failure and cardiovascular death.",
+    "“We found that sitting was associated with substantially higher risk of cardiovascular disease, heart failure, and cardiovascular death, in particular, when you sat for more than 10.6 hours per day,” said Ajufo. “Avoiding excessive sitting is important for cardiovascular health, especially heart failure and cardiovascular death risk, even if you’re physically active.”",
+    "Using statistical modeling, the study also showed that those risks could be substantially reduced by substituting sedentary time for other types of activity. Based on those findings, Ajufo supports taking breaks, or “activity snacks,” to reduce sitting."
+   ],
+   "lede": "Most American adults spend six to eight hours per day sitting. Health experts have taken note.",
+   "tags": [
+    "fitness",
+    "longevity"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://newsroom.ucla.edu/stories/womb-world-new-atlas-traces-development-key-human-brain-cells",
+   "title": "From womb to world: New atlas traces development of key human brain cells",
+   "source": "UCLA",
+   "desk": "news",
+   "published": "2026-11-16T19:14:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "description": "UCLA co-led study maps gene regulation in the developing basal ganglia and identifies cells linked to genetic risk for schizophrenia.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://s3.amazonaws.com/cms.ipressroom.com/173/files/202610/6af7b5a32cfac22bb11e9719_cell_image_luo_pr/cell_image_luo_pr_mid.jpg",
+   "paragraphs": [
+    "A research team co-led by UCLA has created a detailed map of how brain cells develop before and after birth, offering new insight into how the brain grows and how certain neurological and psychiatric conditions may emerge. Published in Cell, the study traces the development of cells in and around the basal ganglia, a group of brain structures that help control movement, habits, reward and behavior and are involved in conditions such as Parkinson’s disease, Huntington’s disease, addiction and schizophrenia.",
+    "The research is part of the National Institutes of Health’s BRAIN Initiative Cell Atlas Network, a collaborative effort among neuroscientists, computational biologists and software engineers that aims to create a comprehensive atlas of the human brain to help scientists understand how the brain develops and which cells may be involved in neurological and psychiatric conditions.",
+    "“Genetic studies can tell us that particular regions of the genome are associated with disease, but they often can’t tell us which cell type is affected or when during development that genetic risk becomes relevant,” said co-senior author Chongyuan Luo, an associate professor of human genetics at the David Geffen School of Medicine at UCLA and member of the UCLA Broad Stem Cell Research Center. “This atlas gives us that cellular and developmental context.”",
+    "That added layer of information can help researchers connect genetic risk for disease to particular cell types and stages of brain development. Tracking where brain cells come from and how they change as they mature has been a big challenge, as some begin in temporary structures that largely disappear around birth. Researchers addressed this by examining those structures directly, following cells from their starting points to where they eventually settle, providing a much clearer picture of how different brain cells develop over time.",
+    "Using a technology co-developed by Luo’s lab, researchers analyzed over 155,000 cell nuclei from nine developing human brains, collecting data on DNA regulation from mid-pregnancy to seven months after birth. This analysis, combined with earlier data, included nearly 287,000 cells. Their research showed how cells in the human basal ganglia develop from midpregnancy through infancy, with different cell populations maturing on different timelines and undergoing major changes in how their DNA is regulated and organized.",
+    "By comparing the atlas with genetic studies of psychiatric disorders, researchers also found that spiny projection neurons — a major type of neuron in the basal ganglia — showed especially strong overlap with genetic variants associated with schizophrenia."
+   ],
+   "lede": "UCLA co-led study maps gene regulation in the developing basal ganglia and identifies cells linked to genetic risk for schizophrenia.",
+   "tags": [
+    "brain"
+   ],
+   "evidence": "Lab study"
+  },
+  {
+   "url": "https://newsroom.ucla.edu/releases/can-scent-sharpen-memory-research-suggests-complicated-answer",
+   "title": "Can a scent really sharpen your memory? UCLA research suggests the answer is complicated",
+   "source": "UCLA",
+   "desk": "news",
+   "published": "2026-11-13T17:57:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "description": "The findings from the study suggest that novelty might be more important than the scent itself, especially as people age.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://s3.amazonaws.com/cms.ipressroom.com/173/files/202610/6af650612cfac22bb1135b94_leonard-cotte-unsplash/leonard-cotte-unsplash_mid.jpg",
+   "paragraphs": [
+    "The sense of smell shares an intimate but mysterious connection with memory. We know that past experiences can flash vividly to mind if we smell a scent that accompanied them. This has led to claims that aromatherapy can enhance memory or even diminish cognitive decline. But the mechanisms by which the brain associates experience with scent are still being unraveled, and there is mixed scientific evidence to back up such claims.",
+    "New research from UCLA suggests the answer is more complicated than you might think. The researchers found that young and older adults who completed memory tasks in rooms with lavender essential oil diffused did not perform significantly better than people in unscented rooms. But there was a catch: Older adults who encountered the scent during the first learning phase performed better than people who encountered it during the second. This suggests that novelty plays a role in binding the scent to experience, especially as we age. Perhaps it’s not the type of scent, but the newness of it that boosts memory.",
+    "The finding, published in Frontiers in Aging Neuroscience, adds to what scientists are learning about the relationship between the sense of smell and Alzheimer’s disease.",
+    "“There’s been interesting work linking age-related olfactory dysfunction to Alzheimer’s disease, which has sparked interest in using changes in olfaction as an early detection tool,” said UCLA neuroscientist and corresponding author Stephanie Leal. “We designed our study to think about how olfactory cues might be able to modify memory in the context of olfactory dysfunction.”",
+    "Leal and colleagues at Rice University recruited young and older volunteers, all of whom were healthy and had no signs of Alzheimer’s. They used a standard olfaction test to establish baseline olfactory functioning. Half the participants entered a room already scented by a lavender essential oil diffuser. Lavender was chosen because it is a common scent many people are already familiar with and may find pleasant or unpleasant. The other half entered an unscented room. The volunteers then looked at two sets of images of everyday household objects on a computer screen, such as a blow dryer or tomato, that varied in the number of overlapping features they had. Participants who viewed the first block in the odor condition viewed the second block of images in the non-odor condition, and vice versa.",
+    "After a delay, the researchers showed participants images that were identical to, slightly different from, or entirely different from the ones they had previously seen. During this recall portion of the experiment, many of the objects were slightly altered. For instance, a blow dryer that was red in the learning phase was blue in the recall phase, and participants had to remember whether they had seen the object before but also whether it was identical to the image they had previously viewed. This was designed to test general recall — the memory of seeing a type of object — as well as detail memory, such as the object’s color. They also asked other questions, such as how pleasant participants found the scent."
+   ],
+   "lede": "The findings from the study suggest that novelty might be more important than the scent itself, especially as people age.",
+   "tags": [
+    "brain"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://www.cam.ac.uk/research/news/heatwaves-are-threatening-europes-power-supplies-researchers-warn",
+   "title": "Heatwaves are threatening Europe’s power supplies, researchers warn",
+   "source": "University of Cambridge",
+   "desk": "news",
+   "published": "2026-11-13T15:59:37+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "description": "After another punishing European summer, electricity suppliers are being warned that climate change is placing power grids under increasing strain, and at possible risk of collapse.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.cam.ac.ukGettyImages-1461010087 dp.jpg",
+   "paragraphs": [
+    "An international team of researchers have shown how heatwaves impact European countries’ ability to generate and supply power, and how they pose an increasing threat to vital national infrastructure.",
+    "The team, from the University of Cambridge, City University of Hong Kong, and The Chinese University of Hong Kong (Shenzhen), have developed the first open-source toolkit to help national operators understand the different ways that high heat affects their power grid.",
+    "According to the researchers’ model simulations, France, Spain and Italy are at highest risk of supply bottlenecks and possible grid failure. Germany and the UK were comparatively more resilient, although the researchers say that the increasing frequency and severity of heatwaves also place their grids at risk of failure, especially after Earth has just experienced its hottest August on record.",
+    "“We hope power providers will use these tools to identify vulnerabilities in their systems and take necessary action to stop them collapsing during future heatwaves,” said co-corresponding author Professor Srinivasan Keshav from Cambridge’s Department of Computer Science and Technology.",
+    "The results, reported in the journal Nature Energy, are based on a long-term study of the heatwaves of 2019, 2022 and 2024. The researchers used these in their exploration of the interlinked ways that heatwaves put strain on electricity grids.",
+    "Heatwaves increase demand for cooling, leading to spikes in electricity consumption. Meanwhile, total power supply falls because, as heat rises, solar panels lose efficiency, and both conventional and nuclear output are cut to prevent overheating. The same high pressure patterns that bring hot weather often also bring low winds, causing wind farms to falter, which further exacerbates the problem.",
+    "Power lines, too, must have their load reduced to stop them hitting their heat limits, and are at higher risk of breaking as they sag in the heat. When taken together, these connected issues can lead to supply bottlenecks and what is called load shedding: intentional power cuts to reduce demand and protect power systems.",
+    "While these are known problems, the researchers say that conventional models and analyses to date have revealed only parts of the problem and only at a high computational cost. So, they developed their own algorithms to try and capture the full picture of what is going on with a lower computational burden.",
+    "“Once you combine all the factors together — demand increase, generator capacity decrease, transmission capacity decrease — you can discover hidden bottleneck regions that existing methods can't find. I think that's the most surprising outcome of our simulations,” said lead author Professor Enming Liang from City University of Hong Kong."
+   ],
+   "lede": "After another punishing European summer, electricity suppliers are being warned that climate change is placing power grids under increasing strain, and at possible risk of collapse.",
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEQ1UGVWbTJud1dKZkRNbTI3VHVGeVdna1ZWNHJFb2ZacWpCYWNNbGlUVDJ4VHlNcW5JOW5tTHZCY1MxRGFwSTZhWXhGeVdGT2hfbzlLX3hXU1YtUHBpMFREeXNrMy1DUlIxbWRINWowYWFzdUxfOUlrVUw2ZXduX1BDQnZZLURQd281OV82SmdzcmxFdHFKVFExSGtJUQ?oc=5",
+   "title": "UChicago study measures impact of pandemic stress on gun violence spike",
+   "source": "University of Chicago",
+   "desk": "news",
+   "published": "2026-11-13T15:33:48+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWw0bkZENV9nT1pZZHBTR1FYYTZEaEhoQXM5OTE0OTBMYjhURkwzUjFmXzFXSkhRdEU2VXk4MDBtM1VCVUdpOUJDVTU0T1ZnTkZGUERLeTM3S2M2dVJ5bVdzUUNscEJsWnFMMlB1TGhLY3F4TURqQmtodGRQUkZQS1owUEQ3dmhjMjVZcVJkWFFTYnZDWnhQY1lhYkxlc1VBdnc4?oc=5",
+   "title": "Researchers Uncover Distinct Zones, Age-Associated Changes in Key Brain Area",
+   "source": "Harvard",
+   "desk": "news",
+   "published": "2026-11-13T12:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
+   ]
+  },
+  {
+   "url": "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113",
+   "title": "Waves that clear waste from the brain during sleep are impaired in older adults",
+   "source": "MIT",
+   "desk": "news",
+   "published": "2026-11-13T10:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "cats": [
+    "Research",
+    "Aging",
+    "Sleep",
+    "Health sciences and technology",
+    "Electrical engineering and computer science (EECS)",
+    "Institute for Medical Engineering and Science (IMES)",
+    "Picower Institute",
+    "School of Engineering"
+   ],
+   "description": "MIT researchers discovered that waves of cerebrospinal fluid (CSF), which help remove debris from the brain during sleep, are significantly reduced in older adults.",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Sleep-Aging-01-press.jpg?itok=jGTMAvk9",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "As people age, they may sleep for shorter periods and wake up more frequently during the night. In addition to those disruptions, MIT researchers have now discovered that a process responsible for flushing waste from the brain during sleep is commonly impaired in older people.",
+    "The researchers found that waves of cerebrospinal fluid (CSF), which help remove debris from the brain, are significantly reduced in older adults. This impairment is linked to a decrease in the slow brain waves that normally occur during deep sleep, the researchers found, and is not just a result of getting less sleep.",
+    "The researchers now hope to explore whether the disruption of CSF flow increases the risk of neurodegenerative disorders, and if any of the sleep patterns they observed might offer a way to predict an individual’s risk.",
+    "“We know that people age really differently. Some people age very successfully with great cognitive outcomes, and other people develop cognitive decline. If we can figure out who has great trajectories of aging and what are the factors that are associated with that, we might be able to use that to predict future outcomes,” says Laura Lewis, the Athinoula A. Martinos Associate Professor of Electrical Engineering and Computer Science, a member of MIT’s Institute for Medical Engineering and Science and the Research Laboratory of Electronics, and an associate member of the Picower Institute for Learning and Memory.",
+    "Her lab also plans to investigate whether there might be any interventions that could improve CSF flow in older adults.",
+    "Lewis is the senior author of the study, which appears today in Nature Aging. Sydney Bailes, a postdoc in the MIT Laboratory for Information and Decision Systems, and Stephanie Williams, a former visiting student at MIT who earned her PhD from Boston University in 2026, are the lead authors of the paper.",
+    "During the deepest stages of sleep, also called non-REM sleep, high-amplitude, low-frequency waves contribute to physical recovery, memory consolidation, and many other functions. In a 2019 study, Lewis found that these slow waves are also critical for generating waves of CSF that help flush waste from the brain.",
+    "That finding led her to wonder whether reductions in slow waves in older people might also reduce CSF flow. Previous studies of aging have yielded conflicting evidence; some found that CSF flow goes down in older adults, while others found it goes up, but these studies did not monitor flow during sleep.",
+    "In the latest study, the researchers recruited volunteers in two age groups: 18 to 39 and 60 to 84. The tests lasted for about two hours and began late at night, so that participants would be sleepy.",
+    "The researchers used traditional fMRI to measure participants’ blood flow in the brain, along with a modified MRI technique, developed by Lewis, that measures CSF flow. While the subjects were in the scanner, the researchers also measured their brain waves using EEG."
+   ],
+   "lede": "MIT researchers discovered that waves of cerebrospinal fluid (CSF), which help remove debris from the brain during sleep, are significantly reduced in older adults.",
+   "tags": [
+    "brain",
+    "sleep"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXZFWmctYzA0aXdQLUtDZ1E1dTZnSVJScFVhaEZyU3hyMGZpRnZaZDMxQmsteUk3X0FXTjkweHhGS3BRVFpWUlNRQU1MbGRSeXRaUm0wWjRIV2FfdkZYUUpoaFFBU3RpUl94XzFlcXdDLXlDa0IzaVBUdGVTVUJkR2dDeUgxdlVMaE1ZaWYwS3FncElJZUpjcWVKUlBjbEljdzVlM3JQLUxnWlp0?oc=5",
+   "title": "New atlas catalogs 25 million cells in a circuit linked to brain disorders",
+   "source": "Princeton",
+   "desk": "news",
+   "published": "2026-11-12T17:40:05+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa01NU0wtM0hHdFdvMmwzMmE1MlI4eDB0N19vNV9qNHd3R0F4N1NPMHpYRXBrM1p2OUtJRHEzbTZQQkRocmxJWmIxUVpZQVZ5MG1VVUFnZGI3OXNJQzJudEI2VVFjNlFqWFNhZmJzOGlqNTJGeDExVTBkWW9rUmcxVWw3cGQ4WTBRTThfTGtsWlRxVjNpWmVTcA?oc=5",
+   "title": "Scientists map millions of cells in the brain’s habit and reward center",
+   "source": "University of Pennsylvania",
+   "desk": "news",
+   "published": "2026-11-12T12:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3JTb1VwWWFOSzMtNW83aDZDazJZWEZtT0t6RDRTWFM2R2QzdlRLRE04NUhQVkhLN2k5V2xWZ2J6Q2tsdVNkRnF0ZE13UDRRT09fLXFNemJYSlpNdU96eWthSE5fZllIRHhvb19kdFA5ZVpVUUFhZnhMYW1NR0JnZFp6ZmdiOGFhQmphOWpKcFE4TVFKRWphVTliTVdVUWpLNXFZdElpVUxNOEY5NFlacnVyODctdm4yVVUwWnI3YkRfa2s?oc=5",
+   "title": "Cancer Vaccines Show Promise for Treatment and Prevention",
+   "source": "Johns Hopkins",
+   "desk": "news",
+   "published": "2026-11-12T00:52:26+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "longevity"
+   ]
+  },
+  {
+   "url": "https://www.cam.ac.uk/research/news/fossil-record-in-stored-blood-samples-lets-scientists-trace-leukaemia-back-decades-before-diagnosis",
+   "title": "‘Fossil record’ in stored blood samples lets scientists trace leukaemia back decades before diagnosis",
+   "source": "University of Cambridge",
+   "desk": "news",
+   "published": "2026-11-11T16:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "description": "Scientists have reconstructed how acute myeloid leukaemia (AML) develops over the decades before diagnosis, showing that in two-thirds of cases the first cancer-driving mutation had been acquired before the age of 20 – more than 50 years before diagnosis.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.cam.ac.ukGettyImages-2300852280.jpg",
+   "paragraphs": [
+    "Serial blood samples are a fossil record of the blood's evolution. They let us go back in time and reconstruct when each mutation arose and how fast it grew",
+    "The discovery could help predict whether an individual will develop the disease years – or even decades – before symptoms arise, raising the possibility of preventing the disease before it develops.",
+    "In research published today in Nature, a team at the University of Cambridge and University College London (UCL) used blood samples collected annually, some dating back 15 years before diagnosis, as a ‘fossil record’ of the disease's development, tracing it step by step. Using ultra-sensitive DNA sequencing and mathematical modelling, they estimated when each mutation arose and how quickly the affected cells multiplied and competed with other blood cells in the years prior to AML diagnosis.",
+    "AML is an aggressive blood cancer affecting around 2,700 people in the UK each year. Only around one in six survive five years after diagnosis. Many healthy older people carry blood cells with mutations also found in leukaemia, a condition known as clonal haematopoiesis, but only a small proportion develop AML. What has not been clear is why, because the process has never been tracked year by year in the run-up to diagnosis.",
+    "The researchers used samples from the UK Collaborative Trial of Ovarian Cancer Screening (UKCTOCS), in which around 50,000 women gave a blood sample every year for up to 11 years. The team studied 47 women who later developed AML, at an average age of 72, alongside matched samples from 46 women who stayed blood cancer-free.",
+    "This first mutation, acquired before age 20 in two-thirds of the women who developed AML, was followed by decades of slow growth – cells carrying it took years to double in number. Each additional mutation increased their growth rate around two- to three-fold, with cells carrying four cancer-driving mutations doubling in a matter of weeks.",
+    "The growth of these groups of cells, known as clones, proved remarkably predictable. Once a clone carrying a cancer-driving mutation was established, it expanded at a steady rate, slowing only when it ran out of room or was overtaken by a faster-growing clone. In practice, this means a clone's growth rate, measured from a few blood samples today, can be used to estimate how large that clone may become years and even decades into the future.",
+    "In at least a third of the AML cases, a clone had come to dominate the blood years before diagnosis, a phenomenon known as a ‘somatic sweep’. No such sweeps were seen in the women who remained blood cancer-free. The team confirmed the link with AML risk using UK Biobank data, finding that people with these sweeps were at greatly increased risk of developing the disease. The findings highlight the importance of recognising this potential warning sign, which standard genetic analysis often overlooks by mistaking these mutations for inherited variants."
+   ],
+   "lede": "Scientists have reconstructed how acute myeloid leukaemia (AML) develops over the decades before diagnosis, showing that in two-thirds of cases the first cancer-driving mutation had been acquired before the age of 20 –…",
+   "tags": [
+    "longevity"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuaHEtaHg3dG92OXNOMElpTVM3WWdvM0EyZGFrSjRNcWt2OEl3QW9pREtScDdoYmM3UjdvYWZBc0gycFc5cHR3NU1wa0RscU9XRGh1dzBNeGZ0WTE0dVhscy1xczNGUnV0S1Z3ZFozVzFMX2c?oc=5",
+   "title": "Three brain biotypes found in Stanford Medicine-led study of kids with ADHD, anxiety",
+   "source": "Stanford",
+   "desk": "news",
+   "published": "2026-11-10T08:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
+   ]
+  },
+  {
+   "url": "https://www.cam.ac.uk/research/news/over-9-million-lives-could-be-saved-every-year-if-countries-met-who-air-quality-guidelines",
+   "title": "Over 9 million lives could be saved every year if countries met WHO air quality guidelines",
+   "source": "University of Cambridge",
+   "desk": "news",
+   "published": "2026-11-10T00:01:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "description": "Meeting the World Health Organization’s recommended annual guidelines for air pollution resulting from fine particulate matter and nitrogen dioxide has the potential to save more than 9 million lives a year in low- and middle-income countries, say University of Cambridge researchers.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.cam.ac.ukphotoholgic-wZTiKB6rQYY-unsplash.jpg",
+   "paragraphs": [
+    "Meeting the WHO’s air quality guideline values will not be straightforward, but low- and middle-income countries have a critical opportunity to shape healthier futures as their populations grow and their cities expand",
+    "It would also bring substantial savings from reduced illness, including lower healthcare costs and increased productivity as individuals take less time off work resulting from preventable illness.",
+    "Outdoor air pollution is the largest environmental threat to human health worldwide. It has been linked to increases in heart and lung diseases, including coronary heart disease, stroke, asthma, chronic obstructive pulmonary disease, and dementia. As well as the burden on individuals and their families, these diseases also have a substantial economic toll in terms of healthcare costs and lost productivity.",
+    "Because of the growing body of evidence of the impact of poor air quality, in 2021 the World Health Organization (WHO) revised its air quality guideline values for recommended maximum levels for several pollutants, including fine particulate matter (PM 2.5) and nitrogen dioxide (NO 2 ).",
+    "PM 2.5 is particulate matter with a diameter of 2.5 microns or less, tiny particles small enough that they can be inhaled deep into the lungs. These particles come from several sources, including vehicle emissions, power plants, industrial processes, wood burning stoves and fireplaces, and construction dust. They also form in the atmosphere because of complex chemical reactions involving other pollutants such as sulphur dioxide and nitrogen oxides.",
+    "Nitrogen dioxide is one of the key pollutants that arise from burning fossil fuels. It is found in vehicle exhaust emissions, especially from diesel vehicles, and industrial emissions, as well as those from gas stoves and heaters.",
+    "The problem disproportionately affects low- and middle-income countries (LMICs), where air quality has generally deteriorated in line with large-scale urbanisation, economic development, and increasing use of cars and motor vehicles.",
+    "In a paper published today in Environment International, researchers at IMS Epidemiology, University of Cambridge, explored the potential health and economic benefits of improving air quality in 136 LMICs, focusing on PM 2.5 and NO 2.",
+    "The team combined detailed data from air pollution, population size and health with published evidence on the links between pollution, mortality and disease. They used computer modelling to estimate how deaths and new cases of illnesses might change if levels of particular pollutants fell to the WHO’s recommended air quality guidelines values and the more relaxed WHO interim targets. They also estimated the economic value of reducing the risk of premature death, alongside potential savings in healthcare and productivity costs."
+   ],
+   "lede": "Meeting the World Health Organization’s recommended annual guidelines for air pollution resulting from fine particulate matter and nitrogen dioxide has the potential to save more than 9 million lives a year in low- and…",
+   "tags": [
+    "environment"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUxsdTJxeUFJVE9YdmZrS2dyTVEyZGNReXFGNk4xV29LOVc4Q2dUVkswSEJmbE9MSlBhZi00bDdhM2l5ZHVsbC1jZ0VubzczNkNTc2RRSmE3OFByeGhxMmwyNGQtd0ZBZm1oaXQ3clAzRkFZaGNvaXp5dVdfbXRYTDdqMmpMeXUtdV9GQi1vcTRzeFJPZUQ3VzhCOS1sOW9D?oc=5",
+   "title": "New placenta-on-a-chip allows Penn engineers to study environmental toxins",
+   "source": "University of Pennsylvania",
+   "desk": "news",
+   "published": "2026-11-06T08:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "environment"
+   ]
+  },
+  {
+   "url": "https://news.harvard.edu/gazette/story/2026/11/unique-opportunity-in-study-of-colorectal-cancer/",
+   "title": "‘Unique opportunity’ in study of colorectal cancer",
+   "source": "Harvard",
+   "desk": "news",
+   "published": "2026-11-05T22:11:01+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "cats": [
+    "Health",
+    "Faculty",
+    "Health Care",
+    "Research"
+   ],
+   "description": "Dental medicine researchers will use statewide biobank to study link between microorganisms in mouth and disease.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://news.harvard.edu/wp-content/uploads/2026/11/colon.png",
+   "paragraphs": [
+    "Growing scientific evidence points to a potential role for specific oral microorganisms in the development and progression of colorectal cancer, yet relatively few studies have been able to examine oral, stool, and tumor samples collected from the same patients.",
+    "Now, researchers at Harvard School of Dental Medicine (HSDM) will have an opportunity to investigate how microorganisms originating in the mouth may interact with the gut and contribute to disease through a statewide biobank initiative supported by the Massachusetts Life Sciences Center.",
+    "The center is funding 13 projects at 11 academic medical centers and research institutions, to expand access to patient biospecimens and associated clinical data.",
+    "HSDM is among institutions participating in the colorectal cancer effort, providing researchers in the Feres Lab with access to a resource that could help answer questions that have been difficult to study using conventional datasets.",
+    "“This gives us a unique opportunity to advance our understanding of the oral-gut microbiome axis in colorectal cancer,” said Magda Feres, professor and chair of Oral Medicine, Infection & Immunity, who leads the Feres Lab at HSDM. “By integrating oral, stool, and tumor samples from the same patients with state-of-the-art multi-omics analyses and machine learning, we can move closer to breakthroughs in early diagnosis and prevention. We are thrilled to be part of this initiative.”",
+    "“By integrating oral, stool, and tumor samples from the same patients with state-of-the-art multi-omics analyses and machine learning, we can move closer to breakthroughs in early diagnosis and prevention.”",
+    "The project builds on a growing area of research examining connections between the oral microbiome — the community of microorganisms that inhabit the mouth — and diseases elsewhere in the body. Certain oral bacteria have been detected in colorectal tumors, raising questions about whether changes in the oral microbiome or the migration of specific microorganisms from the mouth to the gastrointestinal tract could contribute to the development or progression of CRC.",
+    "Determining the significance of those associations, however, requires researchers to look across different biological environments within the same individual. By analyzing matched oral, stool, and tumor specimens, the HSDM team will be able to investigate microbial and molecular patterns across the mouth, gut, and tumor rather than studying each site in isolation.",
+    "The researchers plan to apply multi-omics approaches to characterize the biological information contained in the samples and use machine learning to identify combinations of microbial and molecular features associated with colorectal cancer. Ultimately, those analyses could help researchers identify biomarkers that distinguish patients with colorectal cancer or potentially signal disease at an earlier stage.",
+    "“The rich data that can be collected here, combined with state-of-the-art methods to study the oral-gut microbiome and novel machine-learning predictive models, represent one of the best opportunities to date to identify microbial signatures associated with colorectal cancer and potentially inform future prevention strategies,”Feres said."
+   ],
+   "lede": "Dental medicine researchers will use statewide biobank to study link between microorganisms in mouth and disease.",
+   "tags": [
+    "longevity"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeVpUN1hMU3dGLV9yaDhXT3dzcEZJTDBVTzRBVTl2THpoVlVMWm5aMXVVaUM0Z2N0UFdLMDFMQ0lvYVVzNWJrOHpJdlNkWjhhc25XYWFyWmlMZDBVN3pGdk1BNWJlMEhWNnlZRGpST1ZwZjhfYWJWNGxUT3hoSW0tNGNyanRiaFhaQ3FKc3FsaXdsLTNZeEZ2UDhySjlGMXE1SEhINE9xUmQ5RVZQc3hpWS1jUkk2bnpTMEx0RXdlU3pkeWt1LWEzSHJuYnpWcFM0Qk8wSWhjZGN3alZaX2VwNVhyWlVHSUhl?oc=5",
+   "title": "Topoisomerases, chromatin biology and cancer",
+   "source": "Karolinska Institutet",
+   "desk": "news",
+   "published": "2026-11-05T08:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "longevity"
+   ]
+  },
+  {
+   "url": "https://www.washington.edu/news/2026/11/04/ai-models-are-biased-against-certain-accents/",
+   "title": "Leading AI models are biased against certain accents when scoring interviews, presentations and tests",
+   "source": "University of Washington",
+   "desk": "news",
+   "published": "2026-11-04T16:49:51+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "cats": [
+    "Engineering",
+    "News releases",
+    "Research",
+    "Technology",
+    "artificial intelligence",
+    "College of Engineering",
+    "Orevaoghene Ahia",
+    "Paul G. Allen School of Computer Science & Engineering"
+   ],
+   "description": "UW researchers investigated how state-of-the-art language models, including two from Google and one from OpenAI, evaluated human speech in job interviews, confe",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://cdn.uw.edu/wp-content/uploads/sites/6/2026/10/26104729/iStock-2211750599.jpg",
+   "paragraphs": [
+    "Artificial intelligence models replicate, and sometimes amplify, all sorts of human biases. In the last few years, University of Washington researchers have found AI has erased female characters from kids’ stories, favored job applicants of certain races and genders, and swayed human decisions.",
+    "Much bias research has focused on text and visuals. Yet people speak to AI models with increasing regularity, and AI tools are now used to screen job applicants and score oral presentations. Now, a UW-led team of researchers found that state-of-the-art AI models were biased against speakers with certain accents.",
+    "The team investigated how state-of-the-art multimodal language models, including two from Google and one from OpenAI, evaluated human speech in job interviews, conference presentations and spoken English proficiency tests. The models scored responses from voices speaking English with five different accents: American, British, Chinese, Indian and Nigerian. The AI models generally ranked Chinese and Nigerian accents the lowest, Indian in the middle, and American and British the highest. Even when the content was exactly the same and the models could accurately transcribe the speech, the systems ranked both the delivery and content higher for the American and British speakers.",
+    "The team presented its research Oct. 25 at the Conference on Empirical Methods in Natural Language Processing in Budapest, Hungary.",
+    "“People are now trusting audio AI models as sort of third-party evaluators, for hiring, for oral exams in education, for certain English tests in immigration — contexts where fairness really matters,” said co-lead author Orevaoghene Ahia, a UW doctoral student in the Paul G. Allen School of Computer Science & Engineering. “So I was curious how models perceive speech from people who don’t speak with so-called ‘standard’ American accents.”",
+    "The team chose accents from five regions that have large populations of English speakers and where the researchers also had connections. Researchers then tested the accents in three different domains — hiring, presentations and English tests. To study differences at scale, they had AI voices from ElevenLabs read the same pieces of text to the AI models being tested. They validated the results with 52 human speakers from the five countries.",
+    "After some testing, the team focused the study on three proprietary AI models — Google’s Gemini 2.5 Pro and Gemini 2.5 Flash, and OpenAI’s GPT-Audio 1.5 — and one open-source model, Qwen 3 Omni.",
+    "“We wanted to check these state-of-the-art models,” said senior author Yulia Tsvetkov, a UW associate professor in the Allen School, “because these are what companies would deploy in a real-world setting.”",
+    "The team had the AI voices read various scripts — interview responses, a class presentation, a conference presentation and English proficiency test responses — with the five different accents in both male and female voices. The four AI models then rated the responses on a scale of one to seven for both delivery and content, and gave a brief explanation for their scores."
+   ],
+   "lede": "Artificial intelligence models replicate, and sometimes amplify, all sorts of human biases.",
+   "tags": [
+    "money_ai"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://news.harvard.edu/gazette/story/2026/11/about-half-of-drinkers-on-glp-1s-say-they-imbibed-less/",
+   "title": "About half of drinkers on GLP-1s say they imbibed less",
+   "source": "Harvard",
+   "desk": "news",
+   "published": "2026-11-02T21:08:33+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "cats": [
+    "Health",
+    "Addiction",
+    "Health Care",
+    "Research"
+   ],
+   "description": "Study was sparked by reports of unexpected side effect amid skyrocketing popularity of drug for diabetes and weight loss.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://news.harvard.edu/wp-content/uploads/2026/11/drinks.png",
+   "paragraphs": [
+    "Nearly half of drinkers who take GLP-1 medications have reported declines in consumption, with the effect higher among those at risk of unhealthy alcohol use, a new Harvard study shows.",
+    "The work, published in the journal JAMA Psychiatry in October, explores an unexpected and head-turning side effect of GLP-1s used to treat diabetes and obesity.",
+    "The drugs’ effectiveness, particularly for weight loss, have caused them to skyrocket in popularity and, as use spread, anecdotal evidence emerged about improvements in heart health and mental well-being, and reduced cravings for alcohol among patients.",
+    "Researchers from Harvard Medical School and McLean Hospital worked on the survey with collaborators from Brown, Duke, and Brandeis universities and Boston-based RAND Corporation.",
+    "The study grew out of work by senior author Haiden Huskamp, HMS’ Henry J. Kaiser Professor of Health Care Policy, and co-author Alisa Busch, HMS professor of psychiatry at McLean Hospital and associate professor of health care policy at HMS, on the underuse of medications to treat alcohol use disorder.",
+    "Anti-abuse medications have existed for decades — disulfiram, the oldest, has been around since the 1940s. But their use was vanishingly small.",
+    "Just 3 percent to 5 percent of those with a past alcohol abuse disorder reported using the drugs in a recent national survey, and only 10 percent of those seeking treatment have received the approved drugs.",
+    "“The national surveys show that far and away most people with alcohol-use disorder receive no treatment, period,” Busch said. “We have this evidence-based treatment that’s efficacious, so what are the patient characteristics, the clinician characteristics associated with being prescribed or not prescribed these medications?”",
+    "Busch, Huskamp, and their team took notice as accounts emerged about reduced cravings to drink among patients on GLP-1s. As reports multiplied and their effect on individuals became clearer, the two wanted to better understand the phenomenon on a population level.",
+    "“We wanted to really understand patient perception of this issue, and a large share of people taking GLP-1s are saying they’re drinking less,” Huskamp said."
+   ],
+   "lede": "Study was sparked by reports of unexpected side effect amid skyrocketing popularity of drug for diabetes and weight loss.",
+   "tags": [
+    "longevity"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQXBYazVkczhMZlNhUmFPZ0hXWlp2ZDhscUFGLWs3dDJ3MEdXRkFGbEhvZUZfa2dnUjNPaEYteFBfaTFucmNxVzRRZHNDTEptaWE0Q1JyRzUwVUdRV19KT05kMm5wRWkzR0tVYVNBdjJwWFdOZU9tTXZ0OTJIYV9fWV9VakJzb3BVUDdtTktCMXFrVGVGbWJZRzM4eGhJYWpkN0hHeTJEZTg?oc=5",
+   "title": "Rising rates of colorectal cancer found in nearly all age groups",
+   "source": "University of Chicago",
+   "desk": "news",
+   "published": "2026-10-27T07:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "longevity"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUjZJVHRhd0U1dnBienh4UHQ1WnBhR1NBYkNrQXlOVnEwSTlNRDlIWmp2b2U5WVNCT3dRTDI3aVVCSnhZdTNrTjNBRUZZZWtfV2lnNzh1NUF5dG9zWjVMemstVm1lYXlrMVBHVVBFWWNMbzc3RTRHdEpJVDFIaVcxU3dGeGI0aDZCcEFUQURCTjFBM1Yy?oc=5",
+   "title": "Frequent, Unintended Napping Tied to Higher Dementia Risk",
+   "source": "Johns Hopkins",
+   "desk": "news",
+   "published": "2026-10-13T07:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain",
+    "sleep"
+   ]
+  },
+  {
+   "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/08/social-brain-research-offers-new-insights-into-how-strangers-become-friends.html",
+   "title": "Social brain research offers new insights into how strangers become friends",
+   "source": "ETH Zurich",
+   "desk": "news",
+   "published": "2026-08-20T18:00:00+00:00",
+   "seen": "2026-11-19T13:55:25+00:00",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://ethz.ch/en/news-and-events/eth-news/news/2026/08/social-brain-research-offers-new-insights-into-how-strangers-become-friends/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.1468453257.jpg",
+   "description": "The closer two people grow, the more alike their brains work – or so the assumption goes. Two ETH Zurich studies challenge this idea by examining the brain activity of younger and older adults who drew together over several weeks. Despite growing closer, the similarity of their brain activity did not simply increase.",
+   "paragraphs": [
+    "With the help of portable brain sensors, ETH Zurich researchers tracked, week by week, how the brain activity of two people changed as they got to know one another. This is the first study in this research field to include older adults aged between 70 and 85 years.",
+    "When younger and older adults draw shared pictures together over several weeks, they get to know each other better. Their brain activity, however, does not necessarily become more similar as a result.",
+    "The results suggest that the extent to which two people’s brain activity becomes more similar depends on how fluently they can predict and anticipate each other’s behaviour.",
+    "What happens in the brain when two people engage in joint creative activity and build a new relationship with one another in the process? ETH cognitive scientist, Ryssa Moffat investigated this question. She is a postdoctoral researcher at the Social Brain Sciences Lab within the Chair of Cognitive and Social Neuroscience.",
+    "Her study has now been published in the journal PLOS Biology. The setting was as follows: over a period of six weeks, 61 pairs met six times to engage in drawing together. The participants came from a younger age group (18 to 35 years) and an older age group (70 to 85 years) and were divided into 31 cross-generational pairs and 30 pairs of the same age.",
+    "At the outset, the participants did not know each other and first had to become familiar with one another. At each session, the pairs first drew individually on separate sheets of paper, then drew together twice on a single sheet of paper. They were free to decide whether to take turns or draw simultaneously. They were allowed to converse throughout the session but were instructed to remain silent while drawing.",
+    "At each session, the researchers recorded participants’ brain activity with the help of wearable brain sensors. This enabled the researchers to investigate how the process of getting to know one another was reflected in the pairs’ brain activity. At the same time, the mobile sensors ensured that participants could move and respond to each other naturally, as in everyday life, without distorting the recorded signals.",
+    "The similarity of the brain activity was particularly crucial for the ETH researchers: to what extent do the brains of two people synchronise during an encounter? And how does this synchronisation change over the course of repeated sessions? The focus was not on whether a pattern of brain activity corresponds to a specific subjective feeling such as liking or irritation.",
+    "Moffat was interested in what researchers call ‘inter-brain synchrony’: when people perform a shared task such as drawing, each person's brain reacts continuously to the other person's actions – and the brains can be said to be 'synchronised' when similar changes in brain activity occur simultaneously in both people"
+   ],
+   "lede": "The closer two people grow, the more alike their brains work – or so the assumption goes. Two ETH Zurich studies challenge this idea by examining the brain activity of younger and older adults who drew together over several weeks.",
+   "tags": [
+    "brain"
+   ],
+   "evidence": "Human study"
+  }
+ ],
+ "dropped": [
+  "https://engineering.berkeley.edu/news/2026/11/seeing-clearly/",
+  "https://environment.yale.edu/news/article/mapping-hidden-housing",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/08/an-eth-researcher-facilitates-the-breakthrough-of-solar-heat-in-industry.html",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/08/fibre-optic-cable-reveals-hidden-crevasses-within-the-ice.html",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/08/how-chromosomes-find-their-partners.html",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/clean-sweep-for-cutting-edge-research.html",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/eth-and-pefl-join-forces-in-learning-sciences-research.html",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/robotic-help-in-high-risk-twin-pregnancies.html",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/satellite-imagery-reveals-what-casualty-figures-alone-do-not-tell-us.html",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-ideal-setting-for-sensitive-experiments.html",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/new-method-reveals-what-a-cell-did-days-ago.html",
+  "https://isps.yale.edu/news/2026-11-18-how-yale-students-used-data-to-forecast-the-2026-midterm-elections",
+  "https://journalism.berkeley.edu/media-literacy-seminar-bolden/",
+  "https://news.berkeley.edu/2026/11/18/theresa-may-will-be-the-first-visiting-fellow-at-uc-berkeleys-new-nancy-pelosi-institute/",
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjlLVUEzNFRjbVVBWWpkQzQwV1VIZkRJNEZ4YTFzclNSZE01eDRodTJHcW45VTF1bWtGLXRqQXNVa3BydmtNcXRPVjRUaVBvOEo1UDZsU1piblNyWnhQbFhJbGNFYzk0SnRSODU2X24yVGhiOE9GRVJxaXZvYVJhS3VtNF9xTUl0b1JoeDA2RnJ0RGhuR2FmbS1UUGkwV0thMEFUYXRpZzN2MnNxSVIzWVFFYU02MDJlRklpS2xIN0w5YXhjaHpDdk9EVmNtZ3Bhc3puRg?oc=5",
+  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSlQwRlpnMlJoMVhxWEFSZ1pKc0ZxS3RjelFsbjByT0lYMGxGcW5VZEdqcmktUmNsQXVSMlNhbE9jUVJIYS0xYl9TWnkzOUVhVWk1SmI2T2h3dzJMU2FITGttZkpEQ3RBal9oRVgzUjNXRlhkMFFUc0liZXp4YUVwUTVwdGNpcF9DMXlaby15LXhJMTFHV19RdGtwalJoVmhJaHJUc2liVUJTQlFIS2RUQndPck9BblVtNnlpTHEtX1lreHA0LWwyWW00WlFZTVVaNXZqLWc2QmoxZw?oc=5",
+  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlE2RFpDRzdpdUphaG02ZlRkaUNoNVZWZGd6Sk50TUdieWRadDdZQUJyanN6WDBmZkVtWDB4ZGZFSC1KWTN6S2g0OHZZUmFCTUQxM2MyQTNIZWtOT1hhU2ZwZ0stNlQ0bF9hX18zZlgybi1MM2VRX2tmYTNQbFpTci1uX3MtX1V2T3NzbWtLVkdXbjVwSmVRYkI2eWdXbExuV0h2Z3NmcTJyaTYwWjlEN052c0liNjRaYVd5YTNwdmlOQlp0MnJwc0JxWjZfMjFxT0RIMU9HSkFidw?oc=5",
+  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTndvQXhCVG9BSktBTlBYcEFoZGlWVWZvbTdTTW1rS2UyalQ2ampsdFhDLTF4WUM5M2dtd1Brdk5VUG5tamV5OU1pc2Y2Y0d2WDd2a21ERU1sSldIWTVQSDgtQkZRV1NnNm83aHFpcmNDcGhjV3FMdHdaaVQwTEc0emJnQ3hyWHFWNHVITjlTYTIzSFZzc0FCZG4xb0MtcWJfTHVNM0RhRlNKUkFBWFJTUVZqV2FDandzUXJiYVl6N1pUTWZHTGZMd1RSWkFNSENaWDRRcThJd2s3WU0?oc=5",
+  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2VNRVBvOUpyNFpvM3VHVkhBMDVqYnV3TEM4VWFFQjFIdkxkLW01Ukg5QzZxRjNaRmwzLVZkWHY3Z0ZrdUdVcnU1ajNHT0J3UEc0TTliVldyb1JzT0hHblJMSlR4aThRS09VSFlSejJ5NHZFNV8xODlOOXZBTVowS3BjRUY5ajN4dXFILVRkb3B4VTVScTJQckdzUWZ5UU5VZWt4dmUwWE03cjdaZ09pQzd2cmR1eWIyZVpuRWFPNVp5YWkwUE5vTzBCRVVIeUY3Z1IzeXVDNVg0bE5Nb015Z1ZQSzRhZw?oc=5",
+  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSmU0UTJJUGx4WXhZRXNCdHpJbmstQ3Q1TzNQVlRBTnIyOGJJcFl0ckJUa0EzRWhqYUxKZG1YMVRadDBwcDB0UkRwWTVqejFseWNaeW5mQWswaFZ4cGlHcDN0T2hsSUlubl9lckZhdGJNbDFxY253QzZRbnpsTXdweHdQZ01HOUVDTFFCRkJvelpkOFRNOEZoSzU5WnFvRXZzUVQySFRYcWtMd0x4cnNKUzUza3pMaVNLdEloQzIxTUlwWDR5aVNmVnpweWJFMzBFekNhUnhfOHR1MTUtTjBKSk5Jekk5bGFwQkE?oc=5",
+  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZzk3RWdBZFpleGUzRmNiNDZNcjJ4REpqelF0djV5T05SUDNia21fbHZVdHdVSnFCNG1XaFNfd1BoczRSZjJEUUNOOC1XM1dVYkpwRHA2eVhXdzNkQkhIOTJpdExkUDEtV1U1UmJwdko4ck1WWmxFVm8zelpGdVdCMkl2NndFMU5SczJGc1hfM3Z3REVkV2Q2b2dlZmc5ekdWeE9SNlhaRjIyWlhPNFhWa0VZRk55b2w0VENzdEozNkpUUFpDMlNQY3l1NlRlSVkzXzJIdWtELU9qQnpRUG9RZUhnei1QSUYweU9hY3VB?oc=5",
+  "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nb0FnSDdVbFI0em0wS3I2UUlwZHpxdU5aeEhpdVVsLUJFeHc2WElwMGpTb0laaFVaXzdCX09JR3ZBb3NEQ0NQc1VUTWc?oc=5",
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mcXpHWmZsUVlsUmVaNjlxZExfZGx6YzIyNzlzTzVLMkgyQUF5YUJfTlJjTTl5U3l5c29XN2tqTm1SSTlwVkg2LTNqLXBNQWN0?oc=5",
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45ZHdHNkZwcEVaS2c0ajFVcWJhNjR6WEU1VHo4QkJuLTNrQ21FUjBNNzhINzEtdkNHUWxnQWVDN09CWnltRWh3RlIxVDB2WEdIeDZIcERydw?oc=5",
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuNWpCM2wtMVV3TmFMejdNVHhEeTNRM2Qwa2UzYkhCcTFxV244eldMbklLX1VwSnVWTXBialJ3bFF4dUdsR3RveW9BMFI3TlByZlpsNE55ZW1ObWRf?oc=5",
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ld2pZODJGWEN1OEpHMFhVeU51aUtJa3o0blVKV3VfWldTX3JSSGZnbmdPZmh3OGlsOVFOLVpPR0lKbEl0QlVTVTNva3hJc0RlQURmRnBuYXUwNlQ3cEE?oc=5",
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rZUdHc3FQMGxiZC1xYzlPWWZPQm02djU0N2JjN1dRdlVpMV9vb21qMlJxcXlTZVlTaExiOUhXRG9jWWRIUktNSHBKZHJVQVY1MUFFcDVYU25HTTd6T1E?oc=5",
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YMU44MzhqaV9TWktIbnVfWDN0a20xYWJTb2VZMXF2Um5RV0txdDQyRGhKN3c1U1dSMFdyN21qVU85OXRPSkliOHRFZXdCVnEwcFd6UkJncXMxMEhYdkJ0UQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZbFluQmlGRmFuYXRWanl6MmFSYjFidEE2NENkb0Jqdm5IRFlNeHRqZVdfTGpxaTZ5TThyZWxpSHl1Y2ZlOXU0emZRZUo4d01MNFJlMkVwN2o4VkNmRUdRQmg5UHlzT1k?oc=5",
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fbU83cUp4UVhsd0pieVBsdjVHanR6RWx4UFhJcEFFVkgyX21tRXFSZVlzek51RkRxemlOYTFRNjBpVWpnaEpGcTB3eWt1RHpwRm4wTEhubTJ5TVRKR2hpelpjbUM?oc=5",
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTWVZvM2RRMVhZRHkwLTBQcjJwOWNlTGRmVUFlcjMxaTlyLU5nSzN4dmQ0dnFFTDBmS0NRc2EyekZRRF8wTU9fWER3UXhna3pEeGM2bXoyRUNyRkxaWHgtc1ZLZ0FScTZZV1hr?oc=5",
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tdWhuVUM4c09tNU0tVFZDc1JqWEh1UHhkWlhFeXhFZ0Zob1cwbEs5eEN0emdrM2ZXYlJQVXBxUjlhbnBMY3NDVERPcy1WRndyYVhWaU04dmV1MnRWY1ljTzdZSWVjcEJS?oc=5",
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Sa3l3RmFZMHZlZFZWMWJ6a1pTUWxEbGZvLWNkcVB5dHkzcVlDZXpQWmw1MVhpNkZwa0hwOHViMmhjZEw1NzFWc3h5WVhjZkFDT1ZzbGlHeW1xbzNHSVhBNUZYbzZuTHlfTUg4dDhB?oc=5",
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SMzhBLWlpTUUxdGp4QzlUOWEtOEJEME1KZFAyUzZ5ZHltQmxKZnRFZTBxbzNkdEdMUy1zd2ltTmtjSVJSTzdELWwwWTZDNVdBZTdlV0lMR2VIbXJWX0hXZy1WR182NGRQQUViTGd4UlE?oc=5",
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1U2kwM1Q3R2JRLWI5N1pqcGpkd3pXMVhIeHptejc5TnpTSk0zU1p5ck05aFhFNWl4S0xfS0w5RU9fTVVPcjlKV0d6VGYzVUZRM2pGVHlVLVh1bnBJaVFfUDhfOGFpaVR6ZmZGbnlBYUs?oc=5",
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URFBmOGk1TVFzT2NwRi1kQWZkaTFQZjRJZDFpaDVkdjNrQU9Xd3RkMFpwcWxkeWVveDNUZDRkc1dIVUVVRW1fVW51WFdnV1VMZHI2dUVJS20wT0F1djViYmIzWjRvN056eC1aYnlCSld6amR1RHZZ?oc=5",
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WWVRDeUVrY2Y3TjVIVXQ3SlE3WEVtaDZkRHU0OEc2WEYyYUFpb2hCTWYyN3lxMm9JMFJFT3dMa2R3d1kyR21qSUU1VGk3T3drWmVMYUNpNlMydENpUDF0ZGtiYVgzcVdHb0Zrb0pnQi03dzZrWk9VZw?oc=5",
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zMFpETndHem1IWVFDWklHQzItVDB0clNheEVjX1Q0M3hBSVF1RExMb1hyeTQ3OFRqNk1zVFh1cExXWUE3RFNGcEZKdVUyMGtkTFpfLTlBMklkUkJRX28wVk5uWV92MjVyU2NKY2lyZGN4dmQzbVVOUGVDSTg?oc=5",
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrNlB2bXNCSFB2VkEwSk9rWHJpQjROSk1Ga0lzcUJMc0lSZHdXRlVpVDQ3WWRtLVdDOXNHSlhaTHNLNmdQeEZ2ME9QclM0UVZFclRTNXgwTGc0cTdFYmxvVzVGLXNoZjgxbWpUekZiZWRlRmtRb2h6MHNoMjc?oc=5",
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTm9TTzJvR2VEeTY0RmtwTV9kQUdmbE9BQm9BdG5pLXMwSFU3TjFCYlFFbDVxTU0zM0xrMTQ5cnhrVHFiZnBLWFpLVHllOVdsRHhzWEFwWkxFbTltU052S0hiYlVaMkVGdmY5UFlBbUlzRnZEQ3RLR0FhYnl1Mk5VMnVB?oc=5",
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmtfN1AwcmtBVG9qOXJidG02WElNbE9IaFJMMHR0c29LbGV5RDRUa3ZnTF9ndmRDek9MbWhZZGdaUFpjWWNTeHV4dURHcTJYclNqbnBjNl8zYWY2QzRTRlVwTTRXak9FYWtxLTNCNUozVXFiWm8tRzNJTGZhWmNVZjZ3?oc=5",
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDRiTmU4TnQwY1d1Nm02NWFpTnptcVNDQktuM3U3R09XTnZnMk9iQ3F1SUVfUjNVczNKRW1aT1N3ZGZ2V1FkMERlQ19tQW9vNWQzblg5aE44ek1JS0ZGREJCeTZkVzVSSVk0ZHFOMGN3S2JpS1dXRE42OFRxcml3cHJEck0?oc=5",
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWI0eks0TE84dVIzd3NQMm14R25OV18tc2FwRjFka1ZWZ2Q2Mlg2eW13a18ta2tkd0k3SFJRSVdyeWZyU3lWcmNhZ2t4ZHcxSjVBd1RYNUlVZHhPUHo0MDI3MXNpT2F1RWdFSUE3amFXR0hwTjRSSFZRVUZ6a082UTFzSjQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanBEdDk5SnFmUGtJRmM1N0FBcUpZN24tYVZmSFpLUzhtZzRlU252LWRaQU90ZGE4TXpJc3VrUkM4ZmVqVEJHWFVEVzVxSWVGTXhFcHBrY180ZjhsT05xSjFKU1E1bTQ5Q1BkdGhVOHUxQ0FxSE9YaVdlY0cyTzY3TW54RGNHNTFYSnc?oc=5",
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU3UzZWU1Y2w0TGVwZlkxN2ZSSDVlY1J6RWpMSzVRa294TVJkc1FuOXBtb0ZWcllGaGNtc0dZVDBiXzBTYndlSUVONEIxU2IxR3RpYnFILThyZDlSUWxNb2xXZDFib0Nxcy1zSENrZjFnUEdwSXZlWFRJeC04ZU1oWDJSa2NhZkFCc1E?oc=5",
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDF1VDFjeEM1dFE0SGlLQlBCZnJYbDlTZjhxRjItWXE2b29fOTNOV2duYlN3a0E0aG55NWhmMmxnY2ctaTNyOGxQLXh2UkdfdTFhZXFfOUpGOGt1aVh2LWY4ek9iWDRRa09mR0Z1bkZMSUtSUFljTXdxcTdZVHhFaVFGWnN4bC12VVNN?oc=5",
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVhRazlNdTZWTkRWc2k1LXI4VzVib0xWUVBZZlRhRmpoYzY0ZkV3eFBKNV9BdWFYMW1BRGw3d1JXZE9fU1dud0djTVZrY1QzRjNwcjFIUGJsSWZJclgya2did0U1azNINlFoUl9OY01tS1JfUXN4UkdNS2RQZ1RuX3VuVjRqMFFyc2FsOXdqYw?oc=5",
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVNxc3V6eUptVHlSaU9zUzAwTkRfVlo5MlpBQlVNenpSbC03djN5M2lRWFNJdkFtRUxPWFRUUjhjdXlwS2JBcG9IWVNPZERSUUZmMW1EdXU0V2xPOHpwM0MyUEt5cEh4MndqTzlUNXk2bjQ5QVQzc0ptVlB2RWJabDU2RW9sVEwteFNfeXJSOA?oc=5",
+  "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTTg0dFhJY3JfMFF0YWgzdng5ZUZIWm02UVhqaEkzejV4N01vNExDX1gyZE1uUW1weTllcE0yQ1NQUV9zd19GSTNvNGF4RUpKNVNPbC1xYlJNSUJWZWdZcFQ2Qm9PODBaWXd3TFhzZDFtVm1MSHFXMGZQcW9QTk1rZVZGemoteDBwTFBDV0ZCUkhMb2RVLURtSTBfai0xVGNUSFJfVDRqc080bjJWR0h6eWFWUWo0TmsxZlhlSG8zZjNyVVJWT3lpZVNnN0tNOEdKN3VTRHl1VmVQTHZjSjRqMHd4bXhsZ1NPSUVRTks3TnIzMEdVUmVqbHBGMkNQbGdlTXdzUjNyWTRwa1cwem8w?oc=5",
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQME1CbkFKWUxWMXd5TXdPeVhFd2wxckJiSG5YZS0tekg4Zm9VSXRLd0o3WTZyYjRkbk9fRHd6Uzk5dUl1aWlqUmpXTlh0WHZJSmpwNXdiRE9rTlBoX1FSN1UwWURrbHcxMjJKUVpaaVUtbDYwN1QyeE5YMGhiNW14SkNra0VNVVhNeHhnNTRBLU8?oc=5",
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY005cDBlNjVhRjZmenRpRWxldk5wbzJIWU1Sb0kzZHd0VlhnVUNPYzF6NWZVOFZyVGdhajE3a0ZaR2kxQkstd0V0Rmk4UXR2V09Jb2dvYmRWQUx0ZjZGT2duanFCTm5kRnpqd3Q2Y0pGR1dtcXd6XzlqSEU0TVlzQXYtOG1BSF8ySUlLZk5RVkJvdw?oc=5",
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmJSNTc4bDhOVkxHc1F0OG1ZeFN5TkNNM0ZBbG5xcDJCOEhOWHdvcmpUR0pfNjN5cGNvTnNWaFlMY2hlUG1kcmtFUFR5VlRybFBiQW1TbkRQZldlUHFubFk5ZEo5TVZFZWNFN3hrUVR5alB5WFpIY2oyY2RIZXBfR0lDNmpSd2FOQVpTZm5hZFFVQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMzQyWE0tVEhhclJ3b0duZElFbDNsUGsxMmo3eEg4NUNkSVRJOE9yalVpd0xiYng3UVBnekJjejNnbnA3ZnZGellwLU9BeWJlbWNnTnlaLVRjOUo4bmZfbHJMR29PRDI2QkIza1ZCbEc4TkMwc1pzTDhtWmkwbVQ0YTlpQ05XLWNocGdNTGFsc1RES1k?oc=5",
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTnF4Y3JhQXVrUFg5U25NTlMzMDdJTm9pN2JLNk80RzlHV2xtT242T0ItX0ptX0pkYnBrMzZ5anBOb1Frc2RxQl9hUjlhU3oxc01pekdUWDRVbjlPMGxTRFdTV0VLcmMxTjgtTEh1TDQ1QXUxaGVjdklJWWk1emNuOEQ0RXdpekhROEpPOGJ0SkhqT00?oc=5",
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnFUUXg1SlBmZkxVX0xaYS1maWpUcGFhNGowQ3ItQ0NYdnBpOUNQZFVVYXRvblRTXzYxQ0phRGR1eGdGeDRvZVhhQ1J4VUxFUktvODdVV2MwTmZXcUhKWndDaGh6Mkw5UE1EdEdQX2RaTEhzYms1V0JXMUlxN0FzdVV2TlNwV1E1a0MtUHoyNnhITFdE?oc=5",
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDhIbmtrN01iT2FCZW13eGN6MXpZSjN4UDZuSFJ5WExxUTVHaExYUlhRaGhPaU00ckV2U0lJRUlMOHRDRXRVbVNmaUtZaVIzc3dpOGplX3hPakd6R2M4M3c5Y2piTXpUd2RYT1FBX0ozbHBaNmNLU0F1RFVtdkIxOW5hWnFoWVBpZ2UyMFFDU0xobDBTTDlv?oc=5",
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVVudnhYY0o2R285S1g4SnJlbUROZXUteEVnUVlPcDg0X2JkN1hpSnFzMmV0RTJ4UnRhZU5YOEJjZlB3ODJOZ2R6OTY1VkdwaDdIckVBTlYzRDlSMTY1TklBTndnTjk2b19OZzRFeHVtYkNxb0t6Z2k2VXFZcXMtaHB3WnplbVhfSlBkUnNiWnNlZjV5NWN3?oc=5",
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEJ0T0JIOENmOENfVlk5Zk1tQWtoTEFKY0toZHBnSkt2Z0xiVVhOYXpHTF9SMjgtdVNIVkxOcFp3Q05LYXZyQVVxSkxsaVQyelZSR29OdjNseWMtUmJ0d002TDR3VV9WYUFNZktLczlKZ3F1SnEzS2w5S0s0VGZwbUNKdHpkRkVJSkNHcl9hR29mVUpOLUkw?oc=5",
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjZSTms0Ql9QMFV5LXJUMTNmbEhhdUJMZWZpRVVXWUdjdjZrTkpabGJ0UG0yRHZ4eGp5LW96VmZIcU9aOXptbVFKdzEtR1VUUXlHZEpURkZySi1QLXFlRjJIbm4tcC11TDhHUlRHN1QzNm1kN1BOdDFqaUp0b1VDRXJvXzNHVV9WR3RuTmZFQnJOa19tUjdNdHR5bw?oc=5",
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHZ6YkI4cWhDZHdjQXJCOUIxRFUyTVhpeDc3YWdkdFJsaFdNZ21SWmNKVDN6RWJGUWhkN0VYMDBOQjdfT2ZudGMtV1FrbDZGaWhxd184LXdTdmtDanBmY3lzTlB1cXA4eUkxZ1Y5SGU2MGNDclExaGcwN2tOMVRBWFMxdlEzSVUtQUdjc3FTNGJzS0ZlajFrY2NQQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDI0NlNjRmxadjZSdWNxanRsd3pYMVprNnd5dGRpY2piRy1BN2lsQnV6WUx6RUEyal9TQXBOYVk4dmJ3WWtQLVFDLTkwYXlvNjZKSEhITFNsQ1J5Vmg0dVpJYi14NmRJX2tCLW1ObW1QVkhWYzhMcmJIRHY1M0Z1bFZzODhvbG9hbGs3VG5fS09BOFZyWjRQc0ZnTQ?oc=5",
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXBTVG53ekhfWFFXbS0wVGt0X3ZLdkQzcGlMYk5ucmdzalpoZ29GRTlFclo1Y1BtcEx5bDNmZGwyQmZnazFKS1YwQ3VZM3E2Wjd4eHlITE5Xb3VMNVBUS2xJTEtBaXQxSlNvaWxUY1Z3YkFJcFNabE1rYlpWMmtBREI1ZHBVYWRGb05jNUVkeWNmLVBCNHFqdHp1OXZnQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVRhZWZQbWg4TllGbVp5OUZDd0hWeS04MHdRd2tmOVFibG9aTU5CS2hfWjV4dC1iQllRdXc4RVNtN21feC1BYkxJeEd6aERkWmtyMU9NZjk4Nzdzc2lybXVKQ3VRTWRkeWZYdmVQeGZUMlpFeUhDWW9sWkNpX0ppck4td0R3LUZYbVpPV1JWNkY1bXhMQ3ZJZHNMNkJRNkU?oc=5",
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjZyU2JWam80LXhjcngzM3lwdWw4N3BUazcyQXQ3cGFIa2lYQzZSbVZJZTFCYlhVV0QxT0E4OUZTYjI2ZnB0V3FUVk1vYWFjeE1vemhQYXdKY0ZuSmJ2aWpGSTRmbTVZMEVsV1p6akVxSUdVZ1E0cjZJMjNTM05sSFNzQWpOdDFKaVkzSm1hM1Z1TnY1cG1JUFVNcDRXSjg?oc=5",
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVNqYWsxcFhOWWlnMzBJc1pVY0V3RzB2S3RiN3hJSmU0RnFXY2VBS3p5NWR2YVBPbjB6WDVBNHByTkFhVGxMcmhuYmViUHludk14blg5SS1ZejczNkZraVJ0T1JxWVRFcHpXamZ0Z2VmM2lMTXJldkNRaUd1dmVZN1VReUJiTmRSYnNpQWpLemhZV2xzcG50RGliWUU1Q1U?oc=5",
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVRxOVpNY2JCOEJzXzFsSGI0WWd5eU1aclFEei0tamVjVE5SbGptYTZoUWt1ZnF6a0ZKdlVaUzEzc0E4ZUtfTktkeC1vOGNMNkduaXFnQkowTG55X0RETG1iNDRicFIxbXoyWWFJQ2w3LTRHNGJ1Q3pGbU9CRHZsZXI2N25UaXp4THJhbEFycDZTd3VFeldYR2ItaWNaNFB6U2c?oc=5",
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0hBb1QzYkQybnY4MzhkWGJKZDVYQmVzN1AySWgyYU05STl4MVR4Y3ZsdzI3YnFsVF9ZbERMRkUxMWk5VE1IeC1IaXZMRmh1OWdmNGMzT2c5RF9wSmMzZDdFMWR3NXd1QlJDZjJDY2FaZEhwV2pHa0tJa3pUaFJHNy04Wm1qRVdkNVBtX1NhOUdjT3N2QXpnSERHNjd0ZVBZdkE?oc=5",
+  "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdEprX2JOX1N6Rjc0WGxsR1hLM21EMzBrdkdHaXFJU0Q0SFVPVEVZbngzamdNSUtpeGg3MHdsNHpIZUhiQXpadVhmQkFOaHYwRDktb0lVN0ZRcGxSLUdRZzRXdjVTNWJNbnVIN1Z3alQtcXltcHRzUV9ranpROXUwcjk0aTBwMGViU0VET3hKaHppTjBWVzJST1k1enFlM29neDV0Njh0bXpsSzZUSzZFRkZ4UGRfQ0JQX1p4Zjc2MjI3bElJZHlnemxBVkdoQXZtdWZZdmpFWWdncm04Z3BYWWNBWTZrVGhSR3lvN251cWs5cmlTWFRGMnFuZEphcURhRFBfUTI4U044VXUtaXduZTVsUjMxREYwcVBCaUJfWlMxQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFRCZEFZYkl4LWljYUVCNTlGb3B6ZDhjYUh2aVpsN0llWjdzMUM4eGFOc21INFRyRGtfcGZNaWZXbGhmTTg1WDZxeGNSV3RhRHZCTk9adGtxTHlUODgwZmU3T0std0VET28zdUl1cTFOekc5Q21Ga2xhb0lGcXRIOE1sb295UGJOenoyU1l0RWNDVE9qVGVrdDJqNlFNNmVNOFZN?oc=5",
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXVNc1hKQVZtalYwY1NUbUpRbWF2UnVJY3dpeUpLc1F5S0ZLZUlHU2pSdmpzblN4aER5c1owMHhiVWtJSXg2dVBVanFHTTl6NEY0VWZUay1zaEt4d3BUelpQLWh6STIxZTJBU0JfellIdm13VWNQZHM1dS0xbTZmRkh5a0h3Tlc1akJUWDAtRmQzSFhGZHFfMUR6bXJneWt6RDVrdg?oc=5",
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUVkR0hGUG8zbk16YXY0VzhXeHZCS2N1OVk5dGF1NElaZUxGUVVCQWdpVjZlN2s1OGVuaHhQMEZDMXkxbV9fNFR6RFBScVRLZmxJblJfa0RzbGNVWk1tVzB4NlR1UHhnZjZNU1pnUC1UVUdGQ21keEJQMUhNRmR5dVhuamdlTzZIcE5adk43Qm4xYzEzc2t3LVNpTWgtT05fakdWbVJR?oc=5",
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbldaUk84dm1ZMkh6YnFuWEQ2OG53NkZrNVV4S1dReHhkWmRlckNJVngxWEZraFNSZ1NFYU5LWGJvd3hWd1l6ZWpXTWpQZ3hMeVlST3JkSTUzalFtTVR2c2VnTXNZRDFBTGtNaDZKXzRyVkRBREJnOUhmbFo3Z1RWczE1a3E1a3hZS25HbkV6UFA1c2tOaHN6ODZicU53cGdUajVWOTZ3?oc=5",
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmdQNmcyZFhYdWtWbkszVVprUTdJaVFIOFZVa0NrNEV0dEhRalZlQ2paSEktWkxrdU9yeEtUUVFncEhXSGJGSnQxdnVxWHdzQkVXbUk1d2RURkhXenFzNE5iVjRzRmNrbU1xM1dXTC1lR3NVTnZCSmZJYmZ4NUptRW5KaHdRUVlidzJoeXA5Q3VYcG5KeTQ2MHVDN3RnbkZZa01CMFk5RQ?oc=5",
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFlCVVNHS09PRjNRTXRHOTlYb1l1aEFDSTNrNnNHdlF1SHlabnV5bXFkaE5uODRWQ09KVGU4YWdnaDV6OEMxdHhYT1RNZUVQN29oR3RLN0lBTl9yWExNb2wtWGJqaThVNm9XTTRneEw3aElqcFRwUGQ3dHJzQWM4eG1WcWFmNEg0TjdBYnF4Skt3QTNBMXBpZVVheGd1eWlYeXZKREo3SQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGFLa0ZxdzhuUG42QU11cVhLbDQxTWhNblhHT25RNDNrc2ZHQVM1X3o4YU1JZkRmX0tQMnVUdGpFSTZpeF9LRFVrRXdnUHZxWDVieURXNDJxanBiYXNNUk1lWXdkZC03R1c5WHZrNkdqaU1YMWR5SDVDdGpPZEk1UDVrZjVncndVRFFBWS1wTXhwYVdpR2xENXpxVjRXSTZpWWdwcWpKUnQ2UQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnNYVExHclhVV3RWeGE5bDlGbXZsdmJhQWlscjFZU2tMRjBzeE5Val9KNzlaemowaV9OSFVZcDRmMjlJdVRTekhnTlJKVnV4S1llNVB5VHpnSnVXYm95UlNPREx0SDdTdWpBbVlYT3VLN1Q3U2dkZGNLcm5GbzdhNFZRb0RDM25oX0p4ZFllT1ZIYksxUERObWlnX0VmTW9KeWxFMmx1cWZmQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2x2NktnZTVHOTd2cUduTERSSFh1bllVQV9CeG5EVmM5MzZjMzh1T1pFelV3XzZ3Y1JaZllSOHZ5YUJWTTNnYjVZSklrSldueElHZzhSRXpTNWZTTFExWHRhS093RkpHTHhONlJiTnRhZFBEV1RmemFQSEFJVlBFZ3RySmNucGFyUHFKSnQ3cXpnZWMxQmk4RnRsN3pYdmlJZmNjU2ZPLVhjUQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFdVSVRuQm8zdjlseVdDNjFtTnREU3lyWmJEZHNzcmJvT1pjWVEtdnFZX1B0YjZEYTJxWF9UWGNCTS01NE96YzVrME1UMkVCVDQxU1BsYmtKRXBPYW00cklRNEs3QmdYRUVLVko1RDJKZkV5Tlg0SVVNbzM2d1F6eHNnXzFiOUtsbXowZmtqYnU5MkpSVm5qSlpyZUdJOTA2M0FFbXE5OElfZw?oc=5",
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmhlODN6aXU5S1RYQTEyZ3pjV2FJd1g0V2JyNEZxTlhnZG9oal9uZ1JHOVR3dnlLN1IzV2tNRmtEVlNkQnBVX2lZaHpNTV9vRk1fVGtDRkczaTk0NW1jTkdMajJZV0Rpb19CVlZmZU9nS2hHTUxKc3hNUklHU2hGMFZZSTJSYzFmUkF3Y1FqQ1pGMkNXLWtYcnVxVzRJWkt1YVM2Y3VxcGlRMUk?oc=5",
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVEZZYlpZaUU3NlBWQWNVOE5NRzNXc3FLbHBZZlo3THBseW9SNnUyUW9pRVN5YlJMS0d1c1otSTFPOXRteUd0R3hmWkppQnRWbldjZG1ubjU2c210MnZrMEJPM25hMHRVRnJieWlMVU5BY0V3SEFqTldSS2xhdVQyOERUVXpFZEJ6blpCZWJ3OUQ1YWxVcThIMldTbWVUSGZRbmMwZEw2alJWdVE?oc=5",
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDJJWVZuRmhJcXVaWHByR0l1b1dtY2pxMFdrc2dsVFBIX2tlZ1M5RTBpcFNHUWpCRGFlaklsNHNYRlJGWWNOVFctSUhEdEdDZVNzVkRna3lZR0Z6aHRjYTBZTzIyazMzeEpsXzFscEEwNlVXVFZXUVZBQUtrRlJaNVQyQlhRcmdDZk1Cc3VsWVQyaDRTX05Fb1ZhTFlNN0FpWnpUVkNuazBIMi1mTWc?oc=5",
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzZiRkk4bWVZeWt6LWlhZlkyYnBLa3NlaGMxN0dDWWFsXzhVRXZWWThJbkVXejhFZ3p6Rl9GcXI3NFFfTmVOSTMwY3J3T3Rqa2hGQWdZUFlyMEVVcGFWS1dpN0NfZzNteHpfTXNhU3V6NkdBUGNIR0RPendYRloxQWhJT2tVWUcxOXh4eGRRRGJ6NGFBVEJyYlQxX2xlNGd2YUZnM0lkbS1Gc3I0V1cw?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcHlZUXhqMFVXVWdQSWhUQmdNdlVaamlYOXV1SUMyVHBMVFR3VklZd003Rkpza1B4TlhHdzFDT2N3ak41MzdidjdvUEhGQmlQc29WalhZWllmaXZFY3R4cDhPb1U2WkR1NW9zYWNMZjlhVzhYNlc1VmtmWVNOODJTcllwdmdIZXItd0hPSDN5WEhBMUZpZmkySFExczVNVE5SRlIwdzRNTUpKZzhoQkROTA?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFdVVUZoNEd6M25iMnBQZWFBWlBaVVFnc1otRUhiWXk1VGZpT1NTVWRxZDZpTUNtU2xrdEdUcnByeGpVZXBUNm9CLTFjUEc4RWJqZmItOUQzblBja2R6MTJack56eE11T3EyS09lUE5zOHppVkxORm1tTG5OTkwzTGhzMGNaanF5RGFvclFfOXRING43OG5wX0FjbHZCQWNBdmdBV1BFMVhJRGIxSWV1Zg?oc=5",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3JHYXJoc1k1OXBRZmJoWnRVNGNDODNhTmpjZDhrdl80QzF3Tm4wYVNoa3BpQUpWWkFVbHg0UW9Ed2dlWEdZcW9Ya3NWdzgtMElKeEVxc2RuVWxmXzI5RVlhTXN1dXp2d19Yc0dZaWJVdjRxSnVtc1RBdnZ4V2l4Z2VucnJJRUZjSEpWU24weFBxc1RIdlBuaFFueVNXQWp3V1MtNWgxcW1ubjNiTkh0Ug?oc=5",
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU5QLVh0bW5oeFl0aDlvdWp2ZkNKRzI2enBUazFWdmRvRm8wWVJaM0cxLU5LZzZ5bzZaY3dQT09lT0dfZ3VfdVEzOVZGTnJ1SWVFS2gtenlQWW5kc2tNLTRIaTBfdjVINWNfX0tiZzlqVjlqM1h4NXZmWUxuY3NMUnBYMzk1UXNvd0NhQ3NHV1pnWjFEWV8xV05SOXBoRHJCeFRkOWxvMklqaDdWclVEZDdn?oc=5",
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkpOSnJOU054YnlCRE1kY29DMEk1MHpNMEptU3VrcUZEU1ZUNHBYSjZsckhEZUZjTTNiZkZ2WDZPS3VLNFVJRWNCVlZNLVdYVzkyOE9oX2NGQUpIZ29NTkJOazBVM2tMclYyVk1VZElFdW9lcFU2UElSVkd0TF9acHotNk1ycnBVNjdCeTNXeUlrOFpMbVRIMEhiYlNuZk55bW85UlBSTW9Lc0wyTmE3d3l6NA?oc=5",
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0RJdGNoRDllcDFRVmJFbUZWd1dBVDJEYlZkSDFiZW9xeG5la3habnFSVFlFTEppYU5OU3FCemRmNEo5cWpYR2VSWXBmV3dPR2NRVlNiMnRhbnZmc1FON3JURnhRckJoY0NPVzB5Zm4yaTEwQ2VUSjBFSnpISklDUTQyU0pzdURFaGFiVmExR2M3eF95N2JmUGZLREdwcHBQa0p1N3hmS0RkLVhVVU1XTHR0QQ?oc=5",
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxONE01MG1aaFZFM3ViUnBsTkx4WnNsZXF2TDluRDNxQlpsR0pXUWcwQTN4N2taOE5vR3NpSGtuSWJtODh6aWdUVHB4RUJkTnExV1d1UTM4UlJ1M1hoQ2NYdEdPZzRNWERPWWRzWGpzR0lCR21GaV9hbWM0dWJocG9TV2lhTzlyeENJbGJwZjdBMTg1YXV2VkRUazFFWUUyb3hLZGpheTFjN1ZQeGFDRkdrZzFLMnVnUQ?oc=5",
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajhqOF9YVWNQTHBnUm5uM3U3TkFYUkNvckYzRVdobkZpTWREN3FuUjBqYU03YUF1RUsxWllZb2gwaEZwcTg5REN1ZUNpeVdfb09PTVltRGEzZnA1NE9UUXB6QjBZbktVQzg5Z0JtaDRZdXR3YXdFdlNJOF9CWjItT0xLdG4zcnE2bzRZRjBzNnhwMzgzeUJfRDd1OXU0V3FNUEY1V1pkaEZlUG1SVnpVanhrOXBEdw?oc=5",
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMGM4a2VfUDJIQzVvU3FKZU5sTE1WcWh4WlozcVNvTE0wRFJvWDNkVW9ETzFNdkJVSFRNaW5lc0Y4SXdLNFkzd2lDQS1WRW4tZ0E1ZUljZVAzNlloZUZMLVhzWjAxMks0cldNSGxVTVdBRkotaWF1R1JCcGpEblFUMFFSWXVBU3NqV1hISG51M0ZKV0dlUmxEWDhMMXRnUWtvVnlteDdJNjNqdHRzbzJPdmZwb0hFVDA?oc=5",
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWlodEZwNy14QmdoM2lrQVM2RzZxUDk3cjJIeHMta2FUQ19BbUhEaXBfbXFYMm9jNWNXVkx0eWlzSUZWbms3OTA0UlRHYnV4OHlvNWE1WkJweWh6eDFScTJhMjE1bmRod2JwS09DczhqMUlHazd1bnRWQUotRmN2RVlTdHVkWWthS3NZeTV4cmxsenpqWXlUbmtvc3FoalJwbjdnTGlQeEZQVHhCNlR0QjY4SlRONUlB?oc=5",
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEpIT0dJdV9zel9LcTdvR3QtMXJLclk5WFB0OTl0ZVdUVVZGamloMUR0Zl9aQ0xZeVJOVm5kVmpkcExuZTJxQU02VEhWNGFFbjNYMndOTU1UakpRandDVnlTb1dPdkxYRzdFTEJpdUdtWEtxVmZXTTZvWEsxdXhiTm5JX2FPeVJjODc3RVBiUFFaYm5aZzA4R1pBVFpQS3Z5WGJkdnV2SlM2ZENocGtlX1NTX0o2dWVsVWc?oc=5",
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORG10RkNsdmkxSkxkTWt6UzRtOWN3UlB4RFB3ZGZHVzUtNFFRMDBNZWxCaEc4dzNaZ0lBbG56YVE1T1BvSDhYXzNlbF9yNFRuNlBwRTFlc3RKQ2Jrai1JVkY5ZXctSFR6YVZzTksyTnFncnU0NjllX1VaM2o2Z2xTT00yN3E5M2dUanF3T0FaTWlNenE3U2pGZW9jYXhhNmhzejJ6dDZVbWJyOFpoNHQxeTNZTjd6MDZGZ3k4?oc=5",
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVY3MDZrY1lCTmoyVWctWmRud0RtaGl5S2U4VzdDRlQyVF9YQmlndS1sVzhaRlU3RVl2alVjNkcwQ3k1SzhrcHlLc1dwM2o5WmVja3RleWNER0VtVThoUkNZNUI2bTdhVHY1MWpNMG9TTGpDVW5LcTctTUhfN0hzMHJrd2RxcnBzQ2cwcTI3Y2hjT29qSjd2LWJVTFFZNzJoTEl3ZU1FbHJta1RERENpRUlrRnVlSGNubUZn?oc=5",
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUsydEM1clZDaHlFai1weURhSU1UbmpTX3RUTXBDOThSMzRhMWFaNklFNkFVOWpqVjA1ZnlsZXhOSXkyN1hLRGJsTl9jS2N6MUhDdjNiQlR4OVZYbGFRU21qWUZ2WHhweWM1LTlzV3ltdm9UTVZMbmNVVWlpR1FIR3VUZ2RaQUl4TnRNcG9PanczUVVqRWJUZVBvZEprMDg5N0llTC1LaFA1RlN4YlVCYzBQOWhDSEdsbWJwUmxn?oc=5",
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzd0S3YxcW5NSEE0eGp3cFFSeGZmQV96SnFGQWptc2J4ajJYb3h0cEI3ZmdhSHVFZ0FtZlk4NjRNNzZZUnRMSXhBeHlfN0UxZzNqcHRqLVRnNUlTZlRaeGZIdGJkVzlEY2JKY2poRTJLZ1B2Y082aUZMZ2dmOHhmTl90M3MtT3JWREppbmVhQ01RZFNINnpiM2ZBWGlvX3NGTlduX0FFNG0teTFWTnJ0OGdCRzdRdGlWeFdvTHV3?oc=5",
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQmhzN1JRRFlVdTJObHk1R1Q3Z2puN0lBTExHc2xlVUZEQ2xPdnFUbW9STkttcExWQ1VFWjRPMEJkZGZKTDhqYlY5VE9Bb1BidWVrZVN4a24tSFZVYkVZVkFibmVKaE52VnpDUlBKNTJ4TWJNRFRVRXVaNnNFMW1lUmNTNm9LNzEyZ2ZZcC1zWER6cnd2eFl2TV9RZnFNMlFhQ2JJY2VuS2FvWEVmX25OTE43VDVybnl1dlBVQU1LQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR0QxR1gtODhkVElySC05R3BFdUNQQUE2Zng3M0U4eVRHSS15WWNrZERPRlRRelpzeGk3bE1YVXc1WFBvdDhIVm9KeEwxbUJROEJGbmJjNU1YblBCMUZsS3JPY1BpMkNxN3p6aGdpZV81ZVA3ZEJmMzI0b2lDNFJNZkNQVFE1NUFsNVU1X1NDeVhkdjFSeHFpc1kxengxaGsxVW9lLUFRRWNUeThRdzB4bkw3NVhsVFdrNVJfRUZhbUFEQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUm0xQ0NQTHB3dnFoN2lmS2ZUUjlpenZjUThsN3Y1QnVWMjBwU1RIa3d2RlpsSEZYZnhGdDhtVWhFYlVKQ2VkRzFtMWVOTGxxN1Q4Q2xWRTRxYVNXdElabFB5N1FPS3ZKRV8xLWJBb25tRWtfdEFtNm1zVWZkUUxXa0NxQVdBYUUxQ0tZNHlBZ0t5Q0pZcGdWZ1RwYVA1dmtjd1RxMG13UGk3blZ1dkpwVjlMeV9wRE9VY05PV2w4UXhUUQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQalFGZk9LOExZcWlzenI5MW9XbzRWVHVLU3BUaTJkS01DMlpkX0MzaEFKdE8zODRYcHNyWUs5ckNsSkZsUjRkV3gxX1lDNHpzalBUSTlXTFRMaUctUENyLUo1aG55cWM3M190eFZsWkVQZjJYMU1fNnBEQmZZaTVacGp3RGZDUzM1ZHp5TkhfQ2tHeUVjWi1sN2VJdXdXbGZ4ako5Y0pOdlhfSGwxYzZDVHRTX1ptVVd4emNqZG5SakR2LXM?oc=5",
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUJMUDZ1cERFR09NcWlJZkhQWmdpSlBMc0ZWQTdfeDZpck5mT3lMWkZBLVhQTmZ3bEJ2bHc4VUJkeHVBZ29JUXFKZVlDZEI5N21TUm9NdDVNZDNZU0pJODFFa09zNG5MQUdGWXoxazkxMFpQeExvV0tfVWVyN2VZVWhrQzJ5U1V3WWl1ZTBrTVJuR2FpMTM1bUtiUlRFTndsZFgzMmp6Ukk0b3RtOWViUVhaRExXdVByZWxndlc4SUdhck5aRkE?oc=5",
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWkJ3V3J2QktWRVozQ05hd29tREJhWl9ZU3pRY2ZpZV9lOFVncGtqeVd4QXE1cGpyeTFCZ3E5NkZCdWxUUUwwMmNockRpSUVGek5DTHU4aS1UV3N0YUpiM0tZTzMwcmc2d0R4MVRrZE43R3JmTFdzNjVobnd5bmltc0RON2Y3V0NqTXJ3eEV4MVVUR05yMFZXMmpSQm51QWZpNy1zbTBRV1RhdnVtWVhKeGxIZkU5MHFHQVFhLVdXVDhob2JEM1ZzXw?oc=5",
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTlJsRHFyWS1XdWVhaG0yVzdvd0hxR1J0RkNZQXF1dVVRRlNhYzMtVnEzb21YVFNyS3k5allYYmZ2Zjc0Mmt5S2lhbjdNY2s4aUFTcVEwN2p4M1NWRG9ORVRUVW45U3hjbFg1LVJTbjQwc20yWTJCRWd3WkRzelYxenV6VlRFdFFKd1B4VFpOUlFJZC1fcjJzeG95Mkd4d1lIWHFoYlpobWdZcnZKTWw0aFBkckZFdGNzTmF3ZjNscXIxdG1UalVMbmtR?oc=5",
+  "https://news.harvard.edu/gazette/story/2026/10/far-rights-breakthrough-year-in-germany/",
+  "https://news.harvard.edu/gazette/story/2026/10/hannah-and-the-janes/",
+  "https://news.harvard.edu/gazette/story/2026/10/who-should-take-glp-1s-harvard-thinking-podcast/",
+  "https://news.harvard.edu/gazette/story/2026/11/business-professor-perhaps-more-detective-of-human-behavior/",
+  "https://news.harvard.edu/gazette/story/2026/11/concerns-raised-over-older-heavy-drinkers/",
+  "https://news.harvard.edu/gazette/story/2026/11/schools-that-ban-cellphones-see-uptick-in-test-scores/",
+  "https://news.harvard.edu/gazette/story/2026/11/why-do-so-many-people-have-neanderthal-dna/",
+  "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
+  "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+  "https://news.mit.edu/2026/from-seed-funding-to-scientific-breakthroughs-1112",
+  "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+  "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+  "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+  "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+  "https://news.mit.edu/2026/qa-how-ocean-carbon-sequestration-changes-under-different-glacial-conditions-1116",
+  "https://news.umich.edu/2026-midterm-elections-u-m-experts-available-to-comment/",
+  "https://news.umich.edu/chimpanzees-at-war-u-m-researcher-finds-hope-for-humanity/",
+  "https://news.umich.edu/education-on-the-ballot-u-m-experts-available/",
+  "https://news.umich.edu/five-u-m-researchers-named-american-physical-society-fellows/",
+  "https://news.umich.edu/its-not-just-the-heat-its-the-humidity-examining-the-impact-of-intensifying-humid-heat-on-pregnancies/",
+  "https://news.umich.edu/michigan-minds-the-rural-healthcare-blame-game/",
+  "https://news.umich.edu/most-of-michigans-local-leaders-say-democracy-is-healthy-in-their-communities-u-m-survey-finds/",
+  "https://news.umich.edu/navigating-ai-in-transportation-new-national-research-consortium-aims-to-guide-agencies/",
+  "https://news.umich.edu/new-research-gauges-community-immunity-to-valley-fever-as-fungal-infection-cases-increase/",
+  "https://news.umich.edu/optimizing-ai-energy-consumption-throughout-its-entire-lifecycle/",
+  "https://news.yale.edu/2026/11/18/opening-doors-field-research-and-yale",
+  "https://newsroom.ucla.edu/in-the-news/how-much-is-ai-contributing-to-climate-change",
+  "https://newsroom.ucla.edu/releases/scientists-put-lid-tiny-test-tubes-opening-new-possibilities-cell-research",
+  "https://newsroom.ucla.edu/stories/how-wildfire-smoke-damages-airways",
+  "https://newsroom.ucla.edu/stories/ucla-fielding-alums-lead-the-way-in-veterans-health-research",
+  "https://newsroom.ucla.edu/stories/using-archaeology-find-bring-home-remains-missing-american-service-members",
+  "https://newsroom.ucla.edu/stories/what-are-biomarkers",
+  "https://www.caltech.edu/about/news/Caltech-Center-for-Disaster-Resilience",
+  "https://www.caltech.edu/about/news/a-brave-new-space-age-event-recap",
+  "https://www.caltech.edu/about/news/atoms-in-sync-superradiance-offers-a-new-kind-of-frequency-comb",
+  "https://www.caltech.edu/about/news/caltech-and-broadcom-gather-to-map-the-quantum-future",
+  "https://www.caltech.edu/about/news/caltech-names-the-bridget-and-william-coughran-department-of-computing-mathematical-sciences",
+  "https://www.caltech.edu/about/news/sea-level-rise-and-a-marine-corps-mentality-a-conversation-with-brent-minchew-phd-16",
+  "https://www.caltech.edu/about/news/the-history-and-future-of-neuroeconomics",
+  "https://www.caltech.edu/about/news/the-silent-ambassador-to-the-galaxy-voyager-at-one-light-day",
+  "https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta",
+  "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+  "https://www.cam.ac.uk/news/cambridge-enterprise-opens-new-hub-south-korea",
+  "https://www.cam.ac.uk/news/from-awareness-to-action-launching-embers-of-hope-science-behind-the-series-as-cop31-begins",
+  "https://www.cam.ac.uk/news/good-growth-innovate-cambridge-summit-2026",
+  "https://www.cam.ac.uk/research/news/brazils-presidential-elections-linked-to-decades-of-fluctuating-environmental-destruction-study",
+  "https://www.cam.ac.uk/research/news/cambridge-joins-uk-quantum-superconnector-to-accelerate-commercial-success-of-quantum-research",
+  "https://www.cam.ac.uk/research/news/comets-didnt-seed-life-on-earth-after-all-new-study-suggests",
+  "https://www.law.berkeley.edu/podcast-episode/saira-mohamed-what-a-country-owes-its-soldiers-human-rights-book/",
+  "https://www.ucsf.edu/bio/kevin-kimbrough",
+  "https://www.washington.edu/news/2026/11/02/how-are-ai-and-religion-connected/",
+  "https://www.washington.edu/news/2026/11/02/whole-earth-simulation-exoplanets-alien-life/",
+  "https://www.washington.edu/news/2026/11/05/as-antarctic-blue-whales-advance-along-the-road-to-recovery-continued-oversight-is-key/",
+  "https://www.washington.edu/news/2026/11/05/rubin-observatory-milky-way-satellites/",
+  "https://www.washington.edu/news/2026/11/12/magic-angle-graphene-strain/",
+  "https://www.washington.edu/news/2026/11/17/mid-size-mussels-fared-the-worst-during-the-2021-pacific-northwest-heat-dome/",
+  "https://www.washington.edu/news/2026/11/18/artsci-roundup-december-2026/"
+ ]
+}
