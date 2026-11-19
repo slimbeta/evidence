@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T13:55:25+00:00",
+ "updated": "2026-11-19T22:12:05+00:00",
  "briefing": {
   "headline": "Mental health, cancer and social connection",
   "period": "Nov 13–19",
@@ -45,6 +45,45 @@
  },
  "articles": [
   {
+   "url": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
+   "title": "Ultrasound imaging without the gel",
+   "source": "MIT",
+   "desk": "news",
+   "published": "2026-11-19T19:00:00+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "cats": [
+    "Research",
+    "Imaging",
+    "Sensors",
+    "Health care",
+    "Medicine",
+    "Materials science and engineering",
+    "Mechanical engineering",
+    "Medical devices"
+   ],
+   "description": "A stretchy new material could eliminate the need for gel in ultrasound imaging. The rubbery material, developed at MIT and SMART, enabled a wearable ultrasound device to generate clear images over nine days, even during vigorous exercise.",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-DryUltrasound-01-press.jpg?itok=4qThBA4e",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a Creative Commons Attribution Non-Commercial No Derivatives license. You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided below, credit the images to \"MIT.\"",
+    "Engineers at MIT and the Singapore-MIT Alliance for Research and Technology’s Wearable Imaging for Tranforming Elderly Care project (SMART WITEC) have developed a dry and stretchy material that could eliminate the need for a wet and sticky gel in ultrasound imaging.",
+    "Ultrasound technicians typically spread a cold gel onto a patient’s skin before imaging the area with an ultrasound probe. The gel fills in tiny gaps between the probe and the skin so ultrasound waves can travel efficiently through the skin to generate clear images of a patient’s underlying structures.",
+    "Members of MIT’s Zhao Lab are designing wearable ultrasound patches that could provide continuous imaging, at home or on the go. But one sticking point has been the gel. Their previous designs have included a layer of hydrogel — a mostly water-based material that seals up the space between the skin and a small ultrasound probe. But within a day or two, the gel can dry out, along with its ability to transmit sound waves.",
+    "“In a doctor’s office, a technician can simply apply more gel if needed. But for a wearable device, gel-based designs can limit their long-term usability,” says Xuanhe Zhao, the Uncas and Helen Whitaker Professor of Mechanical Engineering at MIT.",
+    "The MIT team has developed a liquid-free alternative to gel that efficiently transmits ultrasound waves, which they report today in the journal Science. Because the material is dry from the start, its performance remains stable over long periods. In experiments, the engineers found that the rubbery material enabled a wearable ultrasound device to generate clear, continuous images over nine days, even during vigorous exercise.",
+    "As a demonstration, the team fixed a small wearable patch, about the size of a key fob, to a volunteer’s neck. The patch contained a small ultrasound probe, and the dry and stretchy layer that stuck directly to the skin. The entire patch was connected to a small portable tablet that recorded the patch’s ultrasound images as the volunteer took a 30-minute bike ride, from MIT’s campus in Cambridge, Massachusetts, to Bunker Hill in neighboring Charlestown, and back.",
+    "“We are really aiming to address a material challenge in ultrasound imaging,” says study leader Shu Wang, a postdoc in MIT’s Department of Mechanical Engineering.",
+    "“If you don’t have a good interface, that will definitely stop you from developing this wearable imaging field,” adds co-lead author and MIT postdoc Runze Li. “This is a very good solution that enables a longer time for imaging.”",
+    "In addition to Zhao, Wang, and Li, the study’s MIT co-authors are Chen Gong and Won Jun Song; additional co-authors are Zihan Tang and Ying Li of the University of Wisconsin at Madison; Chwee Teck Lim of the National University of Singapore; and Xiaodong Chen of Nanyang Technological University in Singapore. Zhao, Chen, and Lim are the co-lead principal investigators of the SMART WITEC interdisciplinary research group."
+   ],
+   "lede": "A stretchy new material could eliminate the need for gel in ultrasound imaging. The rubbery material, developed at MIT and SMART, enabled a wearable ultrasound device to generate clear images over nine days, even during vigorous exercise.",
+   "tags": [
+    "fitness",
+    "longevity"
+   ]
+  },
+  {
    "url": "https://news.mit.edu/2026/confirmed-numbers-tell-language-sells-1119",
    "title": "Confirmed: Numbers tell, but language sells",
    "source": "MIT",
@@ -80,6 +119,21 @@
     "longevity"
    ],
    "evidence": "Human study"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43TkJqTVI1VE5ISC1udWRSQUxpUThqMlAzWW5rVUhkT2wybmZwRUdkSWJqRmpESDJsVHVySFRyaVp4NE5ycFRzNVByX2lMY0FuRXJYU0tvUkpRaTl2NDNxTGVETVEwZFk2Mm1GRWFTTnRCWDVaTU5n?oc=5",
+   "title": "For some, diet significantly swings cholesterol levels, Stanford Medicine-led study finds",
+   "source": "Stanford",
+   "desk": "news",
+   "published": "2026-11-18T21:12:21+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "longevity",
+    "nutrition"
+   ]
   },
   {
    "url": "https://medicine.yale.edu/news-article/video-games-preoperative-anxiety/",
@@ -136,6 +190,34 @@
    ]
   },
   {
+   "url": "https://www.ucsf.edu/news/2026/11/433001/ucsf-launches-large-scale-study-psychedelics-real-world",
+   "title": "UCSF Launches Large-Scale Study of Psychedelics in the Real World",
+   "source": "UCSF",
+   "desk": "news",
+   "published": "2026-11-17T22:46:23+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "description": "UCSF researchers are launching CANOPY, an ambitious effort to study psychedelics in the real world, tracking thousands of people before and after psychedelic experiences to understand their effects on the brain, body and well-being.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.ucsf.edu/sites/default/files/2026-11/studying-psychedelics.jpg",
+   "paragraphs": [
+    "Most psychedelic experiences don’t happen in research labs. To better understand their effects, UC San Francisco scientists are going where the experiences are and launching a global study to track what psychedelics do to people’s brains, bodies and well-being.",
+    "CANOPY will follow as many as 3,000 people around the world who plan to take psychedelics at home, organized retreats, and other settings, to see how the drugs affect their mood, well-being, and other psychological outcomes. Some of the study participants also will undergo brain imaging and provide physiological and biological data.",
+    "“Psychedelics are widely used outside research labs, yet much of what we know about their effects comes from carefully controlled research settings,” Carhart-Harris said. “CANOPY gives us an opportunity to bring scientific rigor to these experiences at a scale we haven’t had before — to understand not just whether psychedelics can be beneficial, but for whom, under what circumstances, and why.”",
+    "Unlike a traditional clinical trial, researchers will not provide participants with psychedelics or determine what they take. Instead, they will enroll people who are already planning to use psychedelics for a trial that will be done mostly remotely.",
+    "The study will encompass a broad range of psychedelics, including psilocybin, LSD, ayahuasca, and ibogaine, as well as MDMA, and ketamine. Participants will complete standardized assessments before and after psychedelic use and for up to six months afterward.",
+    "Those who can travel to UCSF will undergo brain imaging and EEG and provide blood and saliva samples before their planned psychedelic experiences; and they will use wearable devices to collect physiological data outside the lab.",
+    "Researchers hope CANOPY will help explain why psychedelic experiences can produce dramatically different outcomes from one person to another. They hope to disentangle the effects of the drug from individual, biological, psychological, and environmental factors that are associated with beneficial or adverse outcomes over time.",
+    "The project is also designed as a research platform for more targeted studies. Researchers hope the data will both inform future clinical trials and help scientists assess the risks and benefits of using psychedelics outside controlled research settings.",
+    "Researchers are recruiting adults who are already planning to use a psychedelic and are willing to complete research assessments. UCSF does not provide psychedelics or direct participants to obtain or use them. The main study is conducted remotely."
+   ],
+   "lede": "UCSF researchers are launching CANOPY, an ambitious effort to study psychedelics in the real world, tracking thousands of people before and after psychedelic experiences to understand their effects on the brain, body…",
+   "tags": [
+    "brain"
+   ],
+   "evidence": "Clinical trial"
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmY0bDk0MWM1OWY4dUp5VThIYkVsaUF1dWhSMFJZeTkzN21GRENiYUtObE4tdFNCU0FVS2R1TlFsbFdzd1VmSUhfRzZ0aUZiY0ZjNkVYVmRrVjBldmV6ZjZBZlp4V2tvTWpWWHNzTVF0WjJGcFJBdm5YOG1JcEZ4SXBBMWtQQTFyM01CYS1UN0JHQnRMOGZBcll3?oc=5",
    "title": "Take regular breaks to reduce health risks of prolonged sitting",
    "source": "Harvard",
@@ -176,6 +258,21 @@
    "tags": [
     "brain",
     "longevity"
+   ],
+   "evidence": "Clinical trial"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vOXVRVDVCeXdzd2xYUEpSNVZjRjlNT3hBeURkYVcteVNKNkluU2xtSkp3OXdUR1ZvYk5DRURzc1pqUG1DT1g3dGNBVnFiRkRKUTViT1VBbFNsUQ?oc=5",
+   "title": "Cost-utility analysis of integrated therapist and online CBT over and above usual care for patients with depression in primary care: an economic evaluation of the INTERACT randomised controlled trial",
+   "source": "University College London",
+   "desk": "news",
+   "published": "2026-11-17T16:37:07+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
    ],
    "evidence": "Clinical trial"
   },
@@ -269,6 +366,49 @@
     "brain"
    ],
    "evidence": "Lab study"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCY2FXaXBkdmViU2I1cElMTGhFMjZ0M0xmNWtSdHVxN3pVeUNwS3psZURzc1k2QUNrNUV4TWVXbUlTeEhiLTg4UjFyOGc2M3VtcUVRQUJPdGlRSDQ?oc=5",
+   "title": "Subjective and objective cognitive differences in adults in mid-life and older age with autism or high autistic traits: a systematic review and meta-analysis",
+   "source": "University College London",
+   "desk": "news",
+   "published": "2026-11-16T18:58:53+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
+   ],
+   "evidence": "Review of studies"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRng4VlF5MTNyUlRURndZUm9yS3Rpc1I3U3ZvQXRfNWhXWV9UMjZ5UTFoTS1DVGI1QVFBdlI1eGhYMFRXSXpic3pQQm1kRjhnVmEwQzNyZlFkb1F1b0t2SjN0RHNSZ1dabXhRVU5tSTdVbFk4c21WZ1dIVFdzQXVDSlBYSi0wUQ?oc=5",
+   "title": "AstraZeneca invests SEK 30 million in obesity research at KI",
+   "source": "Karolinska Institutet",
+   "desk": "news",
+   "published": "2026-11-16T16:48:17+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "longevity"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZzlNc3lGekNvb3NwbDlYS2FDT2EydTlUNjdtVEZxd0NBYTFFblpXcnA1NTZiNUJRUkM0WDZ3Z2otMmQzSzVBU0hoNHpuLU12Qzd6a19yeVVtRDZNby1uOFRnVTZITWpRRTV2WVBORUozNVJzRzFZRE9DbUlXTmNXNXZxQ2MyZllQZHZFelhFT3N5UmFmUEVTeWtaMHpRaEJweDJIMGJPTEJ0bS1aWHJQTDhER3lfVFhiNXRGOGFlU29ZUHJ2UnFSNjJEUVhkWVE?oc=5",
+   "title": "Research groups in occupational and environmental health",
+   "source": "Karolinska Institutet",
+   "desk": "news",
+   "published": "2026-11-16T08:00:00+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
+   ]
   },
   {
    "url": "https://newsroom.ucla.edu/releases/can-scent-sharpen-memory-research-suggests-complicated-answer",
@@ -458,6 +598,20 @@
     "longevity"
    ],
    "evidence": "Human study"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXJ1VzdxS0xNQ09lZ2hFNVVOQ1lkb0NtOXB3bWdwODJRWW5sWm9XT2xfMlRfM09JYU1YRmVvN213d0VSMllZT3poZXVJdmZCWGs4VmxfNmlRS3BnXzBCQ0RPaUNoZ2hVY3ZhQjd1b3NYcXMyM2xVYmY2Tlh2SUd1cVRsMW9oRTZJbjRNY1JVc2dIdjg4SFdjNjFB?oc=5",
+   "title": "Three brain biotypes found in kids with ADHD, anxiety",
+   "source": "Stanford",
+   "desk": "news",
+   "published": "2026-11-10T08:00:00+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
+   ]
   },
   {
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuaHEtaHg3dG92OXNOMElpTVM3WWdvM0EyZGFrSjRNcWt2OEl3QW9pREtScDdoYmM3UjdvYWZBc0gycFc5cHR3NU1wa0RscU9XRGh1dzBNeGZ0WTE0dVhscy1xczNGUnV0S1Z3ZFozVzFMX2c?oc=5",
@@ -652,6 +806,69 @@
    ]
   },
   {
+   "url": "https://news.umich.edu/antibody-shuttles-could-deliver-noninvasive-drugs-directly-to-brain-to-treat-alzheimers/",
+   "title": "Antibody shuttles could deliver noninvasive drugs directly to brain to treat Alzheimer’s",
+   "source": "University of Michigan",
+   "desk": "news",
+   "published": "2026-10-22T15:29:44+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "cats": [
+    "Health",
+    "News Releases",
+    "Research to Watch",
+    "Alzheimer's",
+    "disease therapy",
+    "drugs",
+    "neurological disease"
+   ],
+   "description": "A National Institutes of Health grant will fund research at the University of Michigan that tests the theory that an IV-delivered antibody treatment can cross the brain's protective barrier, one of the biggest hurdles in treating Alzheimer's disease.",
+   "ftries": 1,
+   "lede": "A National Institutes of Health grant will fund research at the University of Michigan that tests the theory that an IV-delivered antibody treatment can cross the brain's protective barrier, one of the biggest hurdles…",
+   "tags": [
+    "brain"
+   ]
+  },
+  {
+   "url": "https://www.cam.ac.uk/news/white-paper-sets-out-blueprint-for-keeping-innovation-in-the-uk",
+   "title": "White paper sets out blueprint for keeping innovation in the UK",
+   "source": "University of Cambridge",
+   "desk": "news",
+   "published": "2026-10-21T09:36:40+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "description": "The loss of jobs, laboratories and research capability that follows when promising technology and life sciences companies migrate from Britain should be addressed through contractual commitments from investors or acquirers to maintain a defined UK presence for a fixed period, says a new white paper.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.cam.ac.uk20260423_Office_Motion_Ray_Dolby_Landscape_Print (1).jpg",
+   "paragraphs": [
+    "“Too many businesses are born in Britain but build their futures elsewhere. We should welcome global capital and negotiate harder to keep research, skills and high-value jobs at home. This timely whitepaper offers a practical way to do both.”",
+    "In Should I stay or should I go? A Pragmatic Path to Keeping UK Innovation at Home, Pascal Levensohn (founder of Levensohn Venture Partners LLC, Executive Chairman of Dolby Family Ventures, Chair of the Cambridge Innovation Hub Global Advisory Board and Fellow of Cambridge Judge Business School) says such a commitment can be implemented without difficult and time-consuming legislation.",
+    "He argues that the debate over world-beating firms leaving the UK has conflated two separate questions – the health of the UK’s capital markets and the robustness of its innovation ecosystem – and has therefore misdiagnosed the problem. The commercial, rather than legislative, solution he proposes is a practical approach that can keep investment and high-quality jobs in the UK while the larger capital-markets debate proceeds.",
+    "“Foreign acquisition is not the problem – and neither is foreign ownership,” says Levensohn. “A central problem is the failure to distinguish between three different forms of migration – of ownership and financial returns, of domicile and listing venue, and of productive capability.",
+    "“Treated as a single, inevitable sequence, they obscure the opportunities for targeted intervention and invite the assumption that the first or second must lead to the third. It is the third that constitutes the avoidable national loss: a listing or an acquisition followed by the migration or erosion of substantive UK productive capability.”",
+    "The solution he proposes in the paper is that: “The UK – government, universities, founders and the investment community together – should far more forcefully seek commitments from international investors and acquirers to create jobs and maintain a meaningful UK footprint for companies born in the UK, nourished by UK taxpayer investment, and first taking root in UK soil. The fruits from the UK’s innovation orchard can be harvested – ownership can change, returns can flow abroad – without pulling up the tree.”",
+    "The paper quantifies what is at stake. Between 2015 and 2025, on average 40 UK deep-tech companies were acquired each year. If just 20 of them negotiated a binding commitment resulting in 25 net new UK-based jobs, sustained for the five-year life of the commitment, the programme would generate £312.5 million of additional gross value added a year by the fifth year and would cumulate to £2.5 billion over ten years.",
+    "Levensohn cites precedents showing the feasibility of the approach, including the undertakings Japan’s SoftBank gave when it acquired Cambridge-based chip designer Arm in 2016 – to at least double Arm’s UK headcount within five years and keep its global headquarters in Cambridge – which the Takeover Panel’s independent supervisor later verified were honoured. Arm’s subsequent 2023 Nasdaq listing illustrates that a change of listing venue is not, in itself, the loss of UK productive capability."
+   ],
+   "lede": "The loss of jobs, laboratories and research capability that follows when promising technology and life sciences companies migrate from Britain should be addressed through contractual commitments from investors or…",
+   "tags": [
+    "money_ai"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWXZkU2tTZDRIdFh3a0JMa2xkZXlfdUNfNnN6Tk1BSy16MlB1NzZMRHY3Tjg5VHBiMmZGQkk2RDFkejY0T2hmZ05obXZycXVibUp3dFhROXZhVE83TTVwanI3bFo4eWlINW5qb0E2VVpfXzRTVGg2Q1d0c2pUOVZBTGNPVW1COWk1ZVR4dVZGaGZ5VExZUkgyQXRMRnp3U21aanBuNzFyWjN4aDFCV3lTVVNsU3pKM1NDT1h0QWFDcXVuMWtUQXVKUkNvWXl0V01PQ0kyaHdxZV9NQQ?oc=5",
+   "title": "Sr. Research Data Analyst (Johns Hopkins Center on Aging and Health)",
+   "source": "Johns Hopkins",
+   "desk": "news",
+   "published": "2026-10-15T07:00:00+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "longevity"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUjZJVHRhd0U1dnBienh4UHQ1WnBhR1NBYkNrQXlOVnEwSTlNRDlIWmp2b2U5WVNCT3dRTDI3aVVCSnhZdTNrTjNBRUZZZWtfV2lnNzh1NUF5dG9zWjVMemstVm1lYXlrMVBHVVBFWWNMbzc3RTRHdEpJVDFIaVcxU3dGeGI0aDZCcEFUQURCTjFBM1Yy?oc=5",
    "title": "Frequent, Unintended Napping Tied to Higher Dementia Risk",
    "source": "Johns Hopkins",
@@ -664,6 +881,20 @@
    "tags": [
     "brain",
     "sleep"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRl9aMUhwb2RKNS1LQ0Y3TXV2UUpGUEdiRksyT0tMT050UnhaM0lna3E1RGQyaXZjZVA1Vk5QRlNGblVsSk02SWstVS1FcnYwZjAzRU5Kci0waHhEbDBhcFgtQ0N2RkVHc21UeWt0Yl9PMjhjQ3BxZkRERjRqb0htY3JXZ0QzZER6ZWE3T0NJa2VpWDZ0S1FCaTNpamJUdXhSdERHT2NheE0ySXFUZUJHa0piTEs?oc=5",
+   "title": "Study Reveals Environmental Exposures Associated With Alzheimer’s Disease and Related Dementias",
+   "source": "Harvard",
+   "desk": "news",
+   "published": "2026-10-08T07:00:00+00:00",
+   "seen": "2026-11-19T22:12:05+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
    ]
   },
   {
@@ -697,60 +928,95 @@
  ],
  "dropped": [
   "https://engineering.berkeley.edu/news/2026/11/seeing-clearly/",
+  "https://engineering.yale.edu/news-and-events/news/combining-their-skills-researchers-prove-quantum-prediction",
   "https://environment.yale.edu/news/article/mapping-hidden-housing",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/twelve-top-research-projects-win-millions-in-european-funding.html",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/07/eth-zurich-centralises-climate-data-for-the-research-of-tomorrow.html",
   "https://ethz.ch/en/news-and-events/eth-news/news/2026/08/an-eth-researcher-facilitates-the-breakthrough-of-solar-heat-in-industry.html",
   "https://ethz.ch/en/news-and-events/eth-news/news/2026/08/fibre-optic-cable-reveals-hidden-crevasses-within-the-ice.html",
   "https://ethz.ch/en/news-and-events/eth-news/news/2026/08/how-chromosomes-find-their-partners.html",
+  "https://ethz.ch/en/news-and-events/eth-news/news/2026/08/study-reveals-weaknesses-in-farm-sustainability-monitoring.html",
   "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/clean-sweep-for-cutting-edge-research.html",
   "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/eth-and-pefl-join-forces-in-learning-sciences-research.html",
   "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/robotic-help-in-high-risk-twin-pregnancies.html",
   "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/satellite-imagery-reveals-what-casualty-figures-alone-do-not-tell-us.html",
   "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-ideal-setting-for-sensitive-experiments.html",
   "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/new-method-reveals-what-a-cell-did-days-ago.html",
+  "https://insights.som.yale.edu/insights/what-we-gain-when-we-pause-to-give-thanks",
   "https://isps.yale.edu/news/2026-11-18-how-yale-students-used-data-to-forecast-the-2026-midterm-elections",
   "https://journalism.berkeley.edu/media-literacy-seminar-bolden/",
   "https://news.berkeley.edu/2026/11/18/theresa-may-will-be-the-first-visiting-fellow-at-uc-berkeleys-new-nancy-pelosi-institute/",
+  "https://news.berkeley.edu/2026/11/19/watch-how-a-uc-berkeley-innovation-led-to-the-microprocessors-that-run-the-world/",
+  "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdW9OZkdGNjFvRzU0OEVYUEdYSGFMSm1QVmhrRDVCSnNPRE5FNlA2YmFtZk5ITjdCamlsWERwVWpKeVQ4QVlIeGUwNU1WTkU5WkJHWVhfTVlIQkJZSXQxNHRER3RqSS1XZGpIanZpdFVXMUgzMGNTUjl2ODk1NmZMNWJrRkRuMTNWVGhpRnlCOFhxQy1JU0VnT1ktdFZVai1JWGl0bHZKdEM3Zjk3Vy1JcEppLVk4NVBCRTViUGpnQk9HTVEtTURGbUtsbmJ4NXJyei16ZGJndDlidTdkWXd4ellWTUNta2ZsTk8zZkdvRkFzTW9jTktWNw?oc=5",
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjlLVUEzNFRjbVVBWWpkQzQwV1VIZkRJNEZ4YTFzclNSZE01eDRodTJHcW45VTF1bWtGLXRqQXNVa3BydmtNcXRPVjRUaVBvOEo1UDZsU1piblNyWnhQbFhJbGNFYzk0SnRSODU2X24yVGhiOE9GRVJxaXZvYVJhS3VtNF9xTUl0b1JoeDA2RnJ0RGhuR2FmbS1UUGkwV0thMEFUYXRpZzN2MnNxSVIzWVFFYU02MDJlRklpS2xIN0w5YXhjaHpDdk9EVmNtZ3Bhc3puRg?oc=5",
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWNQZWYtanRPSTY0eW11YWpvODYxdnpoaE1rcnA2SnNSdGNrYXE3NXBmV0JBV0hzWl9QdEQxNl90ZWkxYWlyam5kUm8yWl9XZXh5UjhSeTZvUXNreFRoV285Ym1qaDhFQ0Q3VVFBVldQLXZxc1d6TUFiNzVRS092czlxSWxEeE9ia0ZuNlEwYnF2TmF6MlREMk9oU2l5WjNTT0MtNXlEc0hHcEdZNkJmdTdJcTZrWHVJZmY2ZEdQXzdXdFlKUHQyeWRkVlFqbjZNLWFDOWVYQ0Y?oc=5",
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSlQwRlpnMlJoMVhxWEFSZ1pKc0ZxS3RjelFsbjByT0lYMGxGcW5VZEdqcmktUmNsQXVSMlNhbE9jUVJIYS0xYl9TWnkzOUVhVWk1SmI2T2h3dzJMU2FITGttZkpEQ3RBal9oRVgzUjNXRlhkMFFUc0liZXp4YUVwUTVwdGNpcF9DMXlaby15LXhJMTFHV19RdGtwalJoVmhJaHJUc2liVUJTQlFIS2RUQndPck9BblVtNnlpTHEtX1lreHA0LWwyWW00WlFZTVVaNXZqLWc2QmoxZw?oc=5",
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlE2RFpDRzdpdUphaG02ZlRkaUNoNVZWZGd6Sk50TUdieWRadDdZQUJyanN6WDBmZkVtWDB4ZGZFSC1KWTN6S2g0OHZZUmFCTUQxM2MyQTNIZWtOT1hhU2ZwZ0stNlQ0bF9hX18zZlgybi1MM2VRX2tmYTNQbFpTci1uX3MtX1V2T3NzbWtLVkdXbjVwSmVRYkI2eWdXbExuV0h2Z3NmcTJyaTYwWjlEN052c0liNjRaYVd5YTNwdmlOQlp0MnJwc0JxWjZfMjFxT0RIMU9HSkFidw?oc=5",
   "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTndvQXhCVG9BSktBTlBYcEFoZGlWVWZvbTdTTW1rS2UyalQ2ampsdFhDLTF4WUM5M2dtd1Brdk5VUG5tamV5OU1pc2Y2Y0d2WDd2a21ERU1sSldIWTVQSDgtQkZRV1NnNm83aHFpcmNDcGhjV3FMdHdaaVQwTEc0emJnQ3hyWHFWNHVITjlTYTIzSFZzc0FCZG4xb0MtcWJfTHVNM0RhRlNKUkFBWFJTUVZqV2FDandzUXJiYVl6N1pUTWZHTGZMd1RSWkFNSENaWDRRcThJd2s3WU0?oc=5",
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON256elNESW5IVk54RGpOZUdWdGZNOG83ZjNucFhjcFFwd0xQLUoxeWN0bThhQTJBOV9WVUdaRERRa182MXZycUwwNXZyYUtiejBjUzhCZnl3MFlDU19uNzNXYTM2T1FxNTV2YUNmakhRd1pQUFoxNW45c1FYX1pPdkl4UTdleGNyQVpuQ25yTWpFVFNwNTFfQ0ZEQm4wT09tc2RhbEsybGZGX3N6QjFZcE9GVlluSzAzTmNUNkRiNWFmM196eGtudFU5TTBHZFdVbnJDWEhWR3lNTjhr?oc=5",
   "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2VNRVBvOUpyNFpvM3VHVkhBMDVqYnV3TEM4VWFFQjFIdkxkLW01Ukg5QzZxRjNaRmwzLVZkWHY3Z0ZrdUdVcnU1ajNHT0J3UEc0TTliVldyb1JzT0hHblJMSlR4aThRS09VSFlSejJ5NHZFNV8xODlOOXZBTVowS3BjRUY5ajN4dXFILVRkb3B4VTVScTJQckdzUWZ5UU5VZWt4dmUwWE03cjdaZ09pQzd2cmR1eWIyZVpuRWFPNVp5YWkwUE5vTzBCRVVIeUY3Z1IzeXVDNVg0bE5Nb015Z1ZQSzRhZw?oc=5",
+  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM0xYMTBDM2pvMEVPbUVDdWRHTUEydU1pbS1ZY1laLTBFYzRtRGduZ0ZvSnZqX2lEVmVoSHZyRTNfU1kyOUZVTHFNZ0lPSU9jRjZuREFQV010R0ljTktHQ2owbXhTaUFWbkZBS0M2Sjh6N01iN2dZeXljTXZMWVQwcG5pTWkwZFRWVEV1TjNyNHFKOHBEMFluQ3hNZ01DMUcwRVFwakRKSE9haUx5MVB0d0h3emFSTkF3MWQyeG5BaVdEMHd3Yzd1QTF1WlBVWlB3WVk2Q1I4ZXc0RHN3dXRtRUE1MWptMU9qRmc?oc=5",
   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSmU0UTJJUGx4WXhZRXNCdHpJbmstQ3Q1TzNQVlRBTnIyOGJJcFl0ckJUa0EzRWhqYUxKZG1YMVRadDBwcDB0UkRwWTVqejFseWNaeW5mQWswaFZ4cGlHcDN0T2hsSUlubl9lckZhdGJNbDFxY253QzZRbnpsTXdweHdQZ01HOUVDTFFCRkJvelpkOFRNOEZoSzU5WnFvRXZzUVQySFRYcWtMd0x4cnNKUzUza3pMaVNLdEloQzIxTUlwWDR5aVNmVnpweWJFMzBFekNhUnhfOHR1MTUtTjBKSk5Jekk5bGFwQkE?oc=5",
   "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZzk3RWdBZFpleGUzRmNiNDZNcjJ4REpqelF0djV5T05SUDNia21fbHZVdHdVSnFCNG1XaFNfd1BoczRSZjJEUUNOOC1XM1dVYkpwRHA2eVhXdzNkQkhIOTJpdExkUDEtV1U1UmJwdko4ck1WWmxFVm8zelpGdVdCMkl2NndFMU5SczJGc1hfM3Z3REVkV2Q2b2dlZmc5ekdWeE9SNlhaRjIyWlhPNFhWa0VZRk55b2w0VENzdEozNkpUUFpDMlNQY3l1NlRlSVkzXzJIdWtELU9qQnpRUG9RZUhnei1QSUYweU9hY3VB?oc=5",
   "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nb0FnSDdVbFI0em0wS3I2UUlwZHpxdU5aeEhpdVVsLUJFeHc2WElwMGpTb0laaFVaXzdCX09JR3ZBb3NEQ0NQc1VUTWc?oc=5",
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mcXpHWmZsUVlsUmVaNjlxZExfZGx6YzIyNzlzTzVLMkgyQUF5YUJfTlJjTTl5U3l5c29XN2tqTm1SSTlwVkg2LTNqLXBNQWN0?oc=5",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45ZHdHNkZwcEVaS2c0ajFVcWJhNjR6WEU1VHo4QkJuLTNrQ21FUjBNNzhINzEtdkNHUWxnQWVDN09CWnltRWh3RlIxVDB2WEdIeDZIcERydw?oc=5",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LbkxJNW1TZHY2M2YxcTRzdmlPQTFIMmVKMUFQQjUwWVB2X2FHVUlQZlBVS2tXUW1lSDZUWFZUQjhYeWdNWWs5NjhaVDROV01NYXFBUGwwYUVxUkU?oc=5",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OUVVfZjFEMENEdWpzUXhEd0lKRkhqZGxhdlRwZjVsWE1BMUF6Z3pkR1FnaDVsc0FSMXpnV3RpaEYxSUNkS3pPcFVKaE5EMWRnSkctWHo2VW9UVDQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95ak55ZGIyMHJCOUJLdFRHendYdjBLSktwWGg5YmUyTkRESmRTUlVwX3FVV1pvalQwWmU1NzRSNUVUdUlneVR1ckVxODVxOTVNLVd1VjRqbFRXUlU?oc=5",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NRXp1MnJjQ19RazcwcklySkYtdDZGbTRwOUJmWmlZaTVfTWNrUVZ6R1FmX2kxWGF5aGl3RjVXVUIxMW9FZEZCM2xCY0NKVjFZVlQ4cWVMRkpUbG8?oc=5",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5dUVONXNwRVR0MzJhRndpX2VWTmNGLWUzdDJlX1dlLWtmWG5HWVpLZ1Juc1ZRUG9wRW9vcVRfV0w0blh3bUZ4VlhGNVREbHN6YWhkOFpYbG1WSDQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydVdPV0QzUjBHbW1FcUQyU1pjbGp5T29Uc0hvTnB5WGxSWkJDaXo1OW1nRTNadS0tTXc4UzMyZF9CNllrTXJnRnQ4ck9pMnBLVDluLTIxZjVBMGc?oc=5",
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSHlCUTIxeEZxdG9oSUNPX0tUU0U1OEctbUljVDRfdnBOV08wTGtiWlgxZUZZWWNQalZDNnFlT0lQYmU4RnRpQmlVOUtlN0l6M3NiT2ZJeklYdw?oc=5",
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aR3pxTjR0MVRTbXZJM3dkdmVvblV3S3YyZU80N2xYMW96S0xGUmltQ01DWDVKU25LeVJPTDZnY0piaVF6QmlaendBYzlTdElTVUZlTUlscUQzdw?oc=5",
   "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuNWpCM2wtMVV3TmFMejdNVHhEeTNRM2Qwa2UzYkhCcTFxV244eldMbklLX1VwSnVWTXBialJ3bFF4dUdsR3RveW9BMFI3TlByZlpsNE55ZW1ObWRf?oc=5",
   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ld2pZODJGWEN1OEpHMFhVeU51aUtJa3o0blVKV3VfWldTX3JSSGZnbmdPZmh3OGlsOVFOLVpPR0lKbEl0QlVTVTNva3hJc0RlQURmRnBuYXUwNlQ3cEE?oc=5",
   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rZUdHc3FQMGxiZC1xYzlPWWZPQm02djU0N2JjN1dRdlVpMV9vb21qMlJxcXlTZVlTaExiOUhXRG9jWWRIUktNSHBKZHJVQVY1MUFFcDVYU25HTTd6T1E?oc=5",
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YMU44MzhqaV9TWktIbnVfWDN0a20xYWJTb2VZMXF2Um5RV0txdDQyRGhKN3c1U1dSMFdyN21qVU85OXRPSkliOHRFZXdCVnEwcFd6UkJncXMxMEhYdkJ0UQ?oc=5",
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZbFluQmlGRmFuYXRWanl6MmFSYjFidEE2NENkb0Jqdm5IRFlNeHRqZVdfTGpxaTZ5TThyZWxpSHl1Y2ZlOXU0emZRZUo4d01MNFJlMkVwN2o4VkNmRUdRQmg5UHlzT1k?oc=5",
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fbU83cUp4UVhsd0pieVBsdjVHanR6RWx4UFhJcEFFVkgyX21tRXFSZVlzek51RkRxemlOYTFRNjBpVWpnaEpGcTB3eWt1RHpwRm4wTEhubTJ5TVRKR2hpelpjbUM?oc=5",
+  "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYzN2Y1FldGQ3XzJvcGRaYllQeTVtYU1NWkdGTmpneE96Q25oZ1FCWl9icVVxaUJyVTZmcFVXVVVMMVdwck1KTjZkR3BUbmkzUk5mWXZIdGJjYW1KcXkwc3lURi1NLTE3Zng0VnhYbm9iSjkyMG0waERfUTFBX3pPUDNuLWxnR2E0RmhBSGI5X1JIbGI4aHNPclZKYWc1WDZral9DVHlfSUhJZzliR2N6eGg2YUdDSTNod1R1NThJcGpOUG1aVEJyQ1BIbDAxSGEzZnlVbk1PZWhPWUNjSzVicjltYlN0THc0bFRwcUw4ZVFJN2pjZFl5OGFjWHY?oc=5",
   "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTWVZvM2RRMVhZRHkwLTBQcjJwOWNlTGRmVUFlcjMxaTlyLU5nSzN4dmQ0dnFFTDBmS0NRc2EyekZRRF8wTU9fWER3UXhna3pEeGM2bXoyRUNyRkxaWHgtc1ZLZ0FScTZZV1hr?oc=5",
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tdWhuVUM4c09tNU0tVFZDc1JqWEh1UHhkWlhFeXhFZ0Zob1cwbEs5eEN0emdrM2ZXYlJQVXBxUjlhbnBMY3NDVERPcy1WRndyYVhWaU04dmV1MnRWY1ljTzdZSWVjcEJS?oc=5",
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Uc1VVSlc0d1BFczktbmdXcU9wLWJFQWxETVNvdllsS0FMcVhqTm1pdXFSd2Utb2c3aWZCOTVERzdQNzJvVEJyc1VYZ2lOMm5LblVFRnQ1Yi1QYzI5b2NtX1BTWGtIT281ZWc?oc=5",
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iSUFkWmJkc01QN1g0TFNGY2FkNUtOcDNTX3NBR25PMlVkLWxodnBmYzJiR0tnZ1JkTS03Mms3MG02VkhQVHgySEg5S3pmRFZsaHpxREFuYjdRWG1zU005NkVhWG1VbE1FN0Vkag?oc=5",
   "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Sa3l3RmFZMHZlZFZWMWJ6a1pTUWxEbGZvLWNkcVB5dHkzcVlDZXpQWmw1MVhpNkZwa0hwOHViMmhjZEw1NzFWc3h5WVhjZkFDT1ZzbGlHeW1xbzNHSVhBNUZYbzZuTHlfTUg4dDhB?oc=5",
   "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SMzhBLWlpTUUxdGp4QzlUOWEtOEJEME1KZFAyUzZ5ZHltQmxKZnRFZTBxbzNkdEdMUy1zd2ltTmtjSVJSTzdELWwwWTZDNVdBZTdlV0lMR2VIbXJWX0hXZy1WR182NGRQQUViTGd4UlE?oc=5",
   "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1U2kwM1Q3R2JRLWI5N1pqcGpkd3pXMVhIeHptejc5TnpTSk0zU1p5ck05aFhFNWl4S0xfS0w5RU9fTVVPcjlKV0d6VGYzVUZRM2pGVHlVLVh1bnBJaVFfUDhfOGFpaVR6ZmZGbnlBYUs?oc=5",
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE9odzNXeFBzakZhQTBTQVRVRG5sSTNkeWtJbURyTDBPbjEyTzg0VkpKUFRkRmU1OENVX1BES0s5elNvdkNUSEFlRU4zcGsyenlaVWQxWkhlSm5YeDJ0MENFSF9SVGowMWhsaWo3TS12dHd0UQ?oc=5",
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URFBmOGk1TVFzT2NwRi1kQWZkaTFQZjRJZDFpaDVkdjNrQU9Xd3RkMFpwcWxkeWVveDNUZDRkc1dIVUVVRW1fVW51WFdnV1VMZHI2dUVJS20wT0F1djViYmIzWjRvN056eC1aYnlCSld6amR1RHZZ?oc=5",
   "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WWVRDeUVrY2Y3TjVIVXQ3SlE3WEVtaDZkRHU0OEc2WEYyYUFpb2hCTWYyN3lxMm9JMFJFT3dMa2R3d1kyR21qSUU1VGk3T3drWmVMYUNpNlMydENpUDF0ZGtiYVgzcVdHb0Zrb0pnQi03dzZrWk9VZw?oc=5",
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oMTdzS0FMM2NtcW5sLUNlV0Zxbi1LVzdPcUhLaU1YLTBqMW5TMmJMTFBBT1kyUHlMc2R0M2Nlc0ptbkxXbUc2djRtblVvVVBYbC00c3hFMXV1bkJXS1F2YUVzSThFRHdhZ3JLd2V4UmtqNk00VUdKQkFR?oc=5",
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wcGMwU3dndGE2VWJ2NnhRams0RHJTLWkydlBxaFZpX2JCRU1seGtDNi15cHNtMnpkaEVyX1IxQ1VlYVBOdXdfbng5THgtM2g3RTg0S0EwTlhqaXdNOEFyNUJtUTlDZlhXdXc0MWRlN1l5cWNiVVo0em9iTEU?oc=5",
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zMFpETndHem1IWVFDWklHQzItVDB0clNheEVjX1Q0M3hBSVF1RExMb1hyeTQ3OFRqNk1zVFh1cExXWUE3RFNGcEZKdVUyMGtkTFpfLTlBMklkUkJRX28wVk5uWV92MjVyU2NKY2lyZGN4dmQzbVVOUGVDSTg?oc=5",
   "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrNlB2bXNCSFB2VkEwSk9rWHJpQjROSk1Ga0lzcUJMc0lSZHdXRlVpVDQ3WWRtLVdDOXNHSlhaTHNLNmdQeEZ2ME9QclM0UVZFclRTNXgwTGc0cTdFYmxvVzVGLXNoZjgxbWpUekZiZWRlRmtRb2h6MHNoMjc?oc=5",
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeE9RZ0NvR0RTSFZlb1ZqYllxUnFwOUJfd0x6ZUJFRFd0MUtta3JwV0JzbVF4YjBpSzVKdENSYUV1R3JsZHpIODFnTFJCczR0bDI3YnUxNzBaRzFBSzh5UnZVZzZqMGl3N29DNzhDdmNxYmwtaXBHSnlvYWFpZURnag?oc=5",
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTm9TTzJvR2VEeTY0RmtwTV9kQUdmbE9BQm9BdG5pLXMwSFU3TjFCYlFFbDVxTU0zM0xrMTQ5cnhrVHFiZnBLWFpLVHllOVdsRHhzWEFwWkxFbTltU052S0hiYlVaMkVGdmY5UFlBbUlzRnZEQ3RLR0FhYnl1Mk5VMnVB?oc=5",
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmtfN1AwcmtBVG9qOXJidG02WElNbE9IaFJMMHR0c29LbGV5RDRUa3ZnTF9ndmRDek9MbWhZZGdaUFpjWWNTeHV4dURHcTJYclNqbnBjNl8zYWY2QzRTRlVwTTRXak9FYWtxLTNCNUozVXFiWm8tRzNJTGZhWmNVZjZ3?oc=5",
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDRiTmU4TnQwY1d1Nm02NWFpTnptcVNDQktuM3U3R09XTnZnMk9iQ3F1SUVfUjNVczNKRW1aT1N3ZGZ2V1FkMERlQ19tQW9vNWQzblg5aE44ek1JS0ZGREJCeTZkVzVSSVk0ZHFOMGN3S2JpS1dXRE42OFRxcml3cHJEck0?oc=5",
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWI0eks0TE84dVIzd3NQMm14R25OV18tc2FwRjFka1ZWZ2Q2Mlg2eW13a18ta2tkd0k3SFJRSVdyeWZyU3lWcmNhZ2t4ZHcxSjVBd1RYNUlVZHhPUHo0MDI3MXNpT2F1RWdFSUE3amFXR0hwTjRSSFZRVUZ6a082UTFzSjQ?oc=5",
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUFGWXNEd0FxWEg5dDNDVnpId1JMamc4czRDaUU4UkljUDBKdDE1Zk84dnR5M3ctWmlmTDhMc05ZdHJYUTRqdFVjaGxFS3E1b0I3ZXpoTV9yemtGNEgwQ0tLZURXWDJJWXI3cUtnN2pnZGdqampzVkxERkpSMXM5VVNiTmpZTU0?oc=5",
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0lzUXR5QVVKWlhfMW40enoyelZyckVEalYxdjJOYTlMUS1ackZEM3BkY1EtMGRDdm5QNXcyNGVGdU9OaTg4NmVXVEx4YmRNbkxrRXE1M2hJelZTTllvNmVUbG12bGlmMlF4d3pvdUVfTk9HYTZNODlPSzFWcFRuQWVHRDFmR00?oc=5",
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWdBZndkTmhSZ3ZEN1B0d01zc0dSMDJ0WThNV284b1FHUXZwb29NYnJVZGh5a3o3MGFObnpwYXNSdDhFdWwyRWFDWmFFeXpBTEtKTmxaNjk1eUtPb1Z0V0szUUNpQ3Z6cUYtWlBxbUhmSWVUNUszN3diWllQeGdBTjViaE1RUW5a?oc=5",
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanBEdDk5SnFmUGtJRmM1N0FBcUpZN24tYVZmSFpLUzhtZzRlU252LWRaQU90ZGE4TXpJc3VrUkM4ZmVqVEJHWFVEVzVxSWVGTXhFcHBrY180ZjhsT05xSjFKU1E1bTQ5Q1BkdGhVOHUxQ0FxSE9YaVdlY0cyTzY3TW54RGNHNTFYSnc?oc=5",
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU3UzZWU1Y2w0TGVwZlkxN2ZSSDVlY1J6RWpMSzVRa294TVJkc1FuOXBtb0ZWcllGaGNtc0dZVDBiXzBTYndlSUVONEIxU2IxR3RpYnFILThyZDlSUWxNb2xXZDFib0Nxcy1zSENrZjFnUEdwSXZlWFRJeC04ZU1oWDJSa2NhZkFCc1E?oc=5",
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDF1VDFjeEM1dFE0SGlLQlBCZnJYbDlTZjhxRjItWXE2b29fOTNOV2duYlN3a0E0aG55NWhmMmxnY2ctaTNyOGxQLXh2UkdfdTFhZXFfOUpGOGt1aVh2LWY4ek9iWDRRa09mR0Z1bkZMSUtSUFljTXdxcTdZVHhFaVFGWnN4bC12VVNN?oc=5",
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelV5YkxFRFI1anNzZ2VWOXM1YXBVN0JxaHAycEV5cTVpQzVDM0hSRzY5UmtHYkhXbURuVUVGLXZFdkItQ2R0SlJaaFZHZnZKMTVPeEk0QWN4MXQycS1VLWRuazBqeG1EeWVqbHkzZXZCS0ZHbHRyeW1ZMVZVVHdlZnBRVWI3c2gtUUVBOGlwUQ?oc=5",
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVhRazlNdTZWTkRWc2k1LXI4VzVib0xWUVBZZlRhRmpoYzY0ZkV3eFBKNV9BdWFYMW1BRGw3d1JXZE9fU1dud0djTVZrY1QzRjNwcjFIUGJsSWZJclgya2did0U1azNINlFoUl9OY01tS1JfUXN4UkdNS2RQZ1RuX3VuVjRqMFFyc2FsOXdqYw?oc=5",
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVNxc3V6eUptVHlSaU9zUzAwTkRfVlo5MlpBQlVNenpSbC03djN5M2lRWFNJdkFtRUxPWFRUUjhjdXlwS2JBcG9IWVNPZERSUUZmMW1EdXU0V2xPOHpwM0MyUEt5cEh4MndqTzlUNXk2bjQ5QVQzc0ptVlB2RWJabDU2RW9sVEwteFNfeXJSOA?oc=5",
   "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTTg0dFhJY3JfMFF0YWgzdng5ZUZIWm02UVhqaEkzejV4N01vNExDX1gyZE1uUW1weTllcE0yQ1NQUV9zd19GSTNvNGF4RUpKNVNPbC1xYlJNSUJWZWdZcFQ2Qm9PODBaWXd3TFhzZDFtVm1MSHFXMGZQcW9QTk1rZVZGemoteDBwTFBDV0ZCUkhMb2RVLURtSTBfai0xVGNUSFJfVDRqc080bjJWR0h6eWFWUWo0TmsxZlhlSG8zZjNyVVJWT3lpZVNnN0tNOEdKN3VTRHl1VmVQTHZjSjRqMHd4bXhsZ1NPSUVRTks3TnIzMEdVUmVqbHBGMkNQbGdlTXdzUjNyWTRwa1cwem8w?oc=5",
   "https://news.google.com/rss/articles/CBMikAFBVV95cUxQME1CbkFKWUxWMXd5TXdPeVhFd2wxckJiSG5YZS0tekg4Zm9VSXRLd0o3WTZyYjRkbk9fRHd6Uzk5dUl1aWlqUmpXTlh0WHZJSmpwNXdiRE9rTlBoX1FSN1UwWURrbHcxMjJKUVpaaVUtbDYwN1QyeE5YMGhiNW14SkNra0VNVVhNeHhnNTRBLU8?oc=5",
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNTZnQ2dJbWpNZ2dFUmU0RjlxOW5BU2xQdndzcXVMZTJ4cjZFMHVlSjJTOTYyRXFzdUp6aWExeHNRZXRRcFRpZUx0UzA4RDNzSWlOUklqSGdwUWlHTzA1UGNvc1poclJ0R1EtX1l6dmdmQ180d2VtVEFoOW5sb2RuN2F5TG16YmRuUG1TSlJ5OTRXdw?oc=5",
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY005cDBlNjVhRjZmenRpRWxldk5wbzJIWU1Sb0kzZHd0VlhnVUNPYzF6NWZVOFZyVGdhajE3a0ZaR2kxQkstd0V0Rmk4UXR2V09Jb2dvYmRWQUx0ZjZGT2duanFCTm5kRnpqd3Q2Y0pGR1dtcXd6XzlqSEU0TVlzQXYtOG1BSF8ySUlLZk5RVkJvdw?oc=5",
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmJSNTc4bDhOVkxHc1F0OG1ZeFN5TkNNM0ZBbG5xcDJCOEhOWHdvcmpUR0pfNjN5cGNvTnNWaFlMY2hlUG1kcmtFUFR5VlRybFBiQW1TbkRQZldlUHFubFk5ZEo5TVZFZWNFN3hrUVR5alB5WFpIY2oyY2RIZXBfR0lDNmpSd2FOQVpTZm5hZFFVQQ?oc=5",
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMzQyWE0tVEhhclJ3b0duZElFbDNsUGsxMmo3eEg4NUNkSVRJOE9yalVpd0xiYng3UVBnekJjejNnbnA3ZnZGellwLU9BeWJlbWNnTnlaLVRjOUo4bmZfbHJMR29PRDI2QkIza1ZCbEc4TkMwc1pzTDhtWmkwbVQ0YTlpQ05XLWNocGdNTGFsc1RES1k?oc=5",
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHB3RlpJZm1zTjdaWHFFazgwUXp3elByRnBhbFVZVWJacDlzdmxYVmpTaEhYRzIteElsYUktNU9qQzJBdjg1M1Q0bEt2WFN1UmZ4QW42QzV6WXdrcWNfTlRaS2NHdkJoOXFLZzlUVVpBR1M3VHB2N2dlM0hmeGlKaVppbEZHVDVrQkQybHdIOFNJRWc?oc=5",
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0s2S0RsWG9QNkx4MkwyXzFIMHVtcFVHaWEyOFBPYjVqb3Fkd3ZaaGxtMHVRdkFjUG1PSTZ6TUVZWGtsWWpFNzM4UmpfbkFUNzVpVHRhZXNSOURxUkxWMTNiWEIxdkwyM0xiME9sTDM4MU1USE9KWUNQTGZrTzU1Y2tELURCVWlSUmphUTNmZlI0MHM?oc=5",
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlAxa2xKU0ZwbnVRU0lwTWV4cjZtZllOYzhLeHZfWjhGQ3Y5TmwtUmlUOGxDUmtoWUE0VktidUpSaWRTMURkYXBOcmJDWkZXM1FTT3BDSjJXNl9JZFhCSmZWdlpfZTRodTVoWTNKYmpZd0pBWXpKdXZuUnN2c1JyLVdCMHBIcmdkdzdYWWVsTVIxOWc?oc=5",
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFV4NGc2OHZEU2FGRTBjN3A5MXJzMW5sdUxHSmlpRFoxeG9wblZFR3Ztc0pfNktRSnRJMmtvLTVqRjY5V2R1bklIaFF3STZ3Q0JXMWFMTHBtU0RROUdMeXFFa2VUQUVzRk05X2MzQjdJREkxMTBIVGtBSkkwOUpvbWNGVHFNck9PRUtUX29uejBPNmc?oc=5",
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTnF4Y3JhQXVrUFg5U25NTlMzMDdJTm9pN2JLNk80RzlHV2xtT242T0ItX0ptX0pkYnBrMzZ5anBOb1Frc2RxQl9hUjlhU3oxc01pekdUWDRVbjlPMGxTRFdTV0VLcmMxTjgtTEh1TDQ1QXUxaGVjdklJWWk1emNuOEQ0RXdpekhROEpPOGJ0SkhqT00?oc=5",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnFUUXg1SlBmZkxVX0xaYS1maWpUcGFhNGowQ3ItQ0NYdnBpOUNQZFVVYXRvblRTXzYxQ0phRGR1eGdGeDRvZVhhQ1J4VUxFUktvODdVV2MwTmZXcUhKWndDaGh6Mkw5UE1EdEdQX2RaTEhzYms1V0JXMUlxN0FzdVV2TlNwV1E1a0MtUHoyNnhITFdE?oc=5",
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjZhUV95ME9KdGJhV292ZDdOVlBFUWQxbkp2aXVSaHQ1RnZqYWp0N000UzNPTWdnbGZ3Nng0cUhwNjA0S0dFTmFUbkNYaXBoNmpud0s0cnFvejgwWXB6LXMweFBIN1VtNHg0RVBrczNzdmNOX0dlOWVQMWhNSTVRYXhrTXFucUY3V1R2NFk2SHFmRDV5?oc=5",
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDhIbmtrN01iT2FCZW13eGN6MXpZSjN4UDZuSFJ5WExxUTVHaExYUlhRaGhPaU00ckV2U0lJRUlMOHRDRXRVbVNmaUtZaVIzc3dpOGplX3hPakd6R2M4M3c5Y2piTXpUd2RYT1FBX0ozbHBaNmNLU0F1RFVtdkIxOW5hWnFoWVBpZ2UyMFFDU0xobDBTTDlv?oc=5",
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVVudnhYY0o2R285S1g4SnJlbUROZXUteEVnUVlPcDg0X2JkN1hpSnFzMmV0RTJ4UnRhZU5YOEJjZlB3ODJOZ2R6OTY1VkdwaDdIckVBTlYzRDlSMTY1TklBTndnTjk2b19OZzRFeHVtYkNxb0t6Z2k2VXFZcXMtaHB3WnplbVhfSlBkUnNiWnNlZjV5NWN3?oc=5",
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEJ0T0JIOENmOENfVlk5Zk1tQWtoTEFKY0toZHBnSkt2Z0xiVVhOYXpHTF9SMjgtdVNIVkxOcFp3Q05LYXZyQVVxSkxsaVQyelZSR29OdjNseWMtUmJ0d002TDR3VV9WYUFNZktLczlKZ3F1SnEzS2w5S0s0VGZwbUNKdHpkRkVJSkNHcl9hR29mVUpOLUkw?oc=5",
@@ -761,13 +1027,19 @@
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVRhZWZQbWg4TllGbVp5OUZDd0hWeS04MHdRd2tmOVFibG9aTU5CS2hfWjV4dC1iQllRdXc4RVNtN21feC1BYkxJeEd6aERkWmtyMU9NZjk4Nzdzc2lybXVKQ3VRTWRkeWZYdmVQeGZUMlpFeUhDWW9sWkNpX0ppck4td0R3LUZYbVpPV1JWNkY1bXhMQ3ZJZHNMNkJRNkU?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjZyU2JWam80LXhjcngzM3lwdWw4N3BUazcyQXQ3cGFIa2lYQzZSbVZJZTFCYlhVV0QxT0E4OUZTYjI2ZnB0V3FUVk1vYWFjeE1vemhQYXdKY0ZuSmJ2aWpGSTRmbTVZMEVsV1p6akVxSUdVZ1E0cjZJMjNTM05sSFNzQWpOdDFKaVkzSm1hM1Z1TnY1cG1JUFVNcDRXSjg?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVNqYWsxcFhOWWlnMzBJc1pVY0V3RzB2S3RiN3hJSmU0RnFXY2VBS3p5NWR2YVBPbjB6WDVBNHByTkFhVGxMcmhuYmViUHludk14blg5SS1ZejczNkZraVJ0T1JxWVRFcHpXamZ0Z2VmM2lMTXJldkNRaUd1dmVZN1VReUJiTmRSYnNpQWpLemhZV2xzcG50RGliWUU1Q1U?oc=5",
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXJtTXlydy11bXlWX3RUTUhXUU5TbkRpMWZlZV9kbHR2TEQ5UG5kUHh3MWo3R0ctTUgtQ0ZKdXphOGcxQVBiMV9BcHdyRkNUT2Y1Rl9FUlpjNmFtYkdXaUdmLVctd2Zpai1Fd3BLN0pqeHhFOWNaYnpPY2dpb0VSXzBqMjJLSWJ0alJaVzhDbG8zR0JpOFhDekRUWkxVYWRJ?oc=5",
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzBpNnI2MlpTTEVEUFZnWVUzU284WmV6QjVQYnlKUV9DRFZwTmUteExldGJwc3dmcUtCWmZERVluNkZ6SUNmckctMDFzQjNhaEZzTW93UGstRlllTFZmdWg5a1VsYUJqUzc2R2tmSVlTaGJiRGxQaEVFUTFJd0tXZ0R6S1BCZEl6dkxpLXVHS09tdWRFUlJCNWc4alowNUdG?oc=5",
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFBGUFI3OVBmLWM5dGEzUjJSZmRGeEg4b054V1lQanVNRTB0NjF3dXdtLXdONHNTQzc3enNkTmpJVVFkNnBNUFppeUx0RjJQOFliTFZGYWxXdlFtUU9lYnRYTXhiajBDZFZFTHcyVjR0MlpxQlUtWEFVNHMyT3czckU3LW9lYUZmdXNpTDE1ZlloU0RPSnZJOHlUdi1CbDkz?oc=5",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVRxOVpNY2JCOEJzXzFsSGI0WWd5eU1aclFEei0tamVjVE5SbGptYTZoUWt1ZnF6a0ZKdlVaUzEzc0E4ZUtfTktkeC1vOGNMNkduaXFnQkowTG55X0RETG1iNDRicFIxbXoyWWFJQ2w3LTRHNGJ1Q3pGbU9CRHZsZXI2N25UaXp4THJhbEFycDZTd3VFeldYR2ItaWNaNFB6U2c?oc=5",
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG9EckZSUDlwcW1jQ01LLWF3cHFNZlR4VkRxZkpYS3ZmTzIyWWFFblhfZW91eVF2MVpqMXVJU09qbUZxTjR0a3JUQV9MWG1md0E2WGRxVzNpM2ZzaFdLcndwU0h6cVhfS2ZZSG44aGotc3NRV3hCbDRzOHhWSkt6ZTQ2d213bTB1bVZndktPamtINFZFN0FxSTJ5dldBcGVEdXc?oc=5",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0hBb1QzYkQybnY4MzhkWGJKZDVYQmVzN1AySWgyYU05STl4MVR4Y3ZsdzI3YnFsVF9ZbERMRkUxMWk5VE1IeC1IaXZMRmh1OWdmNGMzT2c5RF9wSmMzZDdFMWR3NXd1QlJDZjJDY2FaZEhwV2pHa0tJa3pUaFJHNy04Wm1qRVdkNVBtX1NhOUdjT3N2QXpnSERHNjd0ZVBZdkE?oc=5",
   "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdEprX2JOX1N6Rjc0WGxsR1hLM21EMzBrdkdHaXFJU0Q0SFVPVEVZbngzamdNSUtpeGg3MHdsNHpIZUhiQXpadVhmQkFOaHYwRDktb0lVN0ZRcGxSLUdRZzRXdjVTNWJNbnVIN1Z3alQtcXltcHRzUV9ranpROXUwcjk0aTBwMGViU0VET3hKaHppTjBWVzJST1k1enFlM29neDV0Njh0bXpsSzZUSzZFRkZ4UGRfQ0JQX1p4Zjc2MjI3bElJZHlnemxBVkdoQXZtdWZZdmpFWWdncm04Z3BYWWNBWTZrVGhSR3lvN251cWs5cmlTWFRGMnFuZEphcURhRFBfUTI4U044VXUtaXduZTVsUjMxREYwcVBCaUJfWlMxQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUk1YTk03MTFZNjZCa2R6RHRZYVRieDg2WTA3a3VpSzlWYVJrWnhLeFZxaUZUY3FFeHhtc2NIckZLY2ZPeFFnNUNpRC1qWkphNWZfMl9HMGlUVzFNUl9vUmZrYUQ0MEd1bnZScWxnT2w5Z29fNjA4MUhFX1RQSFZERV85ZXc2VHZHR1ZYOHBHMWVEcFhyZER1dmh5N2JSNHlFOV9n?oc=5",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFRCZEFZYkl4LWljYUVCNTlGb3B6ZDhjYUh2aVpsN0llWjdzMUM4eGFOc21INFRyRGtfcGZNaWZXbGhmTTg1WDZxeGNSV3RhRHZCTk9adGtxTHlUODgwZmU3T0std0VET28zdUl1cTFOekc5Q21Ga2xhb0lGcXRIOE1sb295UGJOenoyU1l0RWNDVE9qVGVrdDJqNlFNNmVNOFZN?oc=5",
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXVNc1hKQVZtalYwY1NUbUpRbWF2UnVJY3dpeUpLc1F5S0ZLZUlHU2pSdmpzblN4aER5c1owMHhiVWtJSXg2dVBVanFHTTl6NEY0VWZUay1zaEt4d3BUelpQLWh6STIxZTJBU0JfellIdm13VWNQZHM1dS0xbTZmRkh5a0h3Tlc1akJUWDAtRmQzSFhGZHFfMUR6bXJneWt6RDVrdg?oc=5",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUVkR0hGUG8zbk16YXY0VzhXeHZCS2N1OVk5dGF1NElaZUxGUVVCQWdpVjZlN2s1OGVuaHhQMEZDMXkxbV9fNFR6RFBScVRLZmxJblJfa0RzbGNVWk1tVzB4NlR1UHhnZjZNU1pnUC1UVUdGQ21keEJQMUhNRmR5dVhuamdlTzZIcE5adk43Qm4xYzEzc2t3LVNpTWgtT05fakdWbVJR?oc=5",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbldaUk84dm1ZMkh6YnFuWEQ2OG53NkZrNVV4S1dReHhkWmRlckNJVngxWEZraFNSZ1NFYU5LWGJvd3hWd1l6ZWpXTWpQZ3hMeVlST3JkSTUzalFtTVR2c2VnTXNZRDFBTGtNaDZKXzRyVkRBREJnOUhmbFo3Z1RWczE1a3E1a3hZS25HbkV6UFA1c2tOaHN6ODZicU53cGdUajVWOTZ3?oc=5",
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSV9nZm85OW9VTm8wb1pwTktnUG1zR25JN2dxT25tNXQybU12R0VSWjBlb0h6eWVjSEVTY2ZVQXlKcVc1WHVoS0JPTVk4N29kcWhoa2t2Y3dTbDA4WkRDZ3pDTExYY2ttekZKVzFPMGNWcjhoUVkwVTJuSkhWUVlXNVVyZTIyZWRvVFgtNkVPLUxBZzBLWnVuclJkazB4bEVCeDRxX3BaRQ?oc=5",
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmdQNmcyZFhYdWtWbkszVVprUTdJaVFIOFZVa0NrNEV0dEhRalZlQ2paSEktWkxrdU9yeEtUUVFncEhXSGJGSnQxdnVxWHdzQkVXbUk1d2RURkhXenFzNE5iVjRzRmNrbU1xM1dXTC1lR3NVTnZCSmZJYmZ4NUptRW5KaHdRUVlidzJoeXA5Q3VYcG5KeTQ2MHVDN3RnbkZZa01CMFk5RQ?oc=5",
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFlCVVNHS09PRjNRTXRHOTlYb1l1aEFDSTNrNnNHdlF1SHlabnV5bXFkaE5uODRWQ09KVGU4YWdnaDV6OEMxdHhYT1RNZUVQN29oR3RLN0lBTl9yWExNb2wtWGJqaThVNm9XTTRneEw3aElqcFRwUGQ3dHJzQWM4eG1WcWFmNEg0TjdBYnF4Skt3QTNBMXBpZVVheGd1eWlYeXZKREo3SQ?oc=5",
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGFLa0ZxdzhuUG42QU11cVhLbDQxTWhNblhHT25RNDNrc2ZHQVM1X3o4YU1JZkRmX0tQMnVUdGpFSTZpeF9LRFVrRXdnUHZxWDVieURXNDJxanBiYXNNUk1lWXdkZC03R1c5WHZrNkdqaU1YMWR5SDVDdGpPZEk1UDVrZjVncndVRFFBWS1wTXhwYVdpR2xENXpxVjRXSTZpWWdwcWpKUnQ2UQ?oc=5",
@@ -782,6 +1054,7 @@
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFdVVUZoNEd6M25iMnBQZWFBWlBaVVFnc1otRUhiWXk1VGZpT1NTVWRxZDZpTUNtU2xrdEdUcnByeGpVZXBUNm9CLTFjUEc4RWJqZmItOUQzblBja2R6MTJack56eE11T3EyS09lUE5zOHppVkxORm1tTG5OTkwzTGhzMGNaanF5RGFvclFfOXRING43OG5wX0FjbHZCQWNBdmdBV1BFMVhJRGIxSWV1Zg?oc=5",
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3JHYXJoc1k1OXBRZmJoWnRVNGNDODNhTmpjZDhrdl80QzF3Tm4wYVNoa3BpQUpWWkFVbHg0UW9Ed2dlWEdZcW9Ya3NWdzgtMElKeEVxc2RuVWxmXzI5RVlhTXN1dXp2d19Yc0dZaWJVdjRxSnVtc1RBdnZ4V2l4Z2VucnJJRUZjSEpWU24weFBxc1RIdlBuaFFueVNXQWp3V1MtNWgxcW1ubjNiTkh0Ug?oc=5",
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU5QLVh0bW5oeFl0aDlvdWp2ZkNKRzI2enBUazFWdmRvRm8wWVJaM0cxLU5LZzZ5bzZaY3dQT09lT0dfZ3VfdVEzOVZGTnJ1SWVFS2gtenlQWW5kc2tNLTRIaTBfdjVINWNfX0tiZzlqVjlqM1h4NXZmWUxuY3NMUnBYMzk1UXNvd0NhQ3NHV1pnWjFEWV8xV05SOXBoRHJCeFRkOWxvMklqaDdWclVEZDdn?oc=5",
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUFONENvQmt3NWRxY09KX2pHdklfWUZpUVUxeUdQaklmeWFMbEtma2ZNbFhyaDJoV2g5SFcyZEdhS3dwRlNxdEQ4dEN6YWNaVHNwZVlLRFdzZm5FREk4QmpJaXdoa182WmRCVjBmSGwwSmVYWnRjX1IzOUtZVmxqbm1BbHl0UVA1Y2RYa2w1ejJBNU5XektvWkFCOVlQZFdsVnRYZHhvMmdoWGNaM1V0ZDV3?oc=5",
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkpOSnJOU054YnlCRE1kY29DMEk1MHpNMEptU3VrcUZEU1ZUNHBYSjZsckhEZUZjTTNiZkZ2WDZPS3VLNFVJRWNCVlZNLVdYVzkyOE9oX2NGQUpIZ29NTkJOazBVM2tMclYyVk1VZElFdW9lcFU2UElSVkd0TF9acHotNk1ycnBVNjdCeTNXeUlrOFpMbVRIMEhiYlNuZk55bW85UlBSTW9Lc0wyTmE3d3l6NA?oc=5",
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0RJdGNoRDllcDFRVmJFbUZWd1dBVDJEYlZkSDFiZW9xeG5la3habnFSVFlFTEppYU5OU3FCemRmNEo5cWpYR2VSWXBmV3dPR2NRVlNiMnRhbnZmc1FON3JURnhRckJoY0NPVzB5Zm4yaTEwQ2VUSjBFSnpISklDUTQyU0pzdURFaGFiVmExR2M3eF95N2JmUGZLREdwcHBQa0p1N3hmS0RkLVhVVU1XTHR0QQ?oc=5",
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxONE01MG1aaFZFM3ViUnBsTkx4WnNsZXF2TDluRDNxQlpsR0pXUWcwQTN4N2taOE5vR3NpSGtuSWJtODh6aWdUVHB4RUJkTnExV1d1UTM4UlJ1M1hoQ2NYdEdPZzRNWERPWWRzWGpzR0lCR21GaV9hbWM0dWJocG9TV2lhTzlyeENJbGJwZjdBMTg1YXV2VkRUazFFWUUyb3hLZGpheTFjN1ZQeGFDRkdrZzFLMnVnUQ?oc=5",
@@ -791,32 +1064,50 @@
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEpIT0dJdV9zel9LcTdvR3QtMXJLclk5WFB0OTl0ZVdUVVZGamloMUR0Zl9aQ0xZeVJOVm5kVmpkcExuZTJxQU02VEhWNGFFbjNYMndOTU1UakpRandDVnlTb1dPdkxYRzdFTEJpdUdtWEtxVmZXTTZvWEsxdXhiTm5JX2FPeVJjODc3RVBiUFFaYm5aZzA4R1pBVFpQS3Z5WGJkdnV2SlM2ZENocGtlX1NTX0o2dWVsVWc?oc=5",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORG10RkNsdmkxSkxkTWt6UzRtOWN3UlB4RFB3ZGZHVzUtNFFRMDBNZWxCaEc4dzNaZ0lBbG56YVE1T1BvSDhYXzNlbF9yNFRuNlBwRTFlc3RKQ2Jrai1JVkY5ZXctSFR6YVZzTksyTnFncnU0NjllX1VaM2o2Z2xTT00yN3E5M2dUanF3T0FaTWlNenE3U2pGZW9jYXhhNmhzejJ6dDZVbWJyOFpoNHQxeTNZTjd6MDZGZ3k4?oc=5",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVY3MDZrY1lCTmoyVWctWmRud0RtaGl5S2U4VzdDRlQyVF9YQmlndS1sVzhaRlU3RVl2alVjNkcwQ3k1SzhrcHlLc1dwM2o5WmVja3RleWNER0VtVThoUkNZNUI2bTdhVHY1MWpNMG9TTGpDVW5LcTctTUhfN0hzMHJrd2RxcnBzQ2cwcTI3Y2hjT29qSjd2LWJVTFFZNzJoTEl3ZU1FbHJta1RERENpRUlrRnVlSGNubUZn?oc=5",
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSS1aUWY1UWxPNDZvdFFtamcxak9HQU1XcmZqcEtGTFZ0aUpMaFlvMkdjbDBQWGJEcUszSTF1V3MtbW9taHlaLXA5dFlMS1ItNXltS0VER1o3Y2NqQkJ2cTFRdktqZ0I4Z1dxWWtLcnc4cUk3SkpuRWR4UmxQNFF6U0RnM2xZTlUyQXhqN2pKNzJBbUVWckpRRVA3a05FUWVzT2RHejY0WnlqZ3NUN3h0cUNURHJYU2ZtZ0E0UA?oc=5",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUsydEM1clZDaHlFai1weURhSU1UbmpTX3RUTXBDOThSMzRhMWFaNklFNkFVOWpqVjA1ZnlsZXhOSXkyN1hLRGJsTl9jS2N6MUhDdjNiQlR4OVZYbGFRU21qWUZ2WHhweWM1LTlzV3ltdm9UTVZMbmNVVWlpR1FIR3VUZ2RaQUl4TnRNcG9PanczUVVqRWJUZVBvZEprMDg5N0llTC1LaFA1RlN4YlVCYzBQOWhDSEdsbWJwUmxn?oc=5",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzd0S3YxcW5NSEE0eGp3cFFSeGZmQV96SnFGQWptc2J4ajJYb3h0cEI3ZmdhSHVFZ0FtZlk4NjRNNzZZUnRMSXhBeHlfN0UxZzNqcHRqLVRnNUlTZlRaeGZIdGJkVzlEY2JKY2poRTJLZ1B2Y082aUZMZ2dmOHhmTl90M3MtT3JWREppbmVhQ01RZFNINnpiM2ZBWGlvX3NGTlduX0FFNG0teTFWTnJ0OGdCRzdRdGlWeFdvTHV3?oc=5",
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQmhzN1JRRFlVdTJObHk1R1Q3Z2puN0lBTExHc2xlVUZEQ2xPdnFUbW9STkttcExWQ1VFWjRPMEJkZGZKTDhqYlY5VE9Bb1BidWVrZVN4a24tSFZVYkVZVkFibmVKaE52VnpDUlBKNTJ4TWJNRFRVRXVaNnNFMW1lUmNTNm9LNzEyZ2ZZcC1zWER6cnd2eFl2TV9RZnFNMlFhQ2JJY2VuS2FvWEVmX25OTE43VDVybnl1dlBVQU1LQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDBQZGNaZzl2OUt4TXJ6cXJJUndFc09qQjN2UHVNZnpBSmZRN0UwclVwUVVLZGI3dzlpOUl5VzlIT3JaSlFoY24wRzVUM0FvUXFPYmpEQ1hiUmlPTWQ3ZVFPd2JzUnNjY3JaSWVtMm5xdzZZSjNCZnVBTEF6cDZfdTNzWnZmZmw5WmRMMGdCV2dGOWxUWFhTd2JQTHBKUnQyNjN4U1NJcVV3czBDYWl4ZXJGRU5NRHF1dm1jRHVCdFg?oc=5",
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR0QxR1gtODhkVElySC05R3BFdUNQQUE2Zng3M0U4eVRHSS15WWNrZERPRlRRelpzeGk3bE1YVXc1WFBvdDhIVm9KeEwxbUJROEJGbmJjNU1YblBCMUZsS3JPY1BpMkNxN3p6aGdpZV81ZVA3ZEJmMzI0b2lDNFJNZkNQVFE1NUFsNVU1X1NDeVhkdjFSeHFpc1kxengxaGsxVW9lLUFRRWNUeThRdzB4bkw3NVhsVFdrNVJfRUZhbUFEQQ?oc=5",
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUm0xQ0NQTHB3dnFoN2lmS2ZUUjlpenZjUThsN3Y1QnVWMjBwU1RIa3d2RlpsSEZYZnhGdDhtVWhFYlVKQ2VkRzFtMWVOTGxxN1Q4Q2xWRTRxYVNXdElabFB5N1FPS3ZKRV8xLWJBb25tRWtfdEFtNm1zVWZkUUxXa0NxQVdBYUUxQ0tZNHlBZ0t5Q0pZcGdWZ1RwYVA1dmtjd1RxMG13UGk3blZ1dkpwVjlMeV9wRE9VY05PV2w4UXhUUQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNU5meXpoMWljRDNFSDF3Qm44M2dPQkVsUmlVLXNDR3k3Y1pYbWd0MkRwZHpuZWpQbzhCbG9EQmNkVTEteUlmMFh0SURtMTZzeWI0eU9TZTI0MFlYVGtndHRzQ1Jua3dXSFd4U0VjX2NReF95UXF4ZEI0bGExMXhrb0EtS3llTWtjdm1IaU9hRGRkMzFNWXQ4U3c1RVBhd1BaRHluYkZNc1NIVjFyazdsbldnZG5QQUQtbTRvdHVObENxMnM?oc=5",
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRUc2a2J2RXM3YUZHbFdRMkxPM0R6c2o0VFk2bC1mcHJCZE9jUHJkZ2pIWlkzSG1zcFVSVmFCRVc3R1B1emdyVDBKUUNvMW55UWJ4eWNlVXQxa00wc2hWbUwzVWVCZ0NSa2hXMERpMHJNNG42ZllxbUZjX0swejM1RHFxU29VUW54Z3VxX3FBOHFrSHdjQWxzM1F3LWllQTN0aHpubVByaHJlcWt5Znk0SHFLUzZfb1podnl6OFR3Qzd6MU0?oc=5",
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQalFGZk9LOExZcWlzenI5MW9XbzRWVHVLU3BUaTJkS01DMlpkX0MzaEFKdE8zODRYcHNyWUs5ckNsSkZsUjRkV3gxX1lDNHpzalBUSTlXTFRMaUctUENyLUo1aG55cWM3M190eFZsWkVQZjJYMU1fNnBEQmZZaTVacGp3RGZDUzM1ZHp5TkhfQ2tHeUVjWi1sN2VJdXdXbGZ4ako5Y0pOdlhfSGwxYzZDVHRTX1ptVVd4emNqZG5SakR2LXM?oc=5",
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUJMUDZ1cERFR09NcWlJZkhQWmdpSlBMc0ZWQTdfeDZpck5mT3lMWkZBLVhQTmZ3bEJ2bHc4VUJkeHVBZ29JUXFKZVlDZEI5N21TUm9NdDVNZDNZU0pJODFFa09zNG5MQUdGWXoxazkxMFpQeExvV0tfVWVyN2VZVWhrQzJ5U1V3WWl1ZTBrTVJuR2FpMTM1bUtiUlRFTndsZFgzMmp6Ukk0b3RtOWViUVhaRExXdVByZWxndlc4SUdhck5aRkE?oc=5",
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzd2azlxaG5mTlJqQXlKU2s5bDJGUFMyczVHNmUyUVpOejlSd05BSTc1czR6QXc4RnQ0TDhNcG9OTk5kX3FVb3pNQk53UG5xTmRreDVrYnoxSUt6Y0RDSzBKZERPSDZDRmlKdW41d2YwS0R2bVdsdGpNTk03ak5UTEFqU2E4ZUlza0RGUUdrYndUZGJlOENTeTZLcTFOZ2I1YkxnMGVJSE8yQTloWUFTZUphMi1ZODBZekxiTklDbTZOSzZmWUw4?oc=5",
   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWkJ3V3J2QktWRVozQ05hd29tREJhWl9ZU3pRY2ZpZV9lOFVncGtqeVd4QXE1cGpyeTFCZ3E5NkZCdWxUUUwwMmNockRpSUVGek5DTHU4aS1UV3N0YUpiM0tZTzMwcmc2d0R4MVRrZE43R3JmTFdzNjVobnd5bmltc0RON2Y3V0NqTXJ3eEV4MVVUR05yMFZXMmpSQm51QWZpNy1zbTBRV1RhdnVtWVhKeGxIZkU5MHFHQVFhLVdXVDhob2JEM1ZzXw?oc=5",
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTlJsRHFyWS1XdWVhaG0yVzdvd0hxR1J0RkNZQXF1dVVRRlNhYzMtVnEzb21YVFNyS3k5allYYmZ2Zjc0Mmt5S2lhbjdNY2s4aUFTcVEwN2p4M1NWRG9ORVRUVW45U3hjbFg1LVJTbjQwc20yWTJCRWd3WkRzelYxenV6VlRFdFFKd1B4VFpOUlFJZC1fcjJzeG95Mkd4d1lIWHFoYlpobWdZcnZKTWw0aFBkckZFdGNzTmF3ZjNscXIxdG1UalVMbmtR?oc=5",
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFJYSFluU3Y2NmJmU0xVS2RWZFk3eFc1N0o1WmdYVUFuTTBxNi1USnI0eHFBX210dXJFV0YtZ3JxX29EMmxHZVVyZm51bDdaNWEzYXoxUEwtUEhEdng2bVkydWRzYms0RUhUaF9sblJmQXQtbVFtdmEtUXpOWWRtR01OaktoM3BzdGF3M0ZobENFSnA0dW9UUHpwRUZvOERWVWpDZExZRWRDOXN3bkI1N2o4aXpyVjhVRVhfUWZfcWQzQVBrYmhZMV9xaw?oc=5",
   "https://news.harvard.edu/gazette/story/2026/10/far-rights-breakthrough-year-in-germany/",
   "https://news.harvard.edu/gazette/story/2026/10/hannah-and-the-janes/",
+  "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
   "https://news.harvard.edu/gazette/story/2026/10/who-should-take-glp-1s-harvard-thinking-podcast/",
   "https://news.harvard.edu/gazette/story/2026/11/business-professor-perhaps-more-detective-of-human-behavior/",
   "https://news.harvard.edu/gazette/story/2026/11/concerns-raised-over-older-heavy-drinkers/",
+  "https://news.harvard.edu/gazette/story/2026/11/dental-students-put-medicaid-data-on-the-map/",
   "https://news.harvard.edu/gazette/story/2026/11/schools-that-ban-cellphones-see-uptick-in-test-scores/",
   "https://news.harvard.edu/gazette/story/2026/11/why-do-so-many-people-have-neanderthal-dna/",
+  "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
   "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
+  "https://news.mit.edu/2026/fabric-molds-could-bring-material-saving-concrete-beams-within-reach-1106",
   "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+  "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119",
   "https://news.mit.edu/2026/from-seed-funding-to-scientific-breakthroughs-1112",
   "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+  "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+  "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
   "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+  "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
   "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
   "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+  "https://news.mit.edu/2026/postcolonial-ghana-fresh-start-not-blank-slate-1110",
   "https://news.mit.edu/2026/qa-how-ocean-carbon-sequestration-changes-under-different-glacial-conditions-1116",
+  "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+  "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
   "https://news.umich.edu/2026-midterm-elections-u-m-experts-available-to-comment/",
   "https://news.umich.edu/chimpanzees-at-war-u-m-researcher-finds-hope-for-humanity/",
+  "https://news.umich.edu/cleaner-brick-kilns-cut-pollution-but-gains-did-not-reach-workers-u-m-research-finds/",
   "https://news.umich.edu/education-on-the-ballot-u-m-experts-available/",
   "https://news.umich.edu/five-u-m-researchers-named-american-physical-society-fellows/",
   "https://news.umich.edu/its-not-just-the-heat-its-the-humidity-examining-the-impact-of-intensifying-humid-heat-on-pregnancies/",
@@ -825,6 +1116,7 @@
   "https://news.umich.edu/navigating-ai-in-transportation-new-national-research-consortium-aims-to-guide-agencies/",
   "https://news.umich.edu/new-research-gauges-community-immunity-to-valley-fever-as-fungal-infection-cases-increase/",
   "https://news.umich.edu/optimizing-ai-energy-consumption-throughout-its-entire-lifecycle/",
+  "https://news.umich.edu/u-m-to-improve-pedestrian-vehicle-safety-at-intersections-with-5-66m-from-usdot/",
   "https://news.yale.edu/2026/11/18/opening-doors-field-research-and-yale",
   "https://newsroom.ucla.edu/in-the-news/how-much-is-ai-contributing-to-climate-change",
   "https://newsroom.ucla.edu/releases/scientists-put-lid-tiny-test-tubes-opening-new-possibilities-cell-research",
@@ -832,6 +1124,7 @@
   "https://newsroom.ucla.edu/stories/ucla-fielding-alums-lead-the-way-in-veterans-health-research",
   "https://newsroom.ucla.edu/stories/using-archaeology-find-bring-home-remains-missing-american-service-members",
   "https://newsroom.ucla.edu/stories/what-are-biomarkers",
+  "https://poorvucenter.yale.edu/posts/2026-11-18-new-yale-online-course-goes-beyond-true-crime",
   "https://www.caltech.edu/about/news/Caltech-Center-for-Disaster-Resilience",
   "https://www.caltech.edu/about/news/a-brave-new-space-age-event-recap",
   "https://www.caltech.edu/about/news/atoms-in-sync-superradiance-offers-a-new-kind-of-frequency-comb",
@@ -845,9 +1138,12 @@
   "https://www.cam.ac.uk/news/cambridge-enterprise-opens-new-hub-south-korea",
   "https://www.cam.ac.uk/news/from-awareness-to-action-launching-embers-of-hope-science-behind-the-series-as-cop31-begins",
   "https://www.cam.ac.uk/news/good-growth-innovate-cambridge-summit-2026",
+  "https://www.cam.ac.uk/news/women-scientists-almost-entirely-omitted-from-exam-boards-compulsory-learning-material-for-uk",
   "https://www.cam.ac.uk/research/news/brazils-presidential-elections-linked-to-decades-of-fluctuating-environmental-destruction-study",
   "https://www.cam.ac.uk/research/news/cambridge-joins-uk-quantum-superconnector-to-accelerate-commercial-success-of-quantum-research",
+  "https://www.cam.ac.uk/research/news/children-and-young-people-broadly-support-health-data-research-but-want-safeguards",
   "https://www.cam.ac.uk/research/news/comets-didnt-seed-life-on-earth-after-all-new-study-suggests",
+  "https://www.cam.ac.uk/research/news/winter-sea-ice-loss-may-be-underestimated-according-to-ancient-clues-from-a-warmer-arctic",
   "https://www.law.berkeley.edu/podcast-episode/saira-mohamed-what-a-country-owes-its-soldiers-human-rights-book/",
   "https://www.ucsf.edu/bio/kevin-kimbrough",
   "https://www.washington.edu/news/2026/11/02/how-are-ai-and-religion-connected/",
