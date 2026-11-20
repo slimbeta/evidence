@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T03:24:11+00:00",
+ "updated": "2026-11-20T12:59:22+00:00",
  "briefing": {
-  "headline": "Mental health, cancer and social connection",
-  "period": "Nov 13–19",
-  "made": "2026-11-19T13:55:25+00:00",
+  "headline": "Mental health, cancer and heart health",
+  "period": "Nov 14–20",
+  "made": "2026-11-20T12:59:22+00:00",
   "bullets": [
    {
     "text": "A racing video game may seem out of place in the operating room, but it could help with pre-surgery anxiety.",
@@ -18,10 +18,16 @@
     "theme": "cancer"
    },
    {
-    "text": "Exploring the Relationship Between Religiosity and Financial Risk-Taking in Denmark",
+    "text": "For some, diet significantly swings cholesterol levels, Stanford Medicine-led study finds",
     "source": "Stanford",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2kwRjRqaXhOR3hRaUxFMnBfQm45d3Bnc3ZpZ1FDa1RUbXF6NzdxeEtNZnFvdjVXMWdQemhab0Z0TzRHSVZKS0JIdHd0NXFRRV92Rno0VGJqREl5bkpkdmliQ3VaRTI1RmwzWG93QldnanozQUdmX28yajFyTXdPdDg5eVJtWmVfeE95ZzFwSm1GMHFMYmwtZ1hRTVY1WloycUFJTThTd29EVV9VNXg3eVZB?oc=5",
-    "theme": "social connection"
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43TkJqTVI1VE5ISC1udWRSQUxpUThqMlAzWW5rVUhkT2wybmZwRUdkSWJqRmpESDJsVHVySFRyaVp4NE5ycFRzNVByX2lMY0FuRXJYU0tvUkpRaTl2NDNxTGVETVEwZFk2Mm1GRWFTTnRCWDVaTU5n?oc=5",
+    "theme": "heart health"
+   },
+   {
+    "text": "AstraZeneca invests SEK 30 million in obesity research at KI",
+    "source": "Karolinska Institutet",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRng4VlF5MTNyUlRURndZUm9yS3Rpc1I3U3ZvQXRfNWhXWV9UMjZ5UTFoTS1DVGI1QVFBdlI1eGhYMFRXSXpic3pQQm1kRjhnVmEwQzNyZlFkb1F1b0t2SjN0RHNSZ1dabXhRVU5tSTdVbFk4c21WZ1dIVFdzQXVDSlBYSi0wUQ?oc=5",
+    "theme": "money and decisions"
    },
    {
     "text": "The findings from the study suggest that novelty might be more important than the scent itself, especially as people age.",
@@ -30,16 +36,10 @@
     "theme": "the brain"
    },
    {
-    "text": "After another punishing European summer, electricity suppliers are being warned that climate change is placing power grids under increasing strain, and at possible risk of collapse.",
-    "source": "University of Cambridge",
-    "url": "https://www.cam.ac.uk/research/news/heatwaves-are-threatening-europes-power-supplies-researchers-warn",
-    "theme": "environmental exposures"
-   },
-   {
-    "text": "MIT researchers discovered that waves of cerebrospinal fluid (CSF), which help remove debris from the brain during sleep, are significantly reduced in older adults.",
+    "text": "A stretchy new material could eliminate the need for gel in ultrasound imaging.",
     "source": "MIT",
-    "url": "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113",
-    "theme": "sleep"
+    "url": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
+    "theme": "exercise"
    }
   ]
  },
@@ -925,6 +925,196 @@
    ]
   },
   {
+   "url": "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030",
+   "title": "MIT engineers create nanoparticles for delivering personalized cancer vaccines",
+   "source": "MIT",
+   "desk": "news",
+   "published": "2026-10-30T04:30:00+00:00",
+   "seen": "2026-11-20T12:59:22+00:00",
+   "cats": [
+    "Research",
+    "Cancer",
+    "Vaccines",
+    "Medicine",
+    "Nanoscience and nanotechnology",
+    "Biological engineering",
+    "Materials science and engineering",
+    "DMSE"
+   ],
+   "description": "A nanoscale particle developed at MIT holds potential as a customizable delivery vehicle for personalized cancer vaccines. The particle could be adapted to carry many different antigens, to potentially treat individual patients’ tumors.",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-nanovaccine-01-press.jpg?itok=LHk2kWT3",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a Creative Commons Attribution Non-Commercial No Derivatives license. You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided below, credit the images to \"MIT.\"",
+    "A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines.",
+    "The backbone of the vaccine is a modified, harmless bacteriophage called M13, which forms a nanofiber that can be coated with cancer antigens. By precisely controlling the density of those cancer proteins, the researchers found that they could create a vaccine that prevents the development of colon tumors in mice.",
+    "This type of delivery particle could be adapted to carry many different antigens, allowing for the creation of personalized vaccines to treat individual patients’ tumors, the researchers say.",
+    "“The great thing about this is that it’s modular and we could switch out different antigens on demand, so you could design it to be patient-specific and target a known antigen for a particular kind of cancer,” says Angela Belcher, the James Mason Crafts Professor of Biological Engineering and Materials Science and Engineering and a member of the Koch Institute.",
+    "Belcher is the senior author of the study, which appears today in the journal Advanced Healthcare Materials. Shengnan Huang, research scientist at the Koch Institute, is the paper’s lead author. Jack Rudrum, Huaiyao Peng, and Hao Nghi Luu, graduate students at the Koch Institute, are also authors of the paper.",
+    "For more than 20 years, Belcher’s lab has been deploying the M13 bacteriophage in a variety of applications. This virus, which is harmless to humans, consists of a single strand of DNA coated in a protein shell, or capsid.",
+    "Belcher has previously developed techniques for generating materials by engineering these viruses to self-assemble into nanoscale scaffolds. By coating these scaffolds with inorganic materials, they can create functional devices such as batteries, semiconductors, solar cells, and catalysts, with precise control over the electronic, optical, and magnetic properties of the materials.",
+    "More recently, Belcher’s lab has been developing methods to control features of the phage that could allow it to be repurposed for medical applications, including vaccine delivery.",
+    "“We’re taking this toolkit that we’ve worked on and developed over decades and formatting it to be specific for vaccine therapeutics,” Belcher says. “Some of the lessons learned from making batteries and all these other things are now being fine-tuned to make personalized vaccines.”"
+   ],
+   "lede": "A nanoscale particle developed at MIT holds potential as a customizable delivery vehicle for personalized cancer vaccines. The particle could be adapted to carry many different antigens, to potentially treat individual patients’ tumors.",
+   "tags": [
+    "longevity"
+   ],
+   "evidence": "Animal study"
+  },
+  {
+   "url": "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029",
+   "title": "Magnetic sensors track muscle movement, for better prosthetic limb control",
+   "source": "MIT",
+   "desk": "news",
+   "published": "2026-10-29T10:00:00+00:00",
+   "seen": "2026-11-20T12:59:22+00:00",
+   "cats": [
+    "Research",
+    "Prosthetics",
+    "Assistive technology",
+    "Medicine",
+    "Health care",
+    "Neuroscience",
+    "Media Lab",
+    "Yang Tan Collective"
+   ],
+   "description": "MIT researchers showed they can track muscle movement using tiny magnetic beads implanted in the muscle. These measurements could make it easier for people with certain types of amputations to control their prosthetic limbs.",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Magnetic-Tracking-01-press.jpg?itok=2gCA_g8R",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a Creative Commons Attribution Non-Commercial No Derivatives license. You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided below, credit the images to \"MIT.\"",
+    "MIT researchers have shown that they can accurately track muscle movement using tiny magnetic beads implanted in the muscle. These measurements could make it easier for people with certain types of amputations to control their prosthetic limbs.",
+    "For decades, researchers have been working to develop neuroprosthetic limbs, which use neural information from muscles remaining after an amputation to guide the prosthetic limb. Measurements of a muscle’s length, velocity and activation can be fed into the control algorithms that guide the limbs, allowing individuals with leg amputation to walk with a more natural gait, or those with arm amputation to manipulate objects more effectively.",
+    "Until now, these devices have relied on muscle activity measurements from electrodes placed on the surface of the skin. However, those measurements have not proven reliable enough to ensure safety while walking with a neuroprosthetic leg.",
+    "The MIT team hopes that their new magnetic tracking system, which offers more accurate measurements, will enable commercial development of such limbs.",
+    "“For four decades, the standard methodology for neurally controlling prostheses has been to use skin electrodes to measure muscle activation. However, to control a prosthetic limb, joint position, torque, or impedance has to be controlled, and one cannot directly determine such mechanical signals using electrical activation alone,” says Hugh Herr, a professor of media arts and sciences, co-director of the K. Lisa Yang Center for Bionics at MIT, an associate member of MIT’s McGovern Institute for Brain Research, and the senior author of the new study.",
+    "In the new study, which appears today in Nature Sensors, the researchers demonstrated the accuracy of the magnetic measurements in three participants with below-knee amputations.",
+    "“This interface is minimally invasive, so it could be accessible to more people. You place two beads in the muscle and you have access to all of this rich information about the muscle dynamics,” says Christopher Shallal, an MIT graduate student in the Harvard-MIT Program in Health Sciences and Technology and one of the lead authors of the paper.",
+    "The paper’s other lead author is Cameron Taylor PhD ’20, an assistant professor of biomedical engineering at the University of North Carolina at Chapel Hill.",
+    "For many years, Herr’s lab has been developing human-machine interfaces that can be used to control an artificial limb in a way that makes it more like using a natural limb. Obtaining accurate measurements of how the user is moving the muscles at the amputation site is critical to the success of this type of prosthesis."
+   ],
+   "lede": "MIT researchers showed they can track muscle movement using tiny magnetic beads implanted in the muscle. These measurements could make it easier for people with certain types of amputations to control their prosthetic limbs.",
+   "tags": [
+    "fitness"
+   ],
+   "evidence": "Human study"
+  },
+  {
+   "url": "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028",
+   "title": "Capturing the complete process of embryonic development",
+   "source": "MIT",
+   "desk": "news",
+   "published": "2026-10-28T20:30:00+00:00",
+   "seen": "2026-11-20T12:59:22+00:00",
+   "cats": [
+    "Research",
+    "Cells",
+    "Biology",
+    "Neuroscience",
+    "Stem cells",
+    "Disease",
+    "Cancer",
+    "School of Science"
+   ],
+   "description": "MIT researchers created a detailed lineage map of cell divisions and fates in a developing mouse embryo. This map of mammalian development could have broad implications for understanding birth defects and cancer.",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-whitehead-lineage-trees.jpg?itok=T3xPv0Ff",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "For decades, scientists have been able to look at individual moments in the development of an embryo: a snapshot of a developing brain, a picture of how the heart takes shape, or a glimpse of cells beginning to form the nervous system.",
+    "A new study out of the lab of MIT Professor Jonathan Weissman, a member of the Whitehead Institute for Biomedical Research and a Howard Hughes Medical Institute investigator, offers one of the most detailed views yet of how a mammal is built, cell by cell.",
+    "By following the family history of over a million cells as a mouse embryo develops, the researchers have created a kind of developmental blueprint, or movie, showing how cells divide and ultimately become the tissues and organs in the body.",
+    "This open-access work, published Oct. 8 in the journal Cell, in collaboration with Zachary Smith’s group at Yale University and the Max Planck Institute for Molecular Genetics, provides a comprehensive view of a process that has long been studied in pieces: how a single fertilized egg gives rise to hundreds of different kinds of cells, arranged in the right places and at the right times to build an animal.",
+    "“This is really a view of how the information in the genome plays out over space and time to go from linear DNA to a three-dimensional animal,” Weissman says.",
+    "The map could have broad implications for understanding birth defects and cancer. Many birth defects arise when cells change course as tissues and organs are being assembled. A detailed map of typical development could help researchers pinpoint where and when those processes go awry. In cancer, the same approach could help scientists trace when cells acquire traits such as the ability to spread or resist treatment.",
+    "The map could also inform stem cell research by revealing the sequence of cell states that leads to mature, functional cell types. In the 1980s, scientists ventured into similar territory by painstakingly following the development of Caenorhabditis elegans, a tiny worm whose transparent body contains only about 1,000 cells. Using microscopy, they could trace how individual cells divided and where their descendants ended up. But achieving something similar in a mammal was a challenge on a vastly different scale. Mammalian embryos contain far more cells, develop inside the uterus — out of sight — and do not follow a completely predetermined script. The new study tackles this challenge using a technology developed in the Weissman Lab called PEtracer. The system acts somewhat like a flight recorder inside a cell. PEtracer makes small, heritable changes to DNA that are passed down as cells divide. By reading those changes later, scientists can work backward to reconstruct which cells came from which ancestors, essentially building a family tree for the cells in the developing embryo.",
+    "In this work, the researchers combined these family trees with information about what genes were turned on in each cell and where these cells were located in the embryo. They analyzed over a million cells from mouse embryos collected at multiple points during development, allowing them to follow not just where cells ended up, but when they began heading toward particular fates."
+   ],
+   "lede": "MIT researchers created a detailed lineage map of cell divisions and fates in a developing mouse embryo. This map of mammalian development could have broad implications for understanding birth defects and cancer.",
+   "tags": [
+    "longevity"
+   ],
+   "evidence": "Animal study"
+  },
+  {
+   "url": "https://news.mit.edu/2026/how-biggest-alzheimers-risk-gene-disrupts-process-insulating-neurons-1028",
+   "title": "How the biggest Alzheimer’s risk gene disrupts the process of insulating neurons",
+   "source": "MIT",
+   "desk": "news",
+   "published": "2026-10-28T18:25:00+00:00",
+   "seen": "2026-11-20T12:59:22+00:00",
+   "cats": [
+    "Research",
+    "Alzheimer's",
+    "Neuroscience",
+    "Genetics",
+    "Memory",
+    "CRISPR",
+    "Cells",
+    "Brain and cognitive sciences"
+   ],
+   "description": "MIT researchers discovered how the biggest Alzheimer’s risk gene disrupts the process of insulating neurons: The APOE4 gene variant suppresses molecular signaling needed for oligodendrocytes to myelinate neurons. The researchers also demonstrated a proof-of-concept fix.",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-picower-alzheimers-00.png?itok=qYdBI5Av",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "One of the main ways that the APOE4 gene variant, the biggest genetic risk factor for late onset Alzheimer’s disease, undermines brain circuit function is by disrupting the process of insulating neurons with a fatty sheath that optimizes their electrical transmission. A new study led by neuroscientists at the Picower Institute for Learning and Memory at MIT provides several lines of evidence to implicate a specific molecular pathway in that disruption, and uses that insight to demonstrate an intervention for preventing it in lab experiments.",
+    "The study, published Oct. 15 in Cell Stem Cell, shows that APOE4 leads to a suppression of “Wnt” signaling in the oligodendrocyte cells that provide neurons with a fatty insulation, called myelin. When Wnt signaling is deficient, they showed, the cells accumulate droplets of lipids rather than deploying fats to properly myelinate the neurons’ axon branches. When the researchers restored Wnt signaling in APOE4-carrying oligodendrocytes, myelination rebounded, both in human cell cultures and in mice modeling Alzheimer’s.",
+    "The research team, led by Picower Professor Li-Huei Tsai and study lead author Leyla Akay PhD ’25, a former graduate student in Tsai’s lab, discovered Wnt’s key role via multiple methods, including a screen in which they used CRISPR gene editing to systematically knock out each protein-coding gene in the genome, one by one, in cultures of human APOE4-carrying oligodendrocytes. The screen showed that when genes promoting Wnt activity in oligodendrocytes were lacking, lipid droplets accumulated, and that when genes suppressing Wnt were lacking, lipid droplets were, too.",
+    "“This proof of principle of doing CRISPR screens for genetic modifiers of APOE4-associated lipid accumulation in a central nervous system cell type is very exciting,” says Tsai, who also directs MIT’s Aging Brain Initiative. “I think this type of screen not only provides new insights into cellular pathways contributing to lipid metabolism defects, but really also has the potential to provide new targets for drug development.”",
+    "In 2022, Tsai’s Lab, led by Akay, Djuna Von Maydell PhD ’25, Jose Davila-Velderrain, and Joel Blanchard (also a co-author of the new study), showed that APOE4 caused lipid droplet accumulation in oligodendrocytes and upset myelination. But, Akay says, that droplet accumulation could happen for many reasons. The new study sought to dig deeper into the underlying molecular mechanisms.",
+    "“This CRISPR screen allowed us an unbiased way to test every single possibility,” Akay says. “What kind of lipid enzymes are involved in this process? And what are upstream pathways that could be targeted?”",
+    "In parallel with the CRISPR screen, the team also analyzed the chromatin accessibility of the DNA in human oligodendrocyte cell cultures and in postmortem human brain samples, in each case comparing APOE4-carrying samples to ones carrying the neutral APOE3 variant. This analysis of ATAC-seq data allowed them to assess which genes were most accessible for expression versus which ones were locked down from transcription. The chromatin analysis showed that genes promoting Wnt signaling were less accessible in APOE4 carriers."
+   ],
+   "lede": "MIT researchers discovered how the biggest Alzheimer’s risk gene disrupts the process of insulating neurons: The APOE4 gene variant suppresses molecular signaling needed for oligodendrocytes to myelinate neurons.",
+   "tags": [
+    "brain"
+   ],
+   "evidence": "Animal study"
+  },
+  {
+   "url": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
+   "title": "A soft robot could help doctors diagnose and treat disorders of the small intestine",
+   "source": "MIT",
+   "desk": "news",
+   "published": "2026-10-28T18:00:00+00:00",
+   "seen": "2026-11-20T12:59:22+00:00",
+   "cats": [
+    "Research",
+    "Medicine",
+    "Bioinspiration",
+    "Drug delivery",
+    "Robotics",
+    "Mechanical engineering",
+    "Health care",
+    "School of Engineering"
+   ],
+   "description": "MIT engineers designed a robotic enteroscope that can move easily through the narrow passage of the small intestine, allowing it to perform imaging, deliver drugs, and remove small polyps or tissue samples for biopsy.",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-IntestineRobot-A1-Press.jpg?itok=i_z0q2qb",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a Creative Commons Attribution Non-Commercial No Derivatives license. You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided below, credit the images to \"MIT.\"",
+    "Disorders of the small intestine are often difficult to diagnose and treat. More than 20 feet long, an inch in diameter, and located deep within the body, this organ is harder to access than other parts of the digestive tract, such as the colon or stomach.",
+    "To overcome those challenges, MIT engineers have designed a new robotic enteroscope that can move easily through the narrow passage of the small intestine, allowing it to perform imaging, deliver drugs, and remove small polyps or tissue samples for biopsy.",
+    "In designing the new robot, the researchers were inspired by the locomotion of snakes, as well as the scaly skin that helps them gain traction on slippery surfaces. A special textured coating helps the robot remain attached to the mucosal lining of the intestine as it inches its way through the narrow tube.",
+    "Similar to an endoscope, the robot contains a variety of tools to help detect and treat any abnormalities that it might encounter.",
+    "“When we evaluate the small intestine, we do it for either diagnosis or treatment. If we find a little polyp that needs to be removed, this robot allows us to take a biopsy or remove it,” says Giovanni Traverso, professor of mechanical engineering at MIT, a gastroenterologist at Brigham and Women’s Hospital, and an associate member of the Broad Institute of MIT and Harvard.",
+    "Traverso is the senior author of the study, which appears today in Science Robotics. The paper’s lead authors are former MIT postdoc Binbin Ying, who is now an assistant professor at University of Texas Southwestern Medical Center; MIT graduate student Ahmad Mujtaba Jebran; and former MIT research scientist Sahab Babaee.",
+    "The most common problems that doctors need to evaluate within the small intestine include bleeding, lesions, and blockages.",
+    "Currently, the only way to diagnose those intestinal complications is with a procedure known as double balloon enteroscopy. During the procedure, an enteroscope advances through the small intestine as a health care worker alternately inflates and deflates two balloons that help propel it through the tract.",
+    "This process is slow and laborious, so the MIT team wanted to design an alternative enteroscope that would be easier to control and could move faster through the intestine."
+   ],
+   "lede": "MIT engineers designed a robotic enteroscope that can move easily through the narrow passage of the small intestine, allowing it to perform imaging, deliver drugs, and remove small polyps or tissue samples for biopsy.",
+   "tags": [
+    "longevity",
+    "nutrition"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1FTVkdMT3JEVnVsRkNDY1N4T1N0WlQ1QlNIUVE3eFVOV2h4U0xDTGlVeDE3MTdxNEVGTENnQzlmRlFUSklKZkN6NlJXdmhMeEpzQ1F0LUF6TTZjeWZ0UkpkUzdFeDlRZm1NcTc0SnIwRTJpdXduS1E4Nmc1OVVfOGpicF85bEQzVWhmYTUtekkxZlpTWEQ3bTdCOVJYSUplQzFtOGx3?oc=5",
    "title": "Counting the hours: U of T research measures time toxicity in cancer care",
    "source": "University of Toronto",
@@ -953,6 +1143,45 @@
    ]
   },
   {
+   "url": "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026",
+   "title": "Implantable device uses ultrasound to improve drug delivery to the brain",
+   "source": "MIT",
+   "desk": "news",
+   "published": "2026-10-26T15:00:00+00:00",
+   "seen": "2026-11-20T12:59:22+00:00",
+   "cats": [
+    "Research",
+    "Drug delivery",
+    "Neuroscience",
+    "Medical devices",
+    "Cancer",
+    "Media Lab",
+    "School of Architecture and Planning",
+    "National Institutes of Health (NIH)"
+   ],
+   "description": "MIT researchers designed an implantable drug-delivery device to help prevent recurrence of glioblastoma. Ultrasound transducers printed onto the device use sound waves to help drugs pass through the blood-brain barrier.",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT_Brain-Ultrasound-01-press.jpg?itok=ahcXTK0H",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a Creative Commons Attribution Non-Commercial No Derivatives license. You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided below, credit the images to \"MIT.\"",
+    "Patients with glioblastoma, an aggressive type of brain tumor, usually undergo surgery to remove the tumor. However, it’s difficult for surgeons to remove all of the cancer cells, and the tumor often recurs.",
+    "MIT researchers have now designed an implantable drug-delivery device that they hope could help prevent recurrence of glioblastoma. Their device contains a reservoir that can release drugs over an extended period, along with ultrasound transducers that use sound waves to help drugs spread farther through the brain and bypass the blood-brain barrier.",
+    "Such a device could be implanted in the brain during surgery, then gradually release drugs that would help kill the remaining tumor cells. After implantation, a wireless controller can be used to program the exact ultrasound dosages to be delivered, enhancing the reach of the delivered therapy.",
+    "“We have 24 transducers in one ultrasound array, which can help a given drug bypass the blood-brain barrier and enhance the drug infusion. The device also gives doctors options in terms of the size, the length, and the number of infusions,” says Canan Dagdeviren, an associate professor of media arts and sciences at MIT and the senior author of the study.",
+    "In a paper appearing today in the journal Device, the researchers showed that their ultrasound device allowed molecules to spread further after being released, in tissue models and in a mouse study.",
+    "MIT graduate student Sarah Ornellas and Jason Hou PhD ’26 are the lead authors of the study.",
+    "Glioblastoma is a rare but deadly cancer, with a little more than 10,000 cases diagnosed in the United States per year. On average, patients survive 12 to 15 months after diagnosis. Patients typically undergo surgery to remove as much of the tumor as possible, followed by radiation and chemotherapy.",
+    "Chemotherapy drugs are usually given either as pills or an intravenous infusion, but in recent years, scientists have developed drug-delivery wafers and hydrogels that can be implanted directly in the skull. That can help to eliminate the side effects of chemotherapy and ensure that a higher concentration of the drug reaches the brain.",
+    "Those devices work by passive diffusion of drugs, but the MIT team wanted to design a new device that would allow for greater control of the timing of drug release. They also wanted to incorporate ultrasound arrays to enhance the distribution of drug molecules."
+   ],
+   "lede": "MIT researchers designed an implantable drug-delivery device to help prevent recurrence of glioblastoma. Ultrasound transducers printed onto the device use sound waves to help drugs pass through the blood-brain barrier.",
+   "tags": [
+    "brain"
+   ],
+   "evidence": "Human study"
+  },
+  {
    "url": "https://news.umich.edu/antibody-shuttles-could-deliver-noninvasive-drugs-directly-to-brain-to-treat-alzheimers/",
    "title": "Antibody shuttles could deliver noninvasive drugs directly to brain to treat Alzheimer’s",
    "source": "University of Michigan",
@@ -969,7 +1198,7 @@
     "neurological disease"
    ],
    "description": "A National Institutes of Health grant will fund research at the University of Michigan that tests the theory that an IV-delivered antibody treatment can cross the brain's protective barrier, one of the biggest hurdles in treating Alzheimer's disease.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "A National Institutes of Health grant will fund research at the University of Michigan that tests the theory that an IV-delivered antibody treatment can cross the brain's protective barrier, one of the biggest hurdles…",
    "tags": [
     "brain"
@@ -1028,6 +1257,21 @@
    "tags": [
     "brain",
     "sleep"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVYwZXdqUHBJbDlZbzVnOERqcDRoRnlVSGstMWNwUnltUTVwZnA4M0RvVXpZbWxsU0szOEpnLUtEM2hEeG1UYVl3VE5vcFVoM2ZCZW4xaG5ueW5XQVUxb3JmQkREeXN2SzhwdFpyX3RDM2xVTGxtZURZZVBsTk0tSmo1TVg2bzAwUUJrNVFhNGVtYW45VGRaVnBWQVA0REVVbnIyLWtPM05IUEZJYzU1My1R?oc=5",
+   "title": "Healthy diet during pregnancy associated with reduced risk of infant colic, eczema",
+   "source": "Harvard",
+   "desk": "news",
+   "published": "2026-10-12T07:00:00+00:00",
+   "seen": "2026-11-20T12:59:22+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "nutrition",
+    "skin"
    ]
   },
   {
@@ -1095,12 +1339,15 @@
   "https://news.berkeley.edu/2026/11/18/theresa-may-will-be-the-first-visiting-fellow-at-uc-berkeleys-new-nancy-pelosi-institute/",
   "https://news.berkeley.edu/2026/11/19/watch-how-a-uc-berkeley-innovation-led-to-the-microprocessors-that-run-the-world/",
   "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdW9OZkdGNjFvRzU0OEVYUEdYSGFMSm1QVmhrRDVCSnNPRE5FNlA2YmFtZk5ITjdCamlsWERwVWpKeVQ4QVlIeGUwNU1WTkU5WkJHWVhfTVlIQkJZSXQxNHRER3RqSS1XZGpIanZpdFVXMUgzMGNTUjl2ODk1NmZMNWJrRkRuMTNWVGhpRnlCOFhxQy1JU0VnT1ktdFZVai1JWGl0bHZKdEM3Zjk3Vy1JcEppLVk4NVBCRTViUGpnQk9HTVEtTURGbUtsbmJ4NXJyei16ZGJndDlidTdkWXd4ellWTUNta2ZsTk8zZkdvRkFzTW9jTktWNw?oc=5",
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelM1NUVnWmR4WERMZm5vU2wwdTJvUXVhTFl3VTNOc0E2c1Q1aWFYVWotSU5ud3VXTjlhakxaZ0xYNHNET0ljZXg2dGJycm4tbDAxbUFJMlVLTGt3R3Jud0JKR3lZS3E0ZVBaQUp2REJaRHJER3BsVGRHMmNYMGpIUG9OZWJxdjAtOXBqdGs2VGxHNFFaemNlbExDd3VuVXllRTRfdXBfSi01WGNqS2tuVXB3dVloSzZROG82R3BCMzk0OVFGRzRMOTJWanJucFEw?oc=5",
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOTUwWVJpNUZRa3hnZ0pMNkdmdE5zdHpBdkdIT0RWcXNiOE9Pb29nVldKeS1TeDlncnNORE0tUlotV0Y0a2NpOWFhcExZOFc1NWo1MDY1cWpxR0JNVEYwb2RCZ1FTR2JDTkI0QnBqdG9OeDV5VHF3aUxJN2dvVXhNWmJISjJpY1JLOXVBREtaeGdIOHFJNFpYUzUyVWNhUExWenp2cGpGbTNRUlhBOERBQ3YwNHdlS2YtRkJrd251YUpYNkhjU2FlUXhBVnVoQ1lI?oc=5",
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjlLVUEzNFRjbVVBWWpkQzQwV1VIZkRJNEZ4YTFzclNSZE01eDRodTJHcW45VTF1bWtGLXRqQXNVa3BydmtNcXRPVjRUaVBvOEo1UDZsU1piblNyWnhQbFhJbGNFYzk0SnRSODU2X24yVGhiOE9GRVJxaXZvYVJhS3VtNF9xTUl0b1JoeDA2RnJ0RGhuR2FmbS1UUGkwV0thMEFUYXRpZzN2MnNxSVIzWVFFYU02MDJlRklpS2xIN0w5YXhjaHpDdk9EVmNtZ3Bhc3puRg?oc=5",
   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWNQZWYtanRPSTY0eW11YWpvODYxdnpoaE1rcnA2SnNSdGNrYXE3NXBmV0JBV0hzWl9QdEQxNl90ZWkxYWlyam5kUm8yWl9XZXh5UjhSeTZvUXNreFRoV285Ym1qaDhFQ0Q3VVFBVldQLXZxc1d6TUFiNzVRS092czlxSWxEeE9ia0ZuNlEwYnF2TmF6MlREMk9oU2l5WjNTT0MtNXlEc0hHcEdZNkJmdTdJcTZrWHVJZmY2ZEdQXzdXdFlKUHQyeWRkVlFqbjZNLWFDOWVYQ0Y?oc=5",
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSlQwRlpnMlJoMVhxWEFSZ1pKc0ZxS3RjelFsbjByT0lYMGxGcW5VZEdqcmktUmNsQXVSMlNhbE9jUVJIYS0xYl9TWnkzOUVhVWk1SmI2T2h3dzJMU2FITGttZkpEQ3RBal9oRVgzUjNXRlhkMFFUc0liZXp4YUVwUTVwdGNpcF9DMXlaby15LXhJMTFHV19RdGtwalJoVmhJaHJUc2liVUJTQlFIS2RUQndPck9BblVtNnlpTHEtX1lreHA0LWwyWW00WlFZTVVaNXZqLWc2QmoxZw?oc=5",
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlE2RFpDRzdpdUphaG02ZlRkaUNoNVZWZGd6Sk50TUdieWRadDdZQUJyanN6WDBmZkVtWDB4ZGZFSC1KWTN6S2g0OHZZUmFCTUQxM2MyQTNIZWtOT1hhU2ZwZ0stNlQ0bF9hX18zZlgybi1MM2VRX2tmYTNQbFpTci1uX3MtX1V2T3NzbWtLVkdXbjVwSmVRYkI2eWdXbExuV0h2Z3NmcTJyaTYwWjlEN052c0liNjRaYVd5YTNwdmlOQlp0MnJwc0JxWjZfMjFxT0RIMU9HSkFidw?oc=5",
   "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTndvQXhCVG9BSktBTlBYcEFoZGlWVWZvbTdTTW1rS2UyalQ2ampsdFhDLTF4WUM5M2dtd1Brdk5VUG5tamV5OU1pc2Y2Y0d2WDd2a21ERU1sSldIWTVQSDgtQkZRV1NnNm83aHFpcmNDcGhjV3FMdHdaaVQwTEc0emJnQ3hyWHFWNHVITjlTYTIzSFZzc0FCZG4xb0MtcWJfTHVNM0RhRlNKUkFBWFJTUVZqV2FDandzUXJiYVl6N1pUTWZHTGZMd1RSWkFNSENaWDRRcThJd2s3WU0?oc=5",
   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON256elNESW5IVk54RGpOZUdWdGZNOG83ZjNucFhjcFFwd0xQLUoxeWN0bThhQTJBOV9WVUdaRERRa182MXZycUwwNXZyYUtiejBjUzhCZnl3MFlDU19uNzNXYTM2T1FxNTV2YUNmakhRd1pQUFoxNW45c1FYX1pPdkl4UTdleGNyQVpuQ25yTWpFVFNwNTFfQ0ZEQm4wT09tc2RhbEsybGZGX3N6QjFZcE9GVlluSzAzTmNUNkRiNWFmM196eGtudFU5TTBHZFdVbnJDWEhWR3lNTjhr?oc=5",
+  "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTzIxWHpLREpnOTJBZzd1NUE3LTNPQnNNQzhYQ2c2a2dtR1I3SGxEbWI2TnUxa3VpcnVzRGVZUFg3VVc0QzdYZVprX3JidV9Xc2N1a0FMcHE5ZzhJQ0oydmNUYzRqRGNjQXY4Yk1DSTdIME1oVmMyR21ybWZkbTBVZ194RjlFY0ptUHJGU1l5Vl8ybWVxaWFXWk5VMlVRaG4tb2tpTkZ5aTY5YWpDRmRlTVV4TFRzNG91a2tuUzU2MmUzeHh6SFo5V001ZEd3V1YtTzhjaVptdlFBZnRDX0w0ajBvemU?oc=5",
   "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2VNRVBvOUpyNFpvM3VHVkhBMDVqYnV3TEM4VWFFQjFIdkxkLW01Ukg5QzZxRjNaRmwzLVZkWHY3Z0ZrdUdVcnU1ajNHT0J3UEc0TTliVldyb1JzT0hHblJMSlR4aThRS09VSFlSejJ5NHZFNV8xODlOOXZBTVowS3BjRUY5ajN4dXFILVRkb3B4VTVScTJQckdzUWZ5UU5VZWt4dmUwWE03cjdaZ09pQzd2cmR1eWIyZVpuRWFPNVp5YWkwUE5vTzBCRVVIeUY3Z1IzeXVDNVg0bE5Nb015Z1ZQSzRhZw?oc=5",
   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM0xYMTBDM2pvMEVPbUVDdWRHTUEydU1pbS1ZY1laLTBFYzRtRGduZ0ZvSnZqX2lEVmVoSHZyRTNfU1kyOUZVTHFNZ0lPSU9jRjZuREFQV010R0ljTktHQ2owbXhTaUFWbkZBS0M2Sjh6N01iN2dZeXljTXZMWVQwcG5pTWkwZFRWVEV1TjNyNHFKOHBEMFluQ3hNZ01DMUcwRVFwakRKSE9haUx5MVB0d0h3emFSTkF3MWQyeG5BaVdEMHd3Yzd1QTF1WlBVWlB3WVk2Q1I4ZXc0RHN3dXRtRUE1MWptMU9qRmc?oc=5",
   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSmU0UTJJUGx4WXhZRXNCdHpJbmstQ3Q1TzNQVlRBTnIyOGJJcFl0ckJUa0EzRWhqYUxKZG1YMVRadDBwcDB0UkRwWTVqejFseWNaeW5mQWswaFZ4cGlHcDN0T2hsSUlubl9lckZhdGJNbDFxY253QzZRbnpsTXdweHdQZ01HOUVDTFFCRkJvelpkOFRNOEZoSzU5WnFvRXZzUVQySFRYcWtMd0x4cnNKUzUza3pMaVNLdEloQzIxTUlwWDR5aVNmVnpweWJFMzBFekNhUnhfOHR1MTUtTjBKSk5Jekk5bGFwQkE?oc=5",
@@ -1112,6 +1359,7 @@
   "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mcXpHWmZsUVlsUmVaNjlxZExfZGx6YzIyNzlzTzVLMkgyQUF5YUJfTlJjTTl5U3l5c29XN2tqTm1SSTlwVkg2LTNqLXBNQWN0?oc=5",
   "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2c2p5dkZBdERKMU5Sd1lkbWRHWTBuV0NlWFJOOVd2V3ZYM1A3OFNuQ0VHU2w3dzZIRnJkbDRBWS1qdHBRTjRMTk5aNmVSUTQ2TlE?oc=5",
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45ZHdHNkZwcEVaS2c0ajFVcWJhNjR6WEU1VHo4QkJuLTNrQ21FUjBNNzhINzEtdkNHUWxnQWVDN09CWnltRWh3RlIxVDB2WEdIeDZIcERydw?oc=5",
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WUXl5YnVHbGtKTFl4YXpteHRsN0pNUUFRRzBpQWkyV2d4TVNqeFp5OUtNN29fem5PaG9XRlpoVGxlaW5NYUlpWGw4NDVtSnl2VWFIU01B?oc=5",
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LbkxJNW1TZHY2M2YxcTRzdmlPQTFIMmVKMUFQQjUwWVB2X2FHVUlQZlBVS2tXUW1lSDZUWFZUQjhYeWdNWWs5NjhaVDROV01NYXFBUGwwYUVxUkU?oc=5",
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OUVVfZjFEMENEdWpzUXhEd0lKRkhqZGxhdlRwZjVsWE1BMUF6Z3pkR1FnaDVsc0FSMXpnV3RpaEYxSUNkS3pPcFVKaE5EMWRnSkctWHo2VW9UVDQ?oc=5",
   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95ak55ZGIyMHJCOUJLdFRHendYdjBLSktwWGg5YmUyTkRESmRTUlVwX3FVV1pvalQwWmU1NzRSNUVUdUlneVR1ckVxODVxOTVNLVd1VjRqbFRXUlU?oc=5",
@@ -1124,12 +1372,17 @@
   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ld2pZODJGWEN1OEpHMFhVeU51aUtJa3o0blVKV3VfWldTX3JSSGZnbmdPZmh3OGlsOVFOLVpPR0lKbEl0QlVTVTNva3hJc0RlQURmRnBuYXUwNlQ3cEE?oc=5",
   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rZUdHc3FQMGxiZC1xYzlPWWZPQm02djU0N2JjN1dRdlVpMV9vb21qMlJxcXlTZVlTaExiOUhXRG9jWWRIUktNSHBKZHJVQVY1MUFFcDVYU25HTTd6T1E?oc=5",
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YMU44MzhqaV9TWktIbnVfWDN0a20xYWJTb2VZMXF2Um5RV0txdDQyRGhKN3c1U1dSMFdyN21qVU85OXRPSkliOHRFZXdCVnEwcFd6UkJncXMxMEhYdkJ0UQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2c1l6RVU5VWktWlNJQmRaYm5CVkN3bXBBck04SGQ4OER1R0RCR1gycXpINWNNblN0NTZ4YjFWd182X1A2Qmx0OE9ya1FsUDdPMVJPSzNXcHZILVZmUkprSg?oc=5",
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KYV9RMUFJZE9PRGVWN3FiZ0YtRmZOWl9qOGptVlJ3cXVKVWxTNnI1aXB6d1Y0b1VwaHQ5UnprS0E1cDlkS1FlQlU4MF9qVkZtdXlXTlJmcmlvX2dKZnNRQ3FnQUtrazg?oc=5",
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZbFluQmlGRmFuYXRWanl6MmFSYjFidEE2NENkb0Jqdm5IRFlNeHRqZVdfTGpxaTZ5TThyZWxpSHl1Y2ZlOXU0emZRZUo4d01MNFJlMkVwN2o4VkNmRUdRQmg5UHlzT1k?oc=5",
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xNTRpT0NzSUNpanNXdm52V0ZHMjVCYTdrR04tRjBVX3ZJQ242bG1VTlpHQms2bk1LYlFhQkdiOEQxNHNfRk1JWlZRczBYYUNXRDItclpkNXlFZHhXdUQxVXY0UmE?oc=5",
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fbU83cUp4UVhsd0pieVBsdjVHanR6RWx4UFhJcEFFVkgyX21tRXFSZVlzek51RkRxemlOYTFRNjBpVWpnaEpGcTB3eWt1RHpwRm4wTEhubTJ5TVRKR2hpelpjbUM?oc=5",
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5M05qQUU4Mm1nQ29sMkN2YnZVV3lZZUlfMjFVa1dKVmNkbGxWbEkzTHR2VVZyMVRlcVVFR0tGUkFLSEF3U2tJRnJwLXBZT2RaUGxyT3pDR2FQRlRHY0lpZ2tobzg?oc=5",
   "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYzN2Y1FldGQ3XzJvcGRaYllQeTVtYU1NWkdGTmpneE96Q25oZ1FCWl9icVVxaUJyVTZmcFVXVVVMMVdwck1KTjZkR3BUbmkzUk5mWXZIdGJjYW1KcXkwc3lURi1NLTE3Zng0VnhYbm9iSjkyMG0waERfUTFBX3pPUDNuLWxnR2E0RmhBSGI5X1JIbGI4aHNPclZKYWc1WDZral9DVHlfSUhJZzliR2N6eGg2YUdDSTNod1R1NThJcGpOUG1aVEJyQ1BIbDAxSGEzZnlVbk1PZWhPWUNjSzVicjltYlN0THc0bFRwcUw4ZVFJN2pjZFl5OGFjWHY?oc=5",
   "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTWVZvM2RRMVhZRHkwLTBQcjJwOWNlTGRmVUFlcjMxaTlyLU5nSzN4dmQ0dnFFTDBmS0NRc2EyekZRRF8wTU9fWER3UXhna3pEeGM2bXoyRUNyRkxaWHgtc1ZLZ0FScTZZV1hr?oc=5",
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tdWhuVUM4c09tNU0tVFZDc1JqWEh1UHhkWlhFeXhFZ0Zob1cwbEs5eEN0emdrM2ZXYlJQVXBxUjlhbnBMY3NDVERPcy1WRndyYVhWaU04dmV1MnRWY1ljTzdZSWVjcEJS?oc=5",
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13V0ZvNmdfYlBoMzM4dEpCdF9WWTJDc09QT29LTW5ySHJ1ZUNQdWRxamF2Zjlsd1pWV1dVUDh2ZFZrZFhiUlU3T2w2dFhEd2dUNEl5cDBOenh1S3YzTmw5ejNGV01EQThQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fZkFjMVZVZUFleGttOTZIOU9PcGV0N1J6OFVsdWFTNGNuN3VjUFNuT2RYRWxkQy1MRUNWdmJVRGtDQU1tb205aFZ1a2pHbzVyNFB6MHpBbnp4VmtGbS1Nd0pyR0dhMURy?oc=5",
   "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Uc1VVSlc0d1BFczktbmdXcU9wLWJFQWxETVNvdllsS0FMcVhqTm1pdXFSd2Utb2c3aWZCOTVERzdQNzJvVEJyc1VYZ2lOMm5LblVFRnQ1Yi1QYzI5b2NtX1BTWGtIT281ZWc?oc=5",
   "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iSUFkWmJkc01QN1g0TFNGY2FkNUtOcDNTX3NBR25PMlVkLWxodnBmYzJiR0tnZ1JkTS03Mms3MG02VkhQVHgySEg5S3pmRFZsaHpxREFuYjdRWG1zU005NkVhWG1VbE1FN0Vkag?oc=5",
   "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Sa3l3RmFZMHZlZFZWMWJ6a1pTUWxEbGZvLWNkcVB5dHkzcVlDZXpQWmw1MVhpNkZwa0hwOHViMmhjZEw1NzFWc3h5WVhjZkFDT1ZzbGlHeW1xbzNHSVhBNUZYbzZuTHlfTUg4dDhB?oc=5",
@@ -1137,17 +1390,26 @@
   "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1U2kwM1Q3R2JRLWI5N1pqcGpkd3pXMVhIeHptejc5TnpTSk0zU1p5ck05aFhFNWl4S0xfS0w5RU9fTVVPcjlKV0d6VGYzVUZRM2pGVHlVLVh1bnBJaVFfUDhfOGFpaVR6ZmZGbnlBYUs?oc=5",
   "https://news.google.com/rss/articles/CBMickFVX3lxTE9odzNXeFBzakZhQTBTQVRVRG5sSTNkeWtJbURyTDBPbjEyTzg0VkpKUFRkRmU1OENVX1BES0s5elNvdkNUSEFlRU4zcGsyenlaVWQxWkhlSm5YeDJ0MENFSF9SVGowMWhsaWo3TS12dHd0UQ?oc=5",
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URFBmOGk1TVFzT2NwRi1kQWZkaTFQZjRJZDFpaDVkdjNrQU9Xd3RkMFpwcWxkeWVveDNUZDRkc1dIVUVVRW1fVW51WFdnV1VMZHI2dUVJS20wT0F1djViYmIzWjRvN056eC1aYnlCSld6amR1RHZZ?oc=5",
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hcjAtdEpxLVlGbmgyMVlFUGhwZU5Ldm0wWWw1OFh2VW9QTTllNmtGbEVhTzBoOUVlWnEtWk1iQzRlYmtHTldyM19VaEtxNThSQUdxS2VrR1NjZlhOaVprTnZYUnowdWxWdDFpU1VyWlNQbnUySEE4?oc=5",
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HREprMU51TTctX1JaOVlLQkZBZ21tWUhOMW85al9BbHRHREN5ZmFfdl9RdTU5VXU5VURlaDJTNC1EN1luMlJFcWJiMHBoVlVXajFmeldIenhuQVJyZ0RNNk8zVnZHcGotcmRJaVd5dkxtbVNy?oc=5",
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UcEdjM0kwY2t3UFJyN2pRRDJWSXQzMkJrbnJFT003T29DWjV2RzloNHRXNFczY18xd2wxVmFnUFhpNUZFY1dRRi1UUHpBMERIR0g4ODJkTnh2RjZod0hoS1B0MnNjRHEwT3BpTkRGX0xPY2Vq?oc=5",
   "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pT2VYSjNHX2FkUnpHeUlhWmhxTklOMDRyb283NjBwbG5LWklvNllKdW5FYjFpVXotd2RpVGhsQlBNS0YzMWFzNlA4SG9FdDNybGM0TEhzYm5YRG9rWXNuMWo2N29VRzNxa3BqUUNmUHZkQ2o3bEE?oc=5",
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LdUpEUHhZX01famdOdzZsaEtjVTdiVFdmUFZJS2RvUHBIcG50V0tkRURDa0FLaGVRVW1KRkh3VExFUm5ETDVlWDdoUzI3WkxSY2MtamRrLThBQU9WYTJWRVlEWEJLWExXUEJCa1N1dFpLMV83aVJhVE1BVQ?oc=5",
   "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WWVRDeUVrY2Y3TjVIVXQ3SlE3WEVtaDZkRHU0OEc2WEYyYUFpb2hCTWYyN3lxMm9JMFJFT3dMa2R3d1kyR21qSUU1VGk3T3drWmVMYUNpNlMydENpUDF0ZGtiYVgzcVdHb0Zrb0pnQi03dzZrWk9VZw?oc=5",
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RbHE2eDNtTGNycUJTMUlHY21CbTV5Wkwzd242M2t1alNJYWQxX1hUNWUxb0oydnkzYmFuakg2bzNvR0hUc29Ga2N4TjJmZkpWVmVaV2hJbzdtalVrcTlUallJZmIyUlJGcW5uTHRjUEwzWEs1LWY5cQ?oc=5",
   "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0OVQwWGVZYmpGRFhhUnlhLS0xeDg5bGtxZEFVX21JLVR5TlJEYS1BT3lnY2NVT0tHOTRRNWd4eWk2SnExaFVSaXRzZXJpckZVUTBHQlhQcHNOWEJLVTlTeHFhRGhKQmtSS2tTUDliVXFWUUMyckRwRA?oc=5",
   "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oMTdzS0FMM2NtcW5sLUNlV0Zxbi1LVzdPcUhLaU1YLTBqMW5TMmJMTFBBT1kyUHlMc2R0M2Nlc0ptbkxXbUc2djRtblVvVVBYbC00c3hFMXV1bkJXS1F2YUVzSThFRHdhZ3JLd2V4UmtqNk00VUdKQkFR?oc=5",
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6RmVFcXpvRDBJX25EUXBjUHdFaTYzdl9ZeVBjNGQxRmtQOVE0VnNzMnB6a2tUYTgwQ0FiRHNycG85SXNmWXRHaTlkSUF4UW91Nkt5VGdfZEtaUmJnMlJJcUJpaHhrV3JRd01KOTZpM0pBZVJqZDBCb0Fn?oc=5",
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wcGMwU3dndGE2VWJ2NnhRams0RHJTLWkydlBxaFZpX2JCRU1seGtDNi15cHNtMnpkaEVyX1IxQ1VlYVBOdXdfbng5THgtM2g3RTg0S0EwTlhqaXdNOEFyNUJtUTlDZlhXdXc0MWRlN1l5cWNiVVo0em9iTEU?oc=5",
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zMFpETndHem1IWVFDWklHQzItVDB0clNheEVjX1Q0M3hBSVF1RExMb1hyeTQ3OFRqNk1zVFh1cExXWUE3RFNGcEZKdVUyMGtkTFpfLTlBMklkUkJRX28wVk5uWV92MjVyU2NKY2lyZGN4dmQzbVVOUGVDSTg?oc=5",
   "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrNlB2bXNCSFB2VkEwSk9rWHJpQjROSk1Ga0lzcUJMc0lSZHdXRlVpVDQ3WWRtLVdDOXNHSlhaTHNLNmdQeEZ2ME9QclM0UVZFclRTNXgwTGc0cTdFYmxvVzVGLXNoZjgxbWpUekZiZWRlRmtRb2h6MHNoMjc?oc=5",
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeE9RZ0NvR0RTSFZlb1ZqYllxUnFwOUJfd0x6ZUJFRFd0MUtta3JwV0JzbVF4YjBpSzVKdENSYUV1R3JsZHpIODFnTFJCczR0bDI3YnUxNzBaRzFBSzh5UnZVZzZqMGl3N29DNzhDdmNxYmwtaXBHSnlvYWFpZURnag?oc=5",
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNejlXZVg1X2JHZjN2V01PTzdqUmNEaXpnQTJYcjNUaDRSUnRZdVFaY2xfeWs2a3ExeTRiTUZCU2RHOS1XWnp3UGJoWUIxOENxZ3RFZ2RzNTdQdXROYThhT1NqSHZzWXZncWFvN3JiQVR0WTREYUttLVBDZTFkMUZjTw?oc=5",
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUThtOG5xUTRpc2t1eDdqSUl4aFBTNkozV1dudFY3d2tQMndPalhtdW9xQTNMcDZQUjlDM3M0SFgtVnhfZ3hmOFFuREczWGlUb3VXYVpNVUU1WUNKdEtydnF5XzRKU2xLc0dEZS1GVmtrQU9uWTMwS3ViRlktRm1vYWVn?oc=5",
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTm9TTzJvR2VEeTY0RmtwTV9kQUdmbE9BQm9BdG5pLXMwSFU3TjFCYlFFbDVxTU0zM0xrMTQ5cnhrVHFiZnBLWFpLVHllOVdsRHhzWEFwWkxFbTltU052S0hiYlVaMkVGdmY5UFlBbUlzRnZEQ3RLR0FhYnl1Mk5VMnVB?oc=5",
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmtfN1AwcmtBVG9qOXJidG02WElNbE9IaFJMMHR0c29LbGV5RDRUa3ZnTF9ndmRDek9MbWhZZGdaUFpjWWNTeHV4dURHcTJYclNqbnBjNl8zYWY2QzRTRlVwTTRXak9FYWtxLTNCNUozVXFiWm8tRzNJTGZhWmNVZjZ3?oc=5",
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmJGa2ViWUFGMU5ZZm9QZWM1ZFduRkY5VEg5cnRlb0lOWnJha0g3Z3R6UF9jNE5zVFYxU3JNTjhhMEs4dk04MmcwZ0Utc1RNd194S3ZiT180MmxHVW5VNHpvUDZaVmJvczBaakY2aFBhSXNrcFp4QjNXZURQblZvbW5oRQ?oc=5",
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDQzSmdScmlHQ2dDSkgyejhTTWhqdFFzRVkyM0JGejd6MTI5dWJocV90Unp6al9CeEdvSFR1aTF0QXZ2Q08yUlRLcUN5Y2dyQUNJME9wVmY2SVV1YXRxMkZsWUVYd2k2a241VVVHZHljaERIUXMzZDRhOTQxaWJrb1YxNA?oc=5",
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDRiTmU4TnQwY1d1Nm02NWFpTnptcVNDQktuM3U3R09XTnZnMk9iQ3F1SUVfUjNVczNKRW1aT1N3ZGZ2V1FkMERlQ19tQW9vNWQzblg5aE44ek1JS0ZGREJCeTZkVzVSSVk0ZHFOMGN3S2JpS1dXRE42OFRxcml3cHJEck0?oc=5",
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWI0eks0TE84dVIzd3NQMm14R25OV18tc2FwRjFka1ZWZ2Q2Mlg2eW13a18ta2tkd0k3SFJRSVdyeWZyU3lWcmNhZ2t4ZHcxSjVBd1RYNUlVZHhPUHo0MDI3MXNpT2F1RWdFSUE3amFXR0hwTjRSSFZRVUZ6a082UTFzSjQ?oc=5",
   "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWF9ZU1ZsOVBFSk9wMm1IUTVOaDNvYXlyMnNOck40akpIVVVTcUtWelhDQ2NHOVU5OHJ6S1pfc0hqcE5HUTRfVDVORFJFbTNkVHR1VTYzMklTRm1zeURJdGlpYllCRkFnNlF4OW0wQ0FrYmVrVDlaTTZ0cFZNVFV2bHdURGs?oc=5",
@@ -1159,10 +1421,15 @@
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU3UzZWU1Y2w0TGVwZlkxN2ZSSDVlY1J6RWpMSzVRa294TVJkc1FuOXBtb0ZWcllGaGNtc0dZVDBiXzBTYndlSUVONEIxU2IxR3RpYnFILThyZDlSUWxNb2xXZDFib0Nxcy1zSENrZjFnUEdwSXZlWFRJeC04ZU1oWDJSa2NhZkFCc1E?oc=5",
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDF1VDFjeEM1dFE0SGlLQlBCZnJYbDlTZjhxRjItWXE2b29fOTNOV2duYlN3a0E0aG55NWhmMmxnY2ctaTNyOGxQLXh2UkdfdTFhZXFfOUpGOGt1aVh2LWY4ek9iWDRRa09mR0Z1bkZMSUtSUFljTXdxcTdZVHhFaVFGWnN4bC12VVNN?oc=5",
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEFDSHhibE5TeVJfWDZvUG5QWFlONHF1VHRqVlpOTjRSSVE3OHp2Y01rb2phYUEyS3dqeEJDcHNXVzhYYnRHRXUzNXBUaTluaDI0WFJRcXZwSWlQWjViOEd6LThJTHB6dlZoU3JhMFRZTkJtRURCeVAtdGlqQkRIZ0pTT3RaYVVfWnNwQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdjBYbzRtRTJFZVFpZFcyeGszaGxlYnN2X0RfVi1ON0FSXzRodExhejBOOVREUF83eTZzbWVtd2V4bFlzM3dPMWVQdkJiNThNY0JjMGlBSEYwejZZNEtJREdiYWU5SDdnODBNQU1aVk9MMXBmSEVndTIxcTRCLU42cm1tX2dyY3hMbjBpdGx0MA?oc=5",
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelV5YkxFRFI1anNzZ2VWOXM1YXBVN0JxaHAycEV5cTVpQzVDM0hSRzY5UmtHYkhXbURuVUVGLXZFdkItQ2R0SlJaaFZHZnZKMTVPeEk0QWN4MXQycS1VLWRuazBqeG1EeWVqbHkzZXZCS0ZHbHRyeW1ZMVZVVHdlZnBRVWI3c2gtUUVBOGlwUQ?oc=5",
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVhRazlNdTZWTkRWc2k1LXI4VzVib0xWUVBZZlRhRmpoYzY0ZkV3eFBKNV9BdWFYMW1BRGw3d1JXZE9fU1dud0djTVZrY1QzRjNwcjFIUGJsSWZJclgya2did0U1azNINlFoUl9OY01tS1JfUXN4UkdNS2RQZ1RuX3VuVjRqMFFyc2FsOXdqYw?oc=5",
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFJoX0FuYkhmRzdFTGs2U1g1SV9rUTQ4Y3l6TEh4UXhNUDJiT2diSzMtZHRCaEF0WVAzdVlxSWJvQ3VoWlgxSmFLTW5zVjc2SFhTejNIWmRqbVM0NXN3Ukt5Nkc2LWE5WERhdnJ0UzJxSG1FVHJyNmtLZzdNZVdyQzhsaW40WHNWdlRrdGVIQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkFmOFVDeVJMaFhOcThtNkxIbXdUNXIzQXhEZ1BvQUxXR3JFc0dMbkNSZ0pmOTVSSTF4ZmlidGVpb1d1WTVNQ0RlMTRBM09CVFB4LU41eUsyZmQwbE15OTh1djYwVnN2dGFjY2Z1b0dLdmVTMUhYY3NMOTVySGM5WEtjRkJzZlVEX1FqYUJPTQ?oc=5",
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVNxc3V6eUptVHlSaU9zUzAwTkRfVlo5MlpBQlVNenpSbC03djN5M2lRWFNJdkFtRUxPWFRUUjhjdXlwS2JBcG9IWVNPZERSUUZmMW1EdXU0V2xPOHpwM0MyUEt5cEh4MndqTzlUNXk2bjQ5QVQzc0ptVlB2RWJabDU2RW9sVEwteFNfeXJSOA?oc=5",
   "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTTg0dFhJY3JfMFF0YWgzdng5ZUZIWm02UVhqaEkzejV4N01vNExDX1gyZE1uUW1weTllcE0yQ1NQUV9zd19GSTNvNGF4RUpKNVNPbC1xYlJNSUJWZWdZcFQ2Qm9PODBaWXd3TFhzZDFtVm1MSHFXMGZQcW9QTk1rZVZGemoteDBwTFBDV0ZCUkhMb2RVLURtSTBfai0xVGNUSFJfVDRqc080bjJWR0h6eWFWUWo0TmsxZlhlSG8zZjNyVVJWT3lpZVNnN0tNOEdKN3VTRHl1VmVQTHZjSjRqMHd4bXhsZ1NPSUVRTks3TnIzMEdVUmVqbHBGMkNQbGdlTXdzUjNyWTRwa1cwem8w?oc=5",
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHlOQXJkZGJybkZoR1JUUjh0WF9oWndoeGdrTnVxOW10b0VqT3VEUkxmazVZXzl2bUVGNVU0akExUXIteWVkajVtSXNvczVnSDBVY0tLS2N1cDRPRF9fM1Q3RDNNN3U0UktraGFmZS1fSXdwUDVEa2taV0YyVXZVZkFwV3Zpc0RFZ0dGUVY2WkY?oc=5",
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeEk3emlLZTNrT0p4QU1wdUJjNncwN1g5MXRUT2V0eHdRdWNWX3Y4NHJoRm5lQ3Q1Y3R6UTJGbEF0WXVxVHN6WTNLZFd4RzBCVkZpcm9lY21IUHdKWmFubkxVbko4U1pKeEN4VGJuSUFBRlZMZXo2dWVuQ2ZLY2tKOE05cmNtRzhFS0daV1RlbzU?oc=5",
   "https://news.google.com/rss/articles/CBMikAFBVV95cUxQME1CbkFKWUxWMXd5TXdPeVhFd2wxckJiSG5YZS0tekg4Zm9VSXRLd0o3WTZyYjRkbk9fRHd6Uzk5dUl1aWlqUmpXTlh0WHZJSmpwNXdiRE9rTlBoX1FSN1UwWURrbHcxMjJKUVpaaVUtbDYwN1QyeE5YMGhiNW14SkNra0VNVVhNeHhnNTRBLU8?oc=5",
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNTZnQ2dJbWpNZ2dFUmU0RjlxOW5BU2xQdndzcXVMZTJ4cjZFMHVlSjJTOTYyRXFzdUp6aWExeHNRZXRRcFRpZUx0UzA4RDNzSWlOUklqSGdwUWlHTzA1UGNvc1poclJ0R1EtX1l6dmdmQ180d2VtVEFoOW5sb2RuN2F5TG16YmRuUG1TSlJ5OTRXdw?oc=5",
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY005cDBlNjVhRjZmenRpRWxldk5wbzJIWU1Sb0kzZHd0VlhnVUNPYzF6NWZVOFZyVGdhajE3a0ZaR2kxQkstd0V0Rmk4UXR2V09Jb2dvYmRWQUx0ZjZGT2duanFCTm5kRnpqd3Q2Y0pGR1dtcXd6XzlqSEU0TVlzQXYtOG1BSF8ySUlLZk5RVkJvdw?oc=5",
@@ -1179,12 +1446,17 @@
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDhIbmtrN01iT2FCZW13eGN6MXpZSjN4UDZuSFJ5WExxUTVHaExYUlhRaGhPaU00ckV2U0lJRUlMOHRDRXRVbVNmaUtZaVIzc3dpOGplX3hPakd6R2M4M3c5Y2piTXpUd2RYT1FBX0ozbHBaNmNLU0F1RFVtdkIxOW5hWnFoWVBpZ2UyMFFDU0xobDBTTDlv?oc=5",
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVVudnhYY0o2R285S1g4SnJlbUROZXUteEVnUVlPcDg0X2JkN1hpSnFzMmV0RTJ4UnRhZU5YOEJjZlB3ODJOZ2R6OTY1VkdwaDdIckVBTlYzRDlSMTY1TklBTndnTjk2b19OZzRFeHVtYkNxb0t6Z2k2VXFZcXMtaHB3WnplbVhfSlBkUnNiWnNlZjV5NWN3?oc=5",
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEJ0T0JIOENmOENfVlk5Zk1tQWtoTEFKY0toZHBnSkt2Z0xiVVhOYXpHTF9SMjgtdVNIVkxOcFp3Q05LYXZyQVVxSkxsaVQyelZSR29OdjNseWMtUmJ0d002TDR3VV9WYUFNZktLczlKZ3F1SnEzS2w5S0s0VGZwbUNKdHpkRkVJSkNHcl9hR29mVUpOLUkw?oc=5",
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTNUWjFzRmVIWW13Z1cydE4wSDhqMFk2U0N2dXRoUGFMeHhWMFU1Q21aVERVVFczeUhIMnQ2eVRPaENOcE5TSE56LTJiQlNvRGlkNlBMUWxhdldzbEczSkNJdnRFcjhNdXdESzN0UHZTX19BS3hMN3E5Sll5S3p3emJDc1lxYnVVYW1hbWJmWmNvZnMweXg3RA?oc=5",
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSldlWi1BSGJPaVVIaEhKNzlDSHRBeTNOd0l4dktYR2pMNkRoN1VTRXhCOUFfSnFIWmttZjZHeWw1bFVEMkFxandKZjZhaFNaZEpxUnF3amFLRzJJNU1EUzY2TG5ZR2NVbWVuakQ1ZGd5YXNvUW1ELVlyakY1aVNVNDRId0pfd2pEZmM0SExSUDQ2bUtDcEZxUg?oc=5",
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUFJenB3SGZkdmF1SE5zWG9LTkJEZnBXVFI5NGUtYkE1MEJvY0toMUN0U0FjOU1nRGZiMUQ1T2V5Ujk2Nkx0SUg2U1RnWHliZ0Utb084blQyTEp6M0REY2xEQ0dCLVl2NzljVmNIV1V0alN1NWxFbUo4QlRXbDNOWURsLUF2MWlGWmNwT3FLd09FbjBxUGhRVQ?oc=5",
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjZSTms0Ql9QMFV5LXJUMTNmbEhhdUJMZWZpRVVXWUdjdjZrTkpabGJ0UG0yRHZ4eGp5LW96VmZIcU9aOXptbVFKdzEtR1VUUXlHZEpURkZySi1QLXFlRjJIbm4tcC11TDhHUlRHN1QzNm1kN1BOdDFqaUp0b1VDRXJvXzNHVV9WR3RuTmZFQnJOa19tUjdNdHR5bw?oc=5",
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHZ6YkI4cWhDZHdjQXJCOUIxRFUyTVhpeDc3YWdkdFJsaFdNZ21SWmNKVDN6RWJGUWhkN0VYMDBOQjdfT2ZudGMtV1FrbDZGaWhxd184LXdTdmtDanBmY3lzTlB1cXA4eUkxZ1Y5SGU2MGNDclExaGcwN2tOMVRBWFMxdlEzSVUtQUdjc3FTNGJzS0ZlajFrY2NQQQ?oc=5",
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDI0NlNjRmxadjZSdWNxanRsd3pYMVprNnd5dGRpY2piRy1BN2lsQnV6WUx6RUEyal9TQXBOYVk4dmJ3WWtQLVFDLTkwYXlvNjZKSEhITFNsQ1J5Vmg0dVpJYi14NmRJX2tCLW1ObW1QVkhWYzhMcmJIRHY1M0Z1bFZzODhvbG9hbGs3VG5fS09BOFZyWjRQc0ZnTQ?oc=5",
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU80X0tLQlJfSG9ZZk41cmNWSndBWmtTc2pZdl9GLVdGelVCMGZfXzAzZEZ6YldMMnUxemo2eUJQUUtoV1RLYnRFYnpDczAtXzBCdmZERTFGZmx1d0lyMlRqTFRfeU9qZEhKR0o1bzM0Nlp6QTdlQVV6dzR1LUhIdnhhVzNUSzFQaDE5UXk0dHZ6eFRaMVh5dUxrTXU?oc=5",
   "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXBTVG53ekhfWFFXbS0wVGt0X3ZLdkQzcGlMYk5ucmdzalpoZ29GRTlFclo1Y1BtcEx5bDNmZGwyQmZnazFKS1YwQ3VZM3E2Wjd4eHlITE5Xb3VMNVBUS2xJTEtBaXQxSlNvaWxUY1Z3YkFJcFNabE1rYlpWMmtBREI1ZHBVYWRGb05jNUVkeWNmLVBCNHFqdHp1OXZnQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWFycGhuX1B6TkRlMWdPbUhOLTBsT3Nua29OVnhCNm4xQVlkNEpoQ3BHSWVCblA1RFNKeTZqM0ppSHo3a3FlSENkS3VXSnJNWGxWRjY2NlN2WkZPZjZ6MVdKQXNLV3dYdTZQb3gyd3lha0ZRNFBlSXRpaTgzTWF3UHVWc1FuZGd0X3FQSktlbnhpMkZxM2Z4eXp2RWpsQQ?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVRhZWZQbWg4TllGbVp5OUZDd0hWeS04MHdRd2tmOVFibG9aTU5CS2hfWjV4dC1iQllRdXc4RVNtN21feC1BYkxJeEd6aERkWmtyMU9NZjk4Nzdzc2lybXVKQ3VRTWRkeWZYdmVQeGZUMlpFeUhDWW9sWkNpX0ppck4td0R3LUZYbVpPV1JWNkY1bXhMQ3ZJZHNMNkJRNkU?oc=5",
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDJMWl9YTlNOQ2ZnaGJzNi1jTU41U3JqQlI0bE5FdGotOWRob2hiamYtb18tMWRuejNEZ3pjWTM1LVloNk5WdHk5Ym5oZHpJemxQal9RR0tVamxfc3RLeUtldThFTDMtX2R5OE9YQjhMbGpPRC1qc0s2VmJNYlY0U0NpRUdaVkJlSHU2VGIxNlNRVmdkdWpUZnJaVmp4Y0E?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjZyU2JWam80LXhjcngzM3lwdWw4N3BUazcyQXQ3cGFIa2lYQzZSbVZJZTFCYlhVV0QxT0E4OUZTYjI2ZnB0V3FUVk1vYWFjeE1vemhQYXdKY0ZuSmJ2aWpGSTRmbTVZMEVsV1p6akVxSUdVZ1E0cjZJMjNTM05sSFNzQWpOdDFKaVkzSm1hM1Z1TnY1cG1JUFVNcDRXSjg?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVNqYWsxcFhOWWlnMzBJc1pVY0V3RzB2S3RiN3hJSmU0RnFXY2VBS3p5NWR2YVBPbjB6WDVBNHByTkFhVGxMcmhuYmViUHludk14blg5SS1ZejczNkZraVJ0T1JxWVRFcHpXamZ0Z2VmM2lMTXJldkNRaUd1dmVZN1VReUJiTmRSYnNpQWpLemhZV2xzcG50RGliWUU1Q1U?oc=5",
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXJtTXlydy11bXlWX3RUTUhXUU5TbkRpMWZlZV9kbHR2TEQ5UG5kUHh3MWo3R0ctTUgtQ0ZKdXphOGcxQVBiMV9BcHdyRkNUT2Y1Rl9FUlpjNmFtYkdXaUdmLVctd2Zpai1Fd3BLN0pqeHhFOWNaYnpPY2dpb0VSXzBqMjJLSWJ0alJaVzhDbG8zR0JpOFhDekRUWkxVYWRJ?oc=5",
@@ -1200,11 +1472,13 @@
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGpOa2xaX0hJa1hmam10NUF4X1FzZU9aN3FZcXA2WXBiVkJHNzFidERrU1JqUDAzeE1EV1JEb0RYcmI0M3dGeU9RYTBSb1k2ZnlXckEzXzJVR2FUc251MXlqbzBqbld4dHM5aWRtYzhaNUFoZ09tVU9RbFNET1pEaGEwcE1HaTJaTUEtLTJrYTVVU1NrUXpzRUxBTEl4dEtwRlQtcQ?oc=5",
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHVhaXhudV9hWWZnWXBieWpJenQ3M3U2Y1ZLWU1uNGNNb01LdjFiUlhDZ2hfNDltUWlETWZJck5TVzFJQ2E1TkpLYTZkNkdEWERFOXZ4U0kxbVp4WlFhM0RkcVlWUDZCbzY1VDg1NzNYb1RIU2pFREFfREFScFYxRHdqSVA0YmdfeVROM25qNXRQeHpyb1l6T2xFalVNeWVUR0Jvdw?oc=5",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUVkR0hGUG8zbk16YXY0VzhXeHZCS2N1OVk5dGF1NElaZUxGUVVCQWdpVjZlN2s1OGVuaHhQMEZDMXkxbV9fNFR6RFBScVRLZmxJblJfa0RzbGNVWk1tVzB4NlR1UHhnZjZNU1pnUC1UVUdGQ21keEJQMUhNRmR5dVhuamdlTzZIcE5adk43Qm4xYzEzc2t3LVNpTWgtT05fakdWbVJR?oc=5",
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWJKYW8ycl9ZZW5EVzJuRlJUUnVoc3JSdTRSTVU3OC15RERhbzhmOTZDY0NpOVdpTnhNQjZsSzdFTTJneGlNLVRTcXpZdi1TSE44THJ3TGVTRnZRZ1JwS25QSWtRLWJNMTBJbFNUOElCZUJsWXVyalZRWHdlamplNHBwQU8zYzYwTjd5SE1vbkZ4aTZZRFU1M2ZiLTJocnpFSXUtY0N3?oc=5",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZENLRUZoS1dtdnh4dVVKcnQ0RGRQVXBmSkp5SmpCaGdnNDBXYlRFZ2FLcjNrNTBCb3F1YXVHUlR1TTZzT0NhUkV6dlV6ODdlRGJ3alFTV1Y1RG1YTHJHdHlaQkhZaXhfSldJNk90WnRyR2Zqd2lza0EtWXdvZW5rNVJTdFFqckdyTU90S044V3BBeHFrUFZONEU0X2VROExxNmczaTdR?oc=5",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbldaUk84dm1ZMkh6YnFuWEQ2OG53NkZrNVV4S1dReHhkWmRlckNJVngxWEZraFNSZ1NFYU5LWGJvd3hWd1l6ZWpXTWpQZ3hMeVlST3JkSTUzalFtTVR2c2VnTXNZRDFBTGtNaDZKXzRyVkRBREJnOUhmbFo3Z1RWczE1a3E1a3hZS25HbkV6UFA1c2tOaHN6ODZicU53cGdUajVWOTZ3?oc=5",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUJLUVkyMEthRm5mVWxlQ2J0RFpPeFVMeV9ETWptSHhUa0ptOFV4RUFSYURCVEROU1ZCVVY2VzdHNTlqR1FTY25qUFUzdHdoeThXbGhYM1BobkRsbFJTU1B4cTNfRjNKWk1XelE2RGUwTEtwS3hid1V5aVZOd2lsU1pIWThHbC1BVjVFM0xyNTZ1US1ERXdiX0N2dUxiWEpjdW02b2F3?oc=5",
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSV9nZm85OW9VTm8wb1pwTktnUG1zR25JN2dxT25tNXQybU12R0VSWjBlb0h6eWVjSEVTY2ZVQXlKcVc1WHVoS0JPTVk4N29kcWhoa2t2Y3dTbDA4WkRDZ3pDTExYY2ttekZKVzFPMGNWcjhoUVkwVTJuSkhWUVlXNVVyZTIyZWRvVFgtNkVPLUxBZzBLWnVuclJkazB4bEVCeDRxX3BaRQ?oc=5",
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmdQNmcyZFhYdWtWbkszVVprUTdJaVFIOFZVa0NrNEV0dEhRalZlQ2paSEktWkxrdU9yeEtUUVFncEhXSGJGSnQxdnVxWHdzQkVXbUk1d2RURkhXenFzNE5iVjRzRmNrbU1xM1dXTC1lR3NVTnZCSmZJYmZ4NUptRW5KaHdRUVlidzJoeXA5Q3VYcG5KeTQ2MHVDN3RnbkZZa01CMFk5RQ?oc=5",
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa2Y4bERIWC1uWGdPZlJUNW05NHlFUXc1S3JGM2ZPVFpLd0lDRkRaTjlsMl9hU19qTXJISnFjN3FQa1JOX29BbmpFclUzZXo2WEVRVDVaWl9WMGpFVURheE94OGhFRi1sbnlLTXF6aVVVTWpRUWtzeU45ejZmUzllVDBBOHg3ZzZ2aHVKZklQLVdYS094Z19iNk1yUE1ZMnpTcVVVTnpMdw?oc=5",
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFlCVVNHS09PRjNRTXRHOTlYb1l1aEFDSTNrNnNHdlF1SHlabnV5bXFkaE5uODRWQ09KVGU4YWdnaDV6OEMxdHhYT1RNZUVQN29oR3RLN0lBTl9yWExNb2wtWGJqaThVNm9XTTRneEw3aElqcFRwUGQ3dHJzQWM4eG1WcWFmNEg0TjdBYnF4Skt3QTNBMXBpZVVheGd1eWlYeXZKREo3SQ?oc=5",
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGFLa0ZxdzhuUG42QU11cVhLbDQxTWhNblhHT25RNDNrc2ZHQVM1X3o4YU1JZkRmX0tQMnVUdGpFSTZpeF9LRFVrRXdnUHZxWDVieURXNDJxanBiYXNNUk1lWXdkZC03R1c5WHZrNkdqaU1YMWR5SDVDdGpPZEk1UDVrZjVncndVRFFBWS1wTXhwYVdpR2xENXpxVjRXSTZpWWdwcWpKUnQ2UQ?oc=5",
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbm52bTgtM1Q5RXZNOERWcnF3UUhYSFZzWHp4QVUzWXA2MGYybXRrNklFc2xmTWdRSTlEbkRjQkgxS1FaeGlhVEtQbVRDTjdoMFgyRzF2c2hLWGh6cF80eUJWdlhPRjdPTXlSM2NKRlVBMEwtRFVUWU1aWDNzYm9heFNwbk4yR1VxazFIOXpvX2tVQU1tZF9TRzJsSnhuMHlvdGFFVW1wRFJqQQ?oc=5",
@@ -1212,7 +1486,9 @@
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2x2NktnZTVHOTd2cUduTERSSFh1bllVQV9CeG5EVmM5MzZjMzh1T1pFelV3XzZ3Y1JaZllSOHZ5YUJWTTNnYjVZSklrSldueElHZzhSRXpTNWZTTFExWHRhS093RkpHTHhONlJiTnRhZFBEV1RmemFQSEFJVlBFZ3RySmNucGFyUHFKSnQ3cXpnZWMxQmk4RnRsN3pYdmlJZmNjU2ZPLVhjUQ?oc=5",
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFdVSVRuQm8zdjlseVdDNjFtTnREU3lyWmJEZHNzcmJvT1pjWVEtdnFZX1B0YjZEYTJxWF9UWGNCTS01NE96YzVrME1UMkVCVDQxU1BsYmtKRXBPYW00cklRNEs3QmdYRUVLVko1RDJKZkV5Tlg0SVVNbzM2d1F6eHNnXzFiOUtsbXowZmtqYnU5MkpSVm5qSlpyZUdJOTA2M0FFbXE5OElfZw?oc=5",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmhlODN6aXU5S1RYQTEyZ3pjV2FJd1g0V2JyNEZxTlhnZG9oal9uZ1JHOVR3dnlLN1IzV2tNRmtEVlNkQnBVX2lZaHpNTV9vRk1fVGtDRkczaTk0NW1jTkdMajJZV0Rpb19CVlZmZU9nS2hHTUxKc3hNUklHU2hGMFZZSTJSYzFmUkF3Y1FqQ1pGMkNXLWtYcnVxVzRJWkt1YVM2Y3VxcGlRMUk?oc=5",
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUThQTGhIX195Q0RFYnV3a3dlWEJwQncxQ2liQ2ZqemVWMmt2cUhVWk16X0dCWUpSMGF4VG9PMEdRYVU1cFh3R0V4YVoyVFFnMFJGVnFOS3l4TVBmMnVveDZsdFhBaXNPVWtoWnNydWkwVG1kUVp5UE53cnR2R3ctQWRzM3lIYmxiam81UFpkVFJVTHdEY1pKRVZacEkzRkhzZ1ZoY3A3NzJPMGM?oc=5",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVEZZYlpZaUU3NlBWQWNVOE5NRzNXc3FLbHBZZlo3THBseW9SNnUyUW9pRVN5YlJMS0d1c1otSTFPOXRteUd0R3hmWkppQnRWbldjZG1ubjU2c210MnZrMEJPM25hMHRVRnJieWlMVU5BY0V3SEFqTldSS2xhdVQyOERUVXpFZEJ6blpCZWJ3OUQ1YWxVcThIMldTbWVUSGZRbmMwZEw2alJWdVE?oc=5",
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZW5Yd3JyVXVIMFNjSzJmeXVyTFhaVDYyancxU1NMaTVDQlEzSTJHLUNyOGMtMHBRY3owY1dkeDNoU1JJdDhTSy1Fa2VncW90VjJSRmdLcDdEZmYtY3V2S09MVGZaZXlTVHk1dm9tbjBQT0RUbGhyeDBPUWRXVlJzcnpwQ1ZKckVLM0VZN3hySG51bl9Ld09KaG10VnFuRXdpYjBQaDdxRlRQd0VRbkE?oc=5",
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDJJWVZuRmhJcXVaWHByR0l1b1dtY2pxMFdrc2dsVFBIX2tlZ1M5RTBpcFNHUWpCRGFlaklsNHNYRlJGWWNOVFctSUhEdEdDZVNzVkRna3lZR0Z6aHRjYTBZTzIyazMzeEpsXzFscEEwNlVXVFZXUVZBQUtrRlJaNVQyQlhRcmdDZk1Cc3VsWVQyaDRTX05Fb1ZhTFlNN0FpWnpUVkNuazBIMi1mTWc?oc=5",
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzZiRkk4bWVZeWt6LWlhZlkyYnBLa3NlaGMxN0dDWWFsXzhVRXZWWThJbkVXejhFZ3p6Rl9GcXI3NFFfTmVOSTMwY3J3T3Rqa2hGQWdZUFlyMEVVcGFWS1dpN0NfZzNteHpfTXNhU3V6NkdBUGNIR0RPendYRloxQWhJT2tVWUcxOXh4eGRRRGJ6NGFBVEJyYlQxX2xlNGd2YUZnM0lkbS1Gc3I0V1cw?oc=5",
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXNaOEJ1Nno5YmUwRHFqOUc5c3ozWGlTSHpjRzRfVWwySVFRNkhXT1plVnkwcVBMX09rcVhfUUlYRjR4REIzMkU1UDN5bE9vZDFxZ2lTa01FdkdJc2VSR3RFX0Vqc29ydVlCRTc2d1dsX3JOS2pSSE5FQ2I2Z2hLRWZ6Z0RHYTRLZWRWTEVVUXVabHR1NjEyTmRlVlNlQWt5SVQ2MFBKUXlGVHRiUUI0?oc=5",
@@ -1234,9 +1510,12 @@
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWlodEZwNy14QmdoM2lrQVM2RzZxUDk3cjJIeHMta2FUQ19BbUhEaXBfbXFYMm9jNWNXVkx0eWlzSUZWbms3OTA0UlRHYnV4OHlvNWE1WkJweWh6eDFScTJhMjE1bmRod2JwS09DczhqMUlHazd1bnRWQUotRmN2RVlTdHVkWWthS3NZeTV4cmxsenpqWXlUbmtvc3FoalJwbjdnTGlQeEZQVHhCNlR0QjY4SlRONUlB?oc=5",
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3pYdHQwbW8tM0RCVDNHeGhubm52NWhjT0hmUEtSZUswNjZ0TG9PTjRsYUN1MHEyNXM2RnVVT3hwOER3TndranNsRkJFRUdUWkhwaXNfQVhlV2tFSDBzdUVqb1Q4WFIwNTNEdjhNYlVzd0k4N3psb0pZQk1rX3pVcmVfUExwMVcxQ0hSbF9NUS1DNWZDN0JkTmpLUTB6WG1rRlVRcXNtbU1JUzVSTnhuYUpPVUZxZnlHR3c?oc=5",
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEpIT0dJdV9zel9LcTdvR3QtMXJLclk5WFB0OTl0ZVdUVVZGamloMUR0Zl9aQ0xZeVJOVm5kVmpkcExuZTJxQU02VEhWNGFFbjNYMndOTU1UakpRandDVnlTb1dPdkxYRzdFTEJpdUdtWEtxVmZXTTZvWEsxdXhiTm5JX2FPeVJjODc3RVBiUFFaYm5aZzA4R1pBVFpQS3Z5WGJkdnV2SlM2ZENocGtlX1NTX0o2dWVsVWc?oc=5",
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNanBpbzc2T3d5VHBwTTEtdThfOW4yRTJ5RjJkal9rbjg1WVRKU1pYT0lXbm1Gamh6ZzFFcll2NTJuMlZodklMYVZGR214RVJrTlZKRTVkaTJVTW94d2VOdHBPTEFsb29aNWhwNkw4RENLanZONEd4WEhLcjgzamloWUFoN1h6b2M1aVJRRHVKZTFpRUlWM1dHdkxHSVZYcFhwX0h3Q3JSdUxscU5DQjFpUzZmNm9YTFU5SkRV?oc=5",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORG10RkNsdmkxSkxkTWt6UzRtOWN3UlB4RFB3ZGZHVzUtNFFRMDBNZWxCaEc4dzNaZ0lBbG56YVE1T1BvSDhYXzNlbF9yNFRuNlBwRTFlc3RKQ2Jrai1JVkY5ZXctSFR6YVZzTksyTnFncnU0NjllX1VaM2o2Z2xTT00yN3E5M2dUanF3T0FaTWlNenE3U2pGZW9jYXhhNmhzejJ6dDZVbWJyOFpoNHQxeTNZTjd6MDZGZ3k4?oc=5",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVY3MDZrY1lCTmoyVWctWmRud0RtaGl5S2U4VzdDRlQyVF9YQmlndS1sVzhaRlU3RVl2alVjNkcwQ3k1SzhrcHlLc1dwM2o5WmVja3RleWNER0VtVThoUkNZNUI2bTdhVHY1MWpNMG9TTGpDVW5LcTctTUhfN0hzMHJrd2RxcnBzQ2cwcTI3Y2hjT29qSjd2LWJVTFFZNzJoTEl3ZU1FbHJta1RERENpRUlrRnVlSGNubUZn?oc=5",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSS1aUWY1UWxPNDZvdFFtamcxak9HQU1XcmZqcEtGTFZ0aUpMaFlvMkdjbDBQWGJEcUszSTF1V3MtbW9taHlaLXA5dFlMS1ItNXltS0VER1o3Y2NqQkJ2cTFRdktqZ0I4Z1dxWWtLcnc4cUk3SkpuRWR4UmxQNFF6U0RnM2xZTlUyQXhqN2pKNzJBbUVWckpRRVA3a05FUWVzT2RHejY0WnlqZ3NUN3h0cUNURHJYU2ZtZ0E0UA?oc=5",
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPXzFCX2twUnhTakIzbUpUNWtOZFVMNUx5WkVsZXBjRFFPU3E0UWNtOVRvQzAyVms3b1hkYnNCYkR0SFV3VG1rYXBtclNFVDd5RzU0Mnc3NWwxQVRscXBDSmVPdzJJRnRjTGU5VXcyMmxTOEptRU4yS0ozY1RMNlBGazNURk8yMGNWVXJuOTlaVEt1UmhDZGVKaTVEWVcxMUo2SzQ2UmpFaTFiUkstRkRDUjVsaktPa0FGRGpXSQ?oc=5",
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUl5NlZWX2hMRkFnSnBzeVk2TUUzSEVUZnh6T2stdzEzRFNZVVF5Vktadl9aNGtPVVRQXzNhMW42VndPSnliYVRsdjBEWnpuMmNzNmY4cmdIZkNhS0cwbmpTTENjdG8xUkFWZWVRNGpMSmdpeHZYaldST2hjczlWZnNuWjlNMHdWQ0xfYjdRUXFrZXkzcWVDV1ZlS3pQcFdVcUREdEptY1RXOF9fN1Vxcm5UcEt0cENMcjZhNw?oc=5",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUsydEM1clZDaHlFai1weURhSU1UbmpTX3RUTXBDOThSMzRhMWFaNklFNkFVOWpqVjA1ZnlsZXhOSXkyN1hLRGJsTl9jS2N6MUhDdjNiQlR4OVZYbGFRU21qWUZ2WHhweWM1LTlzV3ltdm9UTVZMbmNVVWlpR1FIR3VUZ2RaQUl4TnRNcG9PanczUVVqRWJUZVBvZEprMDg5N0llTC1LaFA1RlN4YlVCYzBQOWhDSEdsbWJwUmxn?oc=5",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzd0S3YxcW5NSEE0eGp3cFFSeGZmQV96SnFGQWptc2J4ajJYb3h0cEI3ZmdhSHVFZ0FtZlk4NjRNNzZZUnRMSXhBeHlfN0UxZzNqcHRqLVRnNUlTZlRaeGZIdGJkVzlEY2JKY2poRTJLZ1B2Y082aUZMZ2dmOHhmTl90M3MtT3JWREppbmVhQ01RZFNINnpiM2ZBWGlvX3NGTlduX0FFNG0teTFWTnJ0OGdCRzdRdGlWeFdvTHV3?oc=5",
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQmhzN1JRRFlVdTJObHk1R1Q3Z2puN0lBTExHc2xlVUZEQ2xPdnFUbW9STkttcExWQ1VFWjRPMEJkZGZKTDhqYlY5VE9Bb1BidWVrZVN4a24tSFZVYkVZVkFibmVKaE52VnpDUlBKNTJ4TWJNRFRVRXVaNnNFMW1lUmNTNm9LNzEyZ2ZZcC1zWER6cnd2eFl2TV9RZnFNMlFhQ2JJY2VuS2FvWEVmX25OTE43VDVybnl1dlBVQU1LQQ?oc=5",
@@ -1275,10 +1554,13 @@
   "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
   "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
   "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
+  "https://news.mit.edu/2026/j-pal-north-america-launches-homelessness-evaluation-resource-hub-1026",
   "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
   "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
   "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
   "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+  "https://news.mit.edu/2026/new-system-gives-users-more-control-over-online-experience-1029",
+  "https://news.mit.edu/2026/origami-based-construction-method-yields-lightweight-load-bearing-structures-architecture-1027",
   "https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105",
   "https://news.mit.edu/2026/postcolonial-ghana-fresh-start-not-blank-slate-1110",
   "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
@@ -1287,6 +1569,7 @@
   "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
   "https://news.mit.edu/2026/study-pinpoints-states-with-steepest-warming-trends-1030",
   "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+  "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
   "https://news.umich.edu/2026-midterm-elections-u-m-experts-available-to-comment/",
   "https://news.umich.edu/chimpanzees-at-war-u-m-researcher-finds-hope-for-humanity/",
   "https://news.umich.edu/cleaner-brick-kilns-cut-pollution-but-gains-did-not-reach-workers-u-m-research-finds/",
