@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:11:38+00:00",
+ "updated": "2026-11-21T02:22:51+00:00",
  "briefing": {
   "headline": "Mental health, cancer and heart health",
   "period": "Nov 14–20",
@@ -44,6 +44,31 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://newsroom.ucla.edu/in-the-news/ucla-researchers-explore-new-way-to-protect-firefighters-from-toxic-wildfire-smoke-and-more-ucla-media",
+   "title": "UCLA researchers explore new way to protect firefighters from toxic wildfire smoke",
+   "source": "UCLA",
+   "desk": "news",
+   "published": "2026-11-21T00:22:00+00:00",
+   "seen": "2026-11-21T02:22:51+00:00",
+   "description": "CBS Los Angeles interviewed UCLA researchers Caroline Sherry and Dr. Brigitte Gomperts about their work investigating how wildfire smoke damages the lungs and developing ways to prevent it. The team is exploring a potential nasal spray or inhaler that could protect airway cells before smoke exposure, potentially reducing the risk of long-term health problems. Read more about UCLA in today’s Wall Street Journal, USA Today and other outlets.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://s3.amazonaws.com/cms.ipressroom.com/173/files/20250/6793e7f82cfac278600df188_FF4/FF4_mid.jpg",
+   "paragraphs": [
+    "“Brain disorders are an enormous problem that we have yet to solve,” said Anne Churchland, a neurobiologist at the University of California, Los Angeles, and a Global Forum panelist. “These are [hard diseases] to understand, and finding treatments for them is difficult. And we need to get all of the human power that is available and work together to solve these problems. That’s why I’m really passionate about these international efforts.”",
+    "“China’s emissions are starting to come down because of policies that began 20 years ago … On the electrification front, they’re going gangbusters,” said UCLA’s Alex Wang.",
+    "Jonathan Stewart, a UCLA professor who studies earthquake engineering, told USA Today large ruptures on the San Andreas have occurred at intervals of roughly 150 years in some sections. But those intervals are not a schedule for future earthquakes. A section of the fault south of the 1857 Fort Tejon earthquake has not experienced a large rupture since around 1690, Stewart said. That means significant stress may have accumulated, but it does not mean an earthquake is “overdue” or that scientists can predict when the next one will happen.",
+    "“If you’re looking for ways to incentivize children to acquire the behavioral skills that allow them to adapt in society, it seems particularly cruel to use something that should be a given, which is a family’s love,” said Dr. Alice Kuo, who runs a clinic for autistic children at the University of California, Los Angeles. “You’re causing emotional damage if you do something like that.”",
+    "Lewy body dementia is the second-most-common form of degenerative dementia, behind Alzheimer’s disease, [UCLA’s Dr. Keith] Vossel said. It occurs when a protein called alpha-synuclein aggregates in clumps inside the brain. The condition is under-recognized and under-diagnosed in part because its symptoms can overlap with those of Alzheimer’s.",
+    "Released in 1986, Lucy Winer and Paula de Koenigsberg’s documentary “Rate It X” offers just that, playing out as a gauntlet of its time’s image-makers — from television producers to advertising executives to cake designers — casually describing how they use sexualized images to keep the material world turning. Restored by IndieCollect in association with the UCLA Film & Television Archive, the “Rate It X” release has even been updated with a gut-churning, though perhaps unsurprising addendum for one of its interview subjects’ years after the film’s original release."
+   ],
+   "lede": "CBS Los Angeles interviewed UCLA researchers Caroline Sherry and Dr. Brigitte Gomperts about their work investigating how wildfire smoke damages the lungs and developing ways to prevent it.",
+   "tags": [
+    "environment"
+   ],
+   "evidence": "Human study"
+  },
   {
    "url": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
    "title": "Ultrasound imaging without the gel",
@@ -1492,6 +1517,7 @@
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVi1tbFV3MjRjdmVUNnVWX0poN2hIZW0yTW5hNEJhNkdjcWZpNkVRdFV1cFJGMW11VTA3blZzaVNnMkFVZDRWMFlOOEJ6TFU4VTk0LTJpc1kwdWhVckplR0l5NFI3bDkxaDRGVl8zdVhyeFdMNnFQcmtoWDA2YkJQWUtGZjFjZHdoTmVmQkNVcGlpWGVyUE1UOGlhMV9NbTZ4bTc5T1FodlpIeUlNdWx2TEl3T2pDN25lXzlzSk1wYkFBUktNaHQ5RVRBWWFpWnZ2aTNCaw?oc=5",
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjlLVUEzNFRjbVVBWWpkQzQwV1VIZkRJNEZ4YTFzclNSZE01eDRodTJHcW45VTF1bWtGLXRqQXNVa3BydmtNcXRPVjRUaVBvOEo1UDZsU1piblNyWnhQbFhJbGNFYzk0SnRSODU2X24yVGhiOE9GRVJxaXZvYVJhS3VtNF9xTUl0b1JoeDA2RnJ0RGhuR2FmbS1UUGkwV0thMEFUYXRpZzN2MnNxSVIzWVFFYU02MDJlRklpS2xIN0w5YXhjaHpDdk9EVmNtZ3Bhc3puRg?oc=5",
   "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVmpTcmJ1bVdkNEQwa0lfVjhYUy04SzV3bmVEUkF0cm5lcERuOTY0ZWVWRmNMWGlBcXV0NzB2dW92MUVhNEJCV1JuX1A5eHAzWGRIc2JuX2FQQmJyaFlYSXFzOUZrMFg5OFhjU2x6emdhRU9tTHBiQWNwTWZNb1N3dGFCcXhzVkl0U29XYm10Y3hYenNsckVFUGtvalN5YjF1VnZkdXd2ME9vQWMtSTNtNld0dmVJWEJyQUxiS0xQVmdlRG1OSWp0NGZDREJVaHFEa2ZuUm53?oc=5",
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbUpHbnJFN1k5QjI0S0YwMHFkb0dqazlvMlVpTHBuY2hNYWhyUFFkRnBtNDZCT1RQOG03dzJJbkRIOGR5Vm1FSTFnOFNINkdvZkNSY3Z5THRQeGtWaHlvaUhTcjdMcXc5TC1BbG5lbDdmTzdLX1ViRG9SaFZGaGVhZy1RSUhmZGRxamx0R1Qtam9BMWxvaE4yTWNIdG02WVcwN0lmcFFxck84YjRVVmcwT1BjclU1UFFqOWt2dURNM3pjUGF2NW0ydWhqTFVaZ2FyRUZOUzJsNA?oc=5",
   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWNQZWYtanRPSTY0eW11YWpvODYxdnpoaE1rcnA2SnNSdGNrYXE3NXBmV0JBV0hzWl9QdEQxNl90ZWkxYWlyam5kUm8yWl9XZXh5UjhSeTZvUXNreFRoV285Ym1qaDhFQ0Q3VVFBVldQLXZxc1d6TUFiNzVRS092czlxSWxEeE9ia0ZuNlEwYnF2TmF6MlREMk9oU2l5WjNTT0MtNXlEc0hHcEdZNkJmdTdJcTZrWHVJZmY2ZEdQXzdXdFlKUHQyeWRkVlFqbjZNLWFDOWVYQ0Y?oc=5",
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSlQwRlpnMlJoMVhxWEFSZ1pKc0ZxS3RjelFsbjByT0lYMGxGcW5VZEdqcmktUmNsQXVSMlNhbE9jUVJIYS0xYl9TWnkzOUVhVWk1SmI2T2h3dzJMU2FITGttZkpEQ3RBal9oRVgzUjNXRlhkMFFUc0liZXp4YUVwUTVwdGNpcF9DMXlaby15LXhJMTFHV19RdGtwalJoVmhJaHJUc2liVUJTQlFIS2RUQndPck9BblVtNnlpTHEtX1lreHA0LWwyWW00WlFZTVVaNXZqLWc2QmoxZw?oc=5",
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlE2RFpDRzdpdUphaG02ZlRkaUNoNVZWZGd6Sk50TUdieWRadDdZQUJyanN6WDBmZkVtWDB4ZGZFSC1KWTN6S2g0OHZZUmFCTUQxM2MyQTNIZWtOT1hhU2ZwZ0stNlQ0bF9hX18zZlgybi1MM2VRX2tmYTNQbFpTci1uX3MtX1V2T3NzbWtLVkdXbjVwSmVRYkI2eWdXbExuV0h2Z3NmcTJyaTYwWjlEN052c0liNjRaYVd5YTNwdmlOQlp0MnJwc0JxWjZfMjFxT0RIMU9HSkFidw?oc=5",
@@ -1603,6 +1629,7 @@
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFV4NGc2OHZEU2FGRTBjN3A5MXJzMW5sdUxHSmlpRFoxeG9wblZFR3Ztc0pfNktRSnRJMmtvLTVqRjY5V2R1bklIaFF3STZ3Q0JXMWFMTHBtU0RROUdMeXFFa2VUQUVzRk05X2MzQjdJREkxMTBIVGtBSkkwOUpvbWNGVHFNck9PRUtUX29uejBPNmc?oc=5",
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTnF4Y3JhQXVrUFg5U25NTlMzMDdJTm9pN2JLNk80RzlHV2xtT242T0ItX0ptX0pkYnBrMzZ5anBOb1Frc2RxQl9hUjlhU3oxc01pekdUWDRVbjlPMGxTRFdTV0VLcmMxTjgtTEh1TDQ1QXUxaGVjdklJWWk1emNuOEQ0RXdpekhROEpPOGJ0SkhqT00?oc=5",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWnFUUXg1SlBmZkxVX0xaYS1maWpUcGFhNGowQ3ItQ0NYdnBpOUNQZFVVYXRvblRTXzYxQ0phRGR1eGdGeDRvZVhhQ1J4VUxFUktvODdVV2MwTmZXcUhKWndDaGh6Mkw5UE1EdEdQX2RaTEhzYms1V0JXMUlxN0FzdVV2TlNwV1E1a0MtUHoyNnhITFdE?oc=5",
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3pNM1dwUDZVakVfOVRiRW5meXBaeDlmQ2d2WTRFVHRBR21tVHlqWG9HLWtkUWd1bUptM2lmcHZQZjFCYm5sZ2ZNNk9ZWU45bXppeWlBanplaXp5c0I1MnQySXZzT0F4QlpyMVYxSlBUYWpxSDlMcWI4aVhaa3R1Wl9JZXk1ZUZDZ2ZROElfc25waFp2?oc=5",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc3ZCeFVhRnpROXZNOVBsY3B3RnVVZGpQV2REY3Y3b09mbGhZc0hySTRaZVRJajFIR3JURnFjMENHME1Kckt5QWVlSG5ZR296UjdBc1ZNVzRqM1lBaEN6RXk5c1J4bWplM2ZlcUg2Ri1XanZQSEF2ZTFhLUQ0WDBRUklEaWpYaUlNNGdxWEFZRUZrR09R?oc=5",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjZhUV95ME9KdGJhV292ZDdOVlBFUWQxbkp2aXVSaHQ1RnZqYWp0N000UzNPTWdnbGZ3Nng0cUhwNjA0S0dFTmFUbkNYaXBoNmpud0s0cnFvejgwWXB6LXMweFBIN1VtNHg0RVBrczNzdmNOX0dlOWVQMWhNSTVRYXhrTXFucUY3V1R2NFk2SHFmRDV5?oc=5",
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDhIbmtrN01iT2FCZW13eGN6MXpZSjN4UDZuSFJ5WExxUTVHaExYUlhRaGhPaU00ckV2U0lJRUlMOHRDRXRVbVNmaUtZaVIzc3dpOGplX3hPakd6R2M4M3c5Y2piTXpUd2RYT1FBX0ozbHBaNmNLU0F1RFVtdkIxOW5hWnFoWVBpZ2UyMFFDU0xobDBTTDlv?oc=5",
@@ -1615,11 +1642,14 @@
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjZSTms0Ql9QMFV5LXJUMTNmbEhhdUJMZWZpRVVXWUdjdjZrTkpabGJ0UG0yRHZ4eGp5LW96VmZIcU9aOXptbVFKdzEtR1VUUXlHZEpURkZySi1QLXFlRjJIbm4tcC11TDhHUlRHN1QzNm1kN1BOdDFqaUp0b1VDRXJvXzNHVV9WR3RuTmZFQnJOa19tUjdNdHR5bw?oc=5",
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHZ6YkI4cWhDZHdjQXJCOUIxRFUyTVhpeDc3YWdkdFJsaFdNZ21SWmNKVDN6RWJGUWhkN0VYMDBOQjdfT2ZudGMtV1FrbDZGaWhxd184LXdTdmtDanBmY3lzTlB1cXA4eUkxZ1Y5SGU2MGNDclExaGcwN2tOMVRBWFMxdlEzSVUtQUdjc3FTNGJzS0ZlajFrY2NQQQ?oc=5",
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDI0NlNjRmxadjZSdWNxanRsd3pYMVprNnd5dGRpY2piRy1BN2lsQnV6WUx6RUEyal9TQXBOYVk4dmJ3WWtQLVFDLTkwYXlvNjZKSEhITFNsQ1J5Vmg0dVpJYi14NmRJX2tCLW1ObW1QVkhWYzhMcmJIRHY1M0Z1bFZzODhvbG9hbGs3VG5fS09BOFZyWjRQc0ZnTQ?oc=5",
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVN1T3hDdEMzQkdFQjdhUkxiR1ZrUUJXZU1kbklpQ0VRWEUzMmQ4YVB6SzBOeFJ3T3Rwd0dORjMxUHRjYVpVVURJT0dQSE94Y1d0azRRZ2UwdlowQXg4MWZpX0ZzMGQwTFB0UzNhLVRsZEQxSkppMmkwSHFiSGR2UEhQSERUNzFtT0tlN21jZ1RaU3U5OEFxN0RDbw?oc=5",
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU80X0tLQlJfSG9ZZk41cmNWSndBWmtTc2pZdl9GLVdGelVCMGZfXzAzZEZ6YldMMnUxemo2eUJQUUtoV1RLYnRFYnpDczAtXzBCdmZERTFGZmx1d0lyMlRqTFRfeU9qZEhKR0o1bzM0Nlp6QTdlQVV6dzR1LUhIdnhhVzNUSzFQaDE5UXk0dHZ6eFRaMVh5dUxrTXU?oc=5",
   "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXBTVG53ekhfWFFXbS0wVGt0X3ZLdkQzcGlMYk5ucmdzalpoZ29GRTlFclo1Y1BtcEx5bDNmZGwyQmZnazFKS1YwQ3VZM3E2Wjd4eHlITE5Xb3VMNVBUS2xJTEtBaXQxSlNvaWxUY1Z3YkFJcFNabE1rYlpWMmtBREI1ZHBVYWRGb05jNUVkeWNmLVBCNHFqdHp1OXZnQQ?oc=5",
   "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWFycGhuX1B6TkRlMWdPbUhOLTBsT3Nua29OVnhCNm4xQVlkNEpoQ3BHSWVCblA1RFNKeTZqM0ppSHo3a3FlSENkS3VXSnJNWGxWRjY2NlN2WkZPZjZ6MVdKQXNLV3dYdTZQb3gyd3lha0ZRNFBlSXRpaTgzTWF3UHVWc1FuZGd0X3FQSktlbnhpMkZxM2Z4eXp2RWpsQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxQakRlTWpwdlpVejRRVUlUVVJQZXl0dEprbG8xV0hlUGpJcE5OMzVJc1U3TUpQLTFJeWZCbmJncDZIdXRuQUpsZ0dGcG84d250SDA4TUUxZVhqTTM2VTBGMW5LaEdaSW5yLWc3TmVKX2N4dU1hTVFoME1HUEdlRFVOOWxqUXA1TlhEcDVKZGpYR1FXeGhFeWJQMEJydnMzZw?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVRhZWZQbWg4TllGbVp5OUZDd0hWeS04MHdRd2tmOVFibG9aTU5CS2hfWjV4dC1iQllRdXc4RVNtN21feC1BYkxJeEd6aERkWmtyMU9NZjk4Nzdzc2lybXVKQ3VRTWRkeWZYdmVQeGZUMlpFeUhDWW9sWkNpX0ppck4td0R3LUZYbVpPV1JWNkY1bXhMQ3ZJZHNMNkJRNkU?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDJMWl9YTlNOQ2ZnaGJzNi1jTU41U3JqQlI0bE5FdGotOWRob2hiamYtb18tMWRuejNEZ3pjWTM1LVloNk5WdHk5Ym5oZHpJemxQal9RR0tVamxfc3RLeUtldThFTDMtX2R5OE9YQjhMbGpPRC1qc0s2VmJNYlY0U0NpRUdaVkJlSHU2VGIxNlNRVmdkdWpUZnJaVmp4Y0E?oc=5",
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZE01bERYQl9VSE5GRXZQbE9Lc1M0VTgxd1pfVHJaWWRkbEpVVDlsLWFOeEktLVdfNGhGVHplTWNXTmladzI2V25uLWxxYS1JckZxSGFuY2RFYlIwaGJ0cVo0UHdCSGkzZWpGS3diaHdpR3VSMTJzY3dZV2p6cnlvalRxZjQ0am8tV0c1VHZ5Snk3WFk4RHE4QklXQTlkREU?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEhPUHg4NEVWWWlOQ3F1RDN6emJVSDl2OVFfZGUyc3E0MFhpZ1FSLVpoZFJYOHJ1VzN5NmVDVzZVdEFVZ3p4MDM0ZUhQVGdOTmswYmMxQjk5YjN5NUVRdGVnMDN5eHA0cV95alpUT3RuUjAzcEVWUzhRS1Z3TGd0cEtnWlFwaXYyM0RsdkIyVTZ4SzJfeVV4RW1rQTNPUzA?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjZyU2JWam80LXhjcngzM3lwdWw4N3BUazcyQXQ3cGFIa2lYQzZSbVZJZTFCYlhVV0QxT0E4OUZTYjI2ZnB0V3FUVk1vYWFjeE1vemhQYXdKY0ZuSmJ2aWpGSTRmbTVZMEVsV1p6akVxSUdVZ1E0cjZJMjNTM05sSFNzQWpOdDFKaVkzSm1hM1Z1TnY1cG1JUFVNcDRXSjg?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVNqYWsxcFhOWWlnMzBJc1pVY0V3RzB2S3RiN3hJSmU0RnFXY2VBS3p5NWR2YVBPbjB6WDVBNHByTkFhVGxMcmhuYmViUHludk14blg5SS1ZejczNkZraVJ0T1JxWVRFcHpXamZ0Z2VmM2lMTXJldkNRaUd1dmVZN1VReUJiTmRSYnNpQWpLemhZV2xzcG50RGliWUU1Q1U?oc=5",
@@ -1751,6 +1781,7 @@
   "https://news.mit.edu/2026/study-pinpoints-states-with-steepest-warming-trends-1030",
   "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
   "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
+  "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
   "https://news.umich.edu/2026-midterm-elections-u-m-experts-available-to-comment/",
   "https://news.umich.edu/chimpanzees-at-war-u-m-researcher-finds-hope-for-humanity/",
   "https://news.umich.edu/cleaner-brick-kilns-cut-pollution-but-gains-did-not-reach-workers-u-m-research-finds/",
