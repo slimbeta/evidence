@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-23T02:50:38+00:00",
+ "updated": "2026-11-23T12:56:28+00:00",
  "briefing": {
-  "headline": "Mental health, cancer and money and decisions",
-  "period": "Nov 16–22",
-  "made": "2026-11-22T15:24:48+00:00",
+  "headline": "Cancer, mental health and money and decisions",
+  "period": "Nov 17–23",
+  "made": "2026-11-23T12:56:28+00:00",
   "bullets": [
+   {
+    "text": "Women are being invited to take part in a landmark national trial using artificial intelligence to support specialist clinicians and help detect breast cancers earlier.",
+    "source": "University of Cambridge",
+    "url": "https://www.cam.ac.uk/research/news/cambridge-co-leading-worlds-largest-trial-to-use-ai-to-help-detect-breast-cancers-earlier",
+    "theme": "cancer"
+   },
    {
     "text": "A racing video game may seem out of place in the operating room, but it could help with pre-surgery anxiety.",
     "source": "Yale",
     "url": "https://medicine.yale.edu/news-article/video-games-preoperative-anxiety/",
     "theme": "mental health"
-   },
-   {
-    "text": "UCSF’s Pediatric Neuro-Oncology Consortium advances clinical trials and new treatments for rare childhood brain tumors through global research partnerships.",
-    "source": "UCSF",
-    "url": "https://www.ucsf.edu/news/2026/11/432991/how-find-better-treatments-faster-rare-childhood-brain-tumors",
-    "theme": "cancer"
    },
    {
     "text": "CBS Los Angeles interviewed UCLA researchers Caroline Sherry and Dr. Brigitte Gomperts about their work investigating how wildfire smoke damages the lungs and developing ways to prevent it.",
@@ -44,6 +44,34 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://www.cam.ac.uk/research/news/cambridge-co-leading-worlds-largest-trial-to-use-ai-to-help-detect-breast-cancers-earlier",
+   "title": "Cambridge co-leading world’s largest trial to use AI to help detect breast cancers earlier",
+   "source": "University of Cambridge",
+   "desk": "news",
+   "published": "2026-11-23T08:24:11+00:00",
+   "seen": "2026-11-23T12:56:28+00:00",
+   "description": "Women are being invited to take part in a landmark national trial using artificial intelligence to support specialist clinicians and help detect breast cancers earlier. Nearly 700,000 women will take part in the trial.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.cam.ac.ukBreast Unit.jpg",
+   "paragraphs": [
+    "EDITH will test whether an AI-assisted mammogram-reading tool can help experts review images more efficiently, while maintaining professional oversight and the standards women expect from NHS breast screening",
+    "The £10 million NIHR-funded trial is the largest in the world to use an artificial intelligence-assisted tool in breast cancer screening. Cambridgeshire is the first location to launch the trial, which will soon be running at 30 breast screening sites across the UK.",
+    "All women aged 50-71 are invited for screening every three years. Currently around 2.1 million women in the UK have breast screening each year, which helps prevent around 1,300 deaths.",
+    "Reviewing breast screening x-rays (mammograms) is time intensive. Currently, each mammogram is reviewed by two specialist radiologists. Fewer than 1% of mammograms show signs of cancer, so significant time is spent reviewing negative screening images.",
+    "In the trial, known as EDITH, the AI-assisted tool will be used alongside specialists checking the images to look for cancers that are too small to see or feel. This could mean many mammograms would only need to be reviewed by one radiologist and would free-up radiologists to spend more time on diagnosis and caring for women with cancer.",
+    "The NHS offers mammograms at local breast screening clinics in GP practices or hospitals, or women can attend one of their local mobile screening vans, conveniently located in supermarket or community car parks.",
+    "The trial will not change what happens during a woman’s breast screening appointment. It only affects how the collected images may be reviewed. Every mammogram will still be reviewed by at least one human radiologist.",
+    "To mark the opening of the trial, the Secretary of State for Health and Social Care, Yvette Cooper MP, visited the Breast Unit at Addenbrooke’s Hospital to meet with the leaders of the trial, Professor Fiona Gilbert from the University of Cambridge and Addenbrooke’s Hospital and Professor Sian Taylor-Phillips at the University of Warwick.",
+    "Speaking on her visit, Yvette Cooper, said: “This is the biggest AI breast cancer trial in the world, backed by £10 million of government investment to speed up diagnosis and potentially deliver life-saving improvements."
+   ],
+   "lede": "Women are being invited to take part in a landmark national trial using artificial intelligence to support specialist clinicians and help detect breast cancers earlier. Nearly 700,000 women will take part in the trial.",
+   "tags": [
+    "longevity"
+   ],
+   "evidence": "Human study"
+  },
   {
    "url": "https://newsroom.ucla.edu/in-the-news/ucla-researchers-explore-new-way-to-protect-firefighters-from-toxic-wildfire-smoke-and-more-ucla-media",
    "title": "UCLA researchers explore new way to protect firefighters from toxic wildfire smoke",
@@ -855,6 +883,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTUxPbi1qYy0wWWtZbGV5NUlCLUpLbndHZ2plZW40ajBNVzQyU3Mzcng4cF92c3BLbUkzT0M5d0NZMkwzSjBCajhkNS1wY3ktaGlfZHdObURXWUJab2pVdXpnbW1leGp5ZlRNTWlsOTRWQkY4OGN6SjB1c0dNclI0LQ?oc=5",
+   "title": "Can an AI ‘Co-Scientist’ Accelerate Cancer Research?",
+   "source": "Harvard",
+   "desk": "news",
+   "published": "2026-11-06T08:00:00+00:00",
+   "seen": "2026-11-23T12:56:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "longevity"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUxsdTJxeUFJVE9YdmZrS2dyTVEyZGNReXFGNk4xV29LOVc4Q2dUVkswSEJmbE9MSlBhZi00bDdhM2l5ZHVsbC1jZ0VubzczNkNTc2RRSmE3OFByeGhxMmwyNGQtd0ZBZm1oaXQ3clAzRkFZaGNvaXp5dVdfbXRYTDdqMmpMeXUtdV9GQi1vcTRzeFJPZUQ3VzhCOS1sOW9D?oc=5",
    "title": "New placenta-on-a-chip allows Penn engineers to study environmental toxins",
    "source": "University of Pennsylvania",
@@ -1338,6 +1380,20 @@
    "evidence": "Human study"
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTUdVbXZ5S0szV3FucDJPMzljYnpIZ2pmWU82ZzlXc0lNdGRramVKR2F2R2d6WDdudkR3alNBQjlSeVZaeVMxWkVoN1dtRGVwWkRMeG9DS3BtZ0ZLR21oUzRNNi1iU2pLNGVTSTlULUdGUkRvc2NLS3RYdnViTHNUNUlZaEtCeVFXNk00Y254Qm9jSlZEbHJDeklTaTg2ZlBCbGVyenlVaGhXS2psTFVzZVZDYmt0ZmJjNjVXYTRfcktxZERYYnA0?oc=5",
+   "title": "Brain Circuits",
+   "source": "Karolinska Institutet",
+   "desk": "news",
+   "published": "2026-10-25T07:00:00+00:00",
+   "seen": "2026-11-23T12:56:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "brain"
+   ]
+  },
+  {
    "url": "https://news.umich.edu/antibody-shuttles-could-deliver-noninvasive-drugs-directly-to-brain-to-treat-alzheimers/",
    "title": "Antibody shuttles could deliver noninvasive drugs directly to brain to treat Alzheimer’s",
    "source": "University of Michigan",
@@ -1602,6 +1658,7 @@
   "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMVRFVjlSeUswUE9FSnUwTTNsM1FrQWhYZ202S3ZKbWVUaHhPeWl0UzlaQk5NRU1HQ0Ria0JHRXRLYjZRY1RRRzExejdrUWM0NXVLdGJ4cF9UMEw1SU1mbjBwLTVYcFY0TjRIOGc5MG41SE1pY1ltUnNRS2JlX0s3Z1BjdlQ1QXgyemhaTnZIRVQtWlFMd1BJZmRvSlNJdldYU2ZNRXFRNXhsXzlwY2RSRVM4b1pSMEhNYi1CMWJheTQxUGpwUDFrRGk5NnYyTHNQTVVUOVJFbzN6a0ZyQ3NJOQ?oc=5",
   "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTzIxWHpLREpnOTJBZzd1NUE3LTNPQnNNQzhYQ2c2a2dtR1I3SGxEbWI2TnUxa3VpcnVzRGVZUFg3VVc0QzdYZVprX3JidV9Xc2N1a0FMcHE5ZzhJQ0oydmNUYzRqRGNjQXY4Yk1DSTdIME1oVmMyR21ybWZkbTBVZ194RjlFY0ptUHJGU1l5Vl8ybWVxaWFXWk5VMlVRaG4tb2tpTkZ5aTY5YWpDRmRlTVV4TFRzNG91a2tuUzU2MmUzeHh6SFo5V001ZEd3V1YtTzhjaVptdlFBZnRDX0w0ajBvemU?oc=5",
   "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2VNRVBvOUpyNFpvM3VHVkhBMDVqYnV3TEM4VWFFQjFIdkxkLW01Ukg5QzZxRjNaRmwzLVZkWHY3Z0ZrdUdVcnU1ajNHT0J3UEc0TTliVldyb1JzT0hHblJMSlR4aThRS09VSFlSejJ5NHZFNV8xODlOOXZBTVowS3BjRUY5ajN4dXFILVRkb3B4VTVScTJQckdzUWZ5UU5VZWt4dmUwWE03cjdaZ09pQzd2cmR1eWIyZVpuRWFPNVp5YWkwUE5vTzBCRVVIeUY3Z1IzeXVDNVg0bE5Nb015Z1ZQSzRhZw?oc=5",
+  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc0hWbHlGZ2lSVy1tV1RPdjFMWlNac0JuNkxNNTlYcmdYRFVwemxGNGVQdkE2TWdGWU5MeUhWbFdWNTB1eUJxUU9Mc3ZValdBUmZZVjhqM2F6OEQ2bkxOTjZsN2hEcVZlYjMzRWFILXBSbU9mbE9adW56YnNRUjcyUll2NFVsaDVxR2NxR25BNUFkMmxKcDF4dWdvU0xVWFh2bjNqbTVPWU5kNVMwM1hNTTlfUHp4OHRSM0NmTHQxUGREekdYcmlaUGdNOG5oa3psYm1JQ1hiZjFHUWkwSlN6RXQ3NVc3UQ?oc=5",
   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM0xYMTBDM2pvMEVPbUVDdWRHTUEydU1pbS1ZY1laLTBFYzRtRGduZ0ZvSnZqX2lEVmVoSHZyRTNfU1kyOUZVTHFNZ0lPSU9jRjZuREFQV010R0ljTktHQ2owbXhTaUFWbkZBS0M2Sjh6N01iN2dZeXljTXZMWVQwcG5pTWkwZFRWVEV1TjNyNHFKOHBEMFluQ3hNZ01DMUcwRVFwakRKSE9haUx5MVB0d0h3emFSTkF3MWQyeG5BaVdEMHd3Yzd1QTF1WlBVWlB3WVk2Q1I4ZXc0RHN3dXRtRUE1MWptMU9qRmc?oc=5",
   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSmU0UTJJUGx4WXhZRXNCdHpJbmstQ3Q1TzNQVlRBTnIyOGJJcFl0ckJUa0EzRWhqYUxKZG1YMVRadDBwcDB0UkRwWTVqejFseWNaeW5mQWswaFZ4cGlHcDN0T2hsSUlubl9lckZhdGJNbDFxY253QzZRbnpsTXdweHdQZ01HOUVDTFFCRkJvelpkOFRNOEZoSzU5WnFvRXZzUVQySFRYcWtMd0x4cnNKUzUza3pMaVNLdEloQzIxTUlwWDR5aVNmVnpweWJFMzBFekNhUnhfOHR1MTUtTjBKSk5Jekk5bGFwQkE?oc=5",
   "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQX0lUNzFpT3hXcTliTHpUdWdKeFgzcTIzS3FnaXlHMnk2MTRQVEUzWGNoQmI0OTlfM1lWNVltZjBaOXRabWhPT25ZOFhkeXNRYklFY1BYbVR0SmlDeU9MNnFJblc1cmh6SWRmbUlMOThNdnhqcnBGWVNVSDl5T2VqQTJxbko5anl2ZEdJSHVrWE1qenJ1d29Ca2lhbEdhNjNuOGFXSjh1MnIxQkJ5ZWVEbDVsUGZYcy04VXBPbVFYVjRUN3dWRzNSVC1rQXhEX0g5Y1lCRTF4TFV6dWJ0MVVNOXFyenFIWmlUX0RUczFUdjN5a21Bdl9jQVRZNUhsSldJNS1TUW1IZ2xwanF2djljYmZRcDNEMUtTUEJHTXhYNFZWcFhDajdaVHdaeXB4LU5nYk9vSEdMbE5YQ1hoMHU0ZjN5eTRsVklGY3FJcVE4WnZ3c2ZPZWZrWWR2SlZmUzBOZkFta1ZiX1dWZw?oc=5",
@@ -1680,6 +1737,7 @@
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE15djBJTjAzNHduZFRLZjVxNzBUV3RFTnl1eEVEN1VhUG55SGE0RDBRMWdoV3pXWGNCa3VRLUZoQV9zUlh5MmczaEJTZWNLMW84RFhjMkEzbkRNYmRiX05XbU1WWndKU3hRbW9LdnBsNHJCZ2ZQODdF?oc=5",
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URFBmOGk1TVFzT2NwRi1kQWZkaTFQZjRJZDFpaDVkdjNrQU9Xd3RkMFpwcWxkeWVveDNUZDRkc1dIVUVVRW1fVW51WFdnV1VMZHI2dUVJS20wT0F1djViYmIzWjRvN056eC1aYnlCSld6amR1RHZZ?oc=5",
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hcjAtdEpxLVlGbmgyMVlFUGhwZU5Ldm0wWWw1OFh2VW9QTTllNmtGbEVhTzBoOUVlWnEtWk1iQzRlYmtHTldyM19VaEtxNThSQUdxS2VrR1NjZlhOaVprTnZYUnowdWxWdDFpU1VyWlNQbnUySEE4?oc=5",
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE5taUVDNC1TaGpzRVQwbGxZX1hqVVk5VDFxVDBuNjBmUHBZZXJ2Q2dZZFQwNF9mTkItTDdjWVdDRS1CR25seUw4VG5VbjVqRk9PZFhVMXl2d3duYXM5cklmLVJCMno1dnFoT1RoX252TnpOSFh5?oc=5",
   "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HREprMU51TTctX1JaOVlLQkZBZ21tWUhOMW85al9BbHRHREN5ZmFfdl9RdTU5VXU5VURlaDJTNC1EN1luMlJFcWJiMHBoVlVXajFmeldIenhuQVJyZ0RNNk8zVnZHcGotcmRJaVd5dkxtbVNy?oc=5",
   "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UcEdjM0kwY2t3UFJyN2pRRDJWSXQzMkJrbnJFT003T29DWjV2RzloNHRXNFczY18xd2wxVmFnUFhpNUZFY1dRRi1UUHpBMERIR0g4ODJkTnh2RjZod0hoS1B0MnNjRHEwT3BpTkRGX0xPY2Vq?oc=5",
   "https://news.google.com/rss/articles/CBMidkFVX3lxTE00U0dqYWREa0N4WHRDWndtR01CVmc1UlNvWllNSGYyQllISXVKU1hBRldJQjRFTXh5RTJYUEdfODQ3ZkpULVpYbzlpQ1V2UFVWM2psei1jbUJPWGROVDdPMnp3ZjhLMzJJam92Yy0tUFdsMW9SbUE?oc=5",
@@ -1774,6 +1832,8 @@
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVN1T3hDdEMzQkdFQjdhUkxiR1ZrUUJXZU1kbklpQ0VRWEUzMmQ4YVB6SzBOeFJ3T3Rwd0dORjMxUHRjYVpVVURJT0dQSE94Y1d0azRRZ2UwdlowQXg4MWZpX0ZzMGQwTFB0UzNhLVRsZEQxSkppMmkwSHFiSGR2UEhQSERUNzFtT0tlN21jZ1RaU3U5OEFxN0RDbw?oc=5",
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU80X0tLQlJfSG9ZZk41cmNWSndBWmtTc2pZdl9GLVdGelVCMGZfXzAzZEZ6YldMMnUxemo2eUJQUUtoV1RLYnRFYnpDczAtXzBCdmZERTFGZmx1d0lyMlRqTFRfeU9qZEhKR0o1bzM0Nlp6QTdlQVV6dzR1LUhIdnhhVzNUSzFQaDE5UXk0dHZ6eFRaMVh5dUxrTXU?oc=5",
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0pZaHFRLUxfeXpsWWp6Ymd3U01jOW91TlRDaV9SelNuTllpSlBmVXRKU0d5WEREMjNoS3FxaERzNHJ6RG5ad2l6R3hqcTlyWFZYbmJrRnVjVjVDOHRzV0kxVWQ2Z0xKc0s0QkNQcGZteV9xbVpTMVphMzBBUkhwTVFjUnJUaWZLeHRxaTB6WFVaS05MUGVqR2JvalY?oc=5",
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdEJVMlhGUVdCX3pmNUE5ZmpDRUZNUjIybVZvWGVrZG00RnZoa0JsSDdaMTB0VXNpd2ZkNXdsdFV1dUZSTGZKc1VhWlFZTjhSNWdwckhINmJPb2RISHF4TWpIQTVVdk9wa0tZU09XRXZCZnhHM2lxRU9Ubm4zWlpVZHJ5ZlMzWVVhNS1jQ1I3czBEMDMxYlVBNkU0TlA?oc=5",
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmxYbkpLWnVrRERVbFllZUxYd3J4RUdVUWo4QmgyRHdfbkNZbG1Oa2xfUUdrYThfUUdrdnZWZWF1T01CNkJhM0RFQm0xbG52S240OXgySEl4SkZ4MVBxRktBeXVjNTQ5dGhuQXRmTFRuTzZwMmtCOFRRVnNKZGZBNm9wdXpMLTgwQTRWazdNYzhRaURsQTNBdWNWWk5xQQ?oc=5",
   "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXBTVG53ekhfWFFXbS0wVGt0X3ZLdkQzcGlMYk5ucmdzalpoZ29GRTlFclo1Y1BtcEx5bDNmZGwyQmZnazFKS1YwQ3VZM3E2Wjd4eHlITE5Xb3VMNVBUS2xJTEtBaXQxSlNvaWxUY1Z3YkFJcFNabE1rYlpWMmtBREI1ZHBVYWRGb05jNUVkeWNmLVBCNHFqdHp1OXZnQQ?oc=5",
   "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWFycGhuX1B6TkRlMWdPbUhOLTBsT3Nua29OVnhCNm4xQVlkNEpoQ3BHSWVCblA1RFNKeTZqM0ppSHo3a3FlSENkS3VXSnJNWGxWRjY2NlN2WkZPZjZ6MVdKQXNLV3dYdTZQb3gyd3lha0ZRNFBlSXRpaTgzTWF3UHVWc1FuZGd0X3FQSktlbnhpMkZxM2Z4eXp2RWpsQQ?oc=5",
   "https://news.google.com/rss/articles/CBMingFBVV95cUxQakRlTWpwdlpVejRRVUlUVVJQZXl0dEprbG8xV0hlUGpJcE5OMzVJc1U3TUpQLTFJeWZCbmJncDZIdXRuQUpsZ0dGcG84d250SDA4TUUxZVhqTTM2VTBGMW5LaEdaSW5yLWc3TmVKX2N4dU1hTVFoME1HUEdlRFVOOWxqUXA1TlhEcDVKZGpYR1FXeGhFeWJQMEJydnMzZw?oc=5",
@@ -1790,13 +1850,17 @@
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjVjQzZ2ZDVSYUVUQ1BSekhRemxnQ2NXSjZrVGRBT294Xy1XcjFkMVVYbDhUNE5iYWNDaXdCZHNmVzBSWVljNk9ka3Y1ZkgwQXFDUTZaSG5TeXVGLTM3encxNS1CWGRzREhFemdnSVNBdHc4YV9zSURMa2JBVHlkRV9mYndDOXRZRUFPclZNT0FCbDd5Q2NuQUxuSTExRFpI?oc=5",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVRxOVpNY2JCOEJzXzFsSGI0WWd5eU1aclFEei0tamVjVE5SbGptYTZoUWt1ZnF6a0ZKdlVaUzEzc0E4ZUtfTktkeC1vOGNMNkduaXFnQkowTG55X0RETG1iNDRicFIxbXoyWWFJQ2w3LTRHNGJ1Q3pGbU9CRHZsZXI2N25UaXp4THJhbEFycDZTd3VFeldYR2ItaWNaNFB6U2c?oc=5",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG9EckZSUDlwcW1jQ01LLWF3cHFNZlR4VkRxZkpYS3ZmTzIyWWFFblhfZW91eVF2MVpqMXVJU09qbUZxTjR0a3JUQV9MWG1md0E2WGRxVzNpM2ZzaFdLcndwU0h6cVhfS2ZZSG44aGotc3NRV3hCbDRzOHhWSkt6ZTQ2d213bTB1bVZndktPamtINFZFN0FxSTJ5dldBcGVEdXc?oc=5",
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeEpZSk1zTTdvbmpLZzQ4bks3dllncEEyeDUxYm1YMFhHdEdySVlqazNqN0FDdFVmMTdIMURpTExUWTZyMFp3WmxPZjZWSHVtVzBRb0hTLThDNTRGaEJRZjk2cVcyXzBkaFN1VGxJaVlxYmN5V29UQkhUNnlUcDFDbktOLWUzQWFEbDlXSWdwVjI0ajhvTWJpYm1QeVFOSGcyMEE?oc=5",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNExXeWZneEdoV3M3SWphd0dVSS02emxZUGN6M3o4TThzZmpmZWR2bUdaekVMdUFsc0FLNVVKdVVHQmZfNFl3aWZXQm04Tl9FUTNGUldmNWpiTlZ0aklvRUo2aFN0N0FDdVYtZ2lCcHZJYkI3U2xKZzQteEdtdnphUVl6OTNacTJsY0UwOGZGVXRTV21abk13cTEwNUNFd1dsbGc?oc=5",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0hBb1QzYkQybnY4MzhkWGJKZDVYQmVzN1AySWgyYU05STl4MVR4Y3ZsdzI3YnFsVF9ZbERMRkUxMWk5VE1IeC1IaXZMRmh1OWdmNGMzT2c5RF9wSmMzZDdFMWR3NXd1QlJDZjJDY2FaZEhwV2pHa0tJa3pUaFJHNy04Wm1qRVdkNVBtX1NhOUdjT3N2QXpnSERHNjd0ZVBZdkE?oc=5",
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQai1pT2ppMmNUVzV1d2hrQk1YemhkSG5HRTFEUW4tSmV5ek1fRTBua1FRSGFzMXNWWHFJR0VFTFRENWZkTkZST0JaN2dDMlktVXBPTE1Xb3NZQXBPREVNcVhVdHNRYkU1aVh2NDVlVWJFRjc0alNjdTUxQ0RhcW9qR2hXeVRYMDltcjQ5T09PX0llbXJrOU1UVl9ET0s2Sl9teGc?oc=5",
   "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdEprX2JOX1N6Rjc0WGxsR1hLM21EMzBrdkdHaXFJU0Q0SFVPVEVZbngzamdNSUtpeGg3MHdsNHpIZUhiQXpadVhmQkFOaHYwRDktb0lVN0ZRcGxSLUdRZzRXdjVTNWJNbnVIN1Z3alQtcXltcHRzUV9ranpROXUwcjk0aTBwMGViU0VET3hKaHppTjBWVzJST1k1enFlM29neDV0Njh0bXpsSzZUSzZFRkZ4UGRfQ0JQX1p4Zjc2MjI3bElJZHlnemxBVkdoQXZtdWZZdmpFWWdncm04Z3BYWWNBWTZrVGhSR3lvN251cWs5cmlTWFRGMnFuZEphcURhRFBfUTI4U044VXUtaXduZTVsUjMxREYwcVBCaUJfWlMxQQ?oc=5",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUk1YTk03MTFZNjZCa2R6RHRZYVRieDg2WTA3a3VpSzlWYVJrWnhLeFZxaUZUY3FFeHhtc2NIckZLY2ZPeFFnNUNpRC1qWkphNWZfMl9HMGlUVzFNUl9vUmZrYUQ0MEd1bnZScWxnT2w5Z29fNjA4MUhFX1RQSFZERV85ZXc2VHZHR1ZYOHBHMWVEcFhyZER1dmh5N2JSNHlFOV9n?oc=5",
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUkFGdXZzT1ctbGZGWFNZbTdkQnZ2YklfeG80b2t2UjdGVThSMjJZdEVjTzlxcVZCNWdzSXJJT3hYLXlkVDRYQWxSNXI5VGhtcVN5TG5fNzg4QmhOamZXMWhFcTJXR250T0xscVJpWVd3MWpodGFleVlTQV9WVzBrZFIyLTVUdTR4NXNjdE9FN2gwRWc4ZlNWQ0FZbVFJNi1kYVlV?oc=5",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFRCZEFZYkl4LWljYUVCNTlGb3B6ZDhjYUh2aVpsN0llWjdzMUM4eGFOc21INFRyRGtfcGZNaWZXbGhmTTg1WDZxeGNSV3RhRHZCTk9adGtxTHlUODgwZmU3T0std0VET28zdUl1cTFOekc5Q21Ga2xhb0lGcXRIOE1sb295UGJOenoyU1l0RWNDVE9qVGVrdDJqNlFNNmVNOFZN?oc=5",
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXVNc1hKQVZtalYwY1NUbUpRbWF2UnVJY3dpeUpLc1F5S0ZLZUlHU2pSdmpzblN4aER5c1owMHhiVWtJSXg2dVBVanFHTTl6NEY0VWZUay1zaEt4d3BUelpQLWh6STIxZTJBU0JfellIdm13VWNQZHM1dS0xbTZmRkh5a0h3Tlc1akJUWDAtRmQzSFhGZHFfMUR6bXJneWt6RDVrdg?oc=5",
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGpOa2xaX0hJa1hmam10NUF4X1FzZU9aN3FZcXA2WXBiVkJHNzFidERrU1JqUDAzeE1EV1JEb0RYcmI0M3dGeU9RYTBSb1k2ZnlXckEzXzJVR2FUc251MXlqbzBqbld4dHM5aWRtYzhaNUFoZ09tVU9RbFNET1pEaGEwcE1HaTJaTUEtLTJrYTVVU1NrUXpzRUxBTEl4dEtwRlQtcQ?oc=5",
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXQ5ZlpMbTZhaXFaSGNocEs2eDhWSzNhNGJSRVZDU0dUOVpXSEFvbDJuZUlwOURjQlhPMFY3RmZqR1BVa1hUdDNuZFQtYVFWSS1EN3VkUjBDUmlDbDlicTJWb3RCX1hKYVBfbXFVbmRpVDhpNjdUd1lXeDdrZG1weWdqWTNIMFU2cnVEc2RUSVB6RVgzXzRkTlc5V2dZbWdDTmZVSQ?oc=5",
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHVhaXhudV9hWWZnWXBieWpJenQ3M3U2Y1ZLWU1uNGNNb01LdjFiUlhDZ2hfNDltUWlETWZJck5TVzFJQ2E1TkpLYTZkNkdEWERFOXZ4U0kxbVp4WlFhM0RkcVlWUDZCbzY1VDg1NzNYb1RIU2pFREFfREFScFYxRHdqSVA0YmdfeVROM25qNXRQeHpyb1l6T2xFalVNeWVUR0Jvdw?oc=5",
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmZ6VDBKeFNQLTRpcm4yNmdmVTVPX2lWa2pTRmVXUkhlSnc1T1MwM1A1VTNMLWkyV0lfSFVYR0pGMDZ2M2tFVU1rZFM3cEo0REpndlU0MXpwNVJRUWlVR3U3dUZybE9TUndMaVNIZk5NcTI1VERSNUZ5Ti16ZjRJS0FyYlY4QVFYck5kSjQ4alBBdFlLZlJ1ZTRKMEc1b0ZSNUtSOQ?oc=5",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUVkR0hGUG8zbk16YXY0VzhXeHZCS2N1OVk5dGF1NElaZUxGUVVCQWdpVjZlN2s1OGVuaHhQMEZDMXkxbV9fNFR6RFBScVRLZmxJblJfa0RzbGNVWk1tVzB4NlR1UHhnZjZNU1pnUC1UVUdGQ21keEJQMUhNRmR5dVhuamdlTzZIcE5adk43Qm4xYzEzc2t3LVNpTWgtT05fakdWbVJR?oc=5",
@@ -1813,6 +1877,7 @@
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGFLa0ZxdzhuUG42QU11cVhLbDQxTWhNblhHT25RNDNrc2ZHQVM1X3o4YU1JZkRmX0tQMnVUdGpFSTZpeF9LRFVrRXdnUHZxWDVieURXNDJxanBiYXNNUk1lWXdkZC03R1c5WHZrNkdqaU1YMWR5SDVDdGpPZEk1UDVrZjVncndVRFFBWS1wTXhwYVdpR2xENXpxVjRXSTZpWWdwcWpKUnQ2UQ?oc=5",
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbm52bTgtM1Q5RXZNOERWcnF3UUhYSFZzWHp4QVUzWXA2MGYybXRrNklFc2xmTWdRSTlEbkRjQkgxS1FaeGlhVEtQbVRDTjdoMFgyRzF2c2hLWGh6cF80eUJWdlhPRjdPTXlSM2NKRlVBMEwtRFVUWU1aWDNzYm9heFNwbk4yR1VxazFIOXpvX2tVQU1tZF9TRzJsSnhuMHlvdGFFVW1wRFJqQQ?oc=5",
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnNYVExHclhVV3RWeGE5bDlGbXZsdmJhQWlscjFZU2tMRjBzeE5Val9KNzlaemowaV9OSFVZcDRmMjlJdVRTekhnTlJKVnV4S1llNVB5VHpnSnVXYm95UlNPREx0SDdTdWpBbVlYT3VLN1Q3U2dkZGNLcm5GbzdhNFZRb0RDM25oX0p4ZFllT1ZIYksxUERObWlnX0VmTW9KeWxFMmx1cWZmQQ?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1JMTzAzWjdFa3A3N1NJTGM0UFh5azU5VEZZZjlSdjFFVUN2cW5Dc0E3Sy1hVzhBVEN4WV9wdnNZc0I4NVZpb1dVLU10WXl5bW83anhsdS1lSHpMNklqdnlZNFVoY1czT0xkTHZkOXc5RTVYdGQ3b1gxS0daUnZ3X3AwQ0ZmV3AwT2h4NXZiYmFMUFVPdlhQaDVUdGZzYjR3cEIxTXp5VkRFZw?oc=5",
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2x2NktnZTVHOTd2cUduTERSSFh1bllVQV9CeG5EVmM5MzZjMzh1T1pFelV3XzZ3Y1JaZllSOHZ5YUJWTTNnYjVZSklrSldueElHZzhSRXpTNWZTTFExWHRhS093RkpHTHhONlJiTnRhZFBEV1RmemFQSEFJVlBFZ3RySmNucGFyUHFKSnQ3cXpnZWMxQmk4RnRsN3pYdmlJZmNjU2ZPLVhjUQ?oc=5",
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFdVSVRuQm8zdjlseVdDNjFtTnREU3lyWmJEZHNzcmJvT1pjWVEtdnFZX1B0YjZEYTJxWF9UWGNCTS01NE96YzVrME1UMkVCVDQxU1BsYmtKRXBPYW00cklRNEs3QmdYRUVLVko1RDJKZkV5Tlg0SVVNbzM2d1F6eHNnXzFiOUtsbXowZmtqYnU5MkpSVm5qSlpyZUdJOTA2M0FFbXE5OElfZw?oc=5",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmhlODN6aXU5S1RYQTEyZ3pjV2FJd1g0V2JyNEZxTlhnZG9oal9uZ1JHOVR3dnlLN1IzV2tNRmtEVlNkQnBVX2lZaHpNTV9vRk1fVGtDRkczaTk0NW1jTkdMajJZV0Rpb19CVlZmZU9nS2hHTUxKc3hNUklHU2hGMFZZSTJSYzFmUkF3Y1FqQ1pGMkNXLWtYcnVxVzRJWkt1YVM2Y3VxcGlRMUk?oc=5",
@@ -1846,12 +1911,15 @@
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2EzdzJyMnhId0dSS1BBUFAwemF1RlpQeXhCanVuRDd1cVMyMTBNaHowVjJFUTYwWTVFa1RlNkdIbGVnb3ZCOGN2dlVfSjg2RkZienQ3cVdWYWlrQlFvN2ZSdGRScV85X2Y5RTZWVVVfQlFySDBWUU9wUmdGbEk5cnh6U09wUHZFbHZkZFQ5cmVVZFNEMnNDUmNwX3hnd3pPUldlZEh5VW1TZkRmckJxQXdNRWRXTWVy?oc=5",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmR3a3NpMXJGa0k2QVl3TFNWTnlhc2gzekhUdXhER084ak1paGxWR2xMNjBCeG1sZTBfbUV3WEtvNmFHZnVLd0VCODgwaFpvM1JubVYxRE02UEt1NWFJZWNRZUNnbWZuWnBkNDRUT3U2eGV6a3pkd3VBUnYyZ0xrc3RKeTdNTW5DV0ZtOERRVktXQzNFdHIwaXZpY21JNUR0Z3lkb2pFeFc5WlIyOXpZRzVacUJGNGJV?oc=5",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWlodEZwNy14QmdoM2lrQVM2RzZxUDk3cjJIeHMta2FUQ19BbUhEaXBfbXFYMm9jNWNXVkx0eWlzSUZWbms3OTA0UlRHYnV4OHlvNWE1WkJweWh6eDFScTJhMjE1bmRod2JwS09DczhqMUlHazd1bnRWQUotRmN2RVlTdHVkWWthS3NZeTV4cmxsenpqWXlUbmtvc3FoalJwbjdnTGlQeEZQVHhCNlR0QjY4SlRONUlB?oc=5",
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlYteGFtSUlWQnRlZjhGLU5sTnYyODhCSlBKY3JSTnAtNlNaNlQ0Ym5RYlZzcEtFR0E5Vmd2MXpnUmZ6eGg4WGYwZWRDZC1xWFVLenVROWxSV1FOa1lMLWFtanJoNE1vZlF0a3NEUndLMFVsOVB3TkZrdFVtcVVZcmF0QUgzZTZhTmxvaFBBMGx3SmV6bGozU1JkNGRDZVZ2UWw5bXRXYkY5ek50LWxURGZqRHA2MVlT?oc=5",
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0l4SWdoVk53aUM1U1QtZ2tGLXVvcXpYMmhHWnZzX3dLY2NwaHlPUWFpX2Q2ZzNVOTA4eG5FUTZ6WE1uMlQtbEpkZ2FQLVZhQTFQVGFPQUl5QTJDQmJuSXdkaWpoTC1mUml1b2p6WFpqeU9OZzVDUFJlekFDc0dXMlRfNk10N3hSZG1FT2x3N2lnWGt2VDR3cV83RF91LVBlYnhrOWlWZDU5ekhweDZIZjE5YXVGVFU5?oc=5",
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3pYdHQwbW8tM0RCVDNHeGhubm52NWhjT0hmUEtSZUswNjZ0TG9PTjRsYUN1MHEyNXM2RnVVT3hwOER3TndranNsRkJFRUdUWkhwaXNfQVhlV2tFSDBzdUVqb1Q4WFIwNTNEdjhNYlVzd0k4N3psb0pZQk1rX3pVcmVfUExwMVcxQ0hSbF9NUS1DNWZDN0JkTmpLUTB6WG1rRlVRcXNtbU1JUzVSTnhuYUpPVUZxZnlHR3c?oc=5",
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEpIT0dJdV9zel9LcTdvR3QtMXJLclk5WFB0OTl0ZVdUVVZGamloMUR0Zl9aQ0xZeVJOVm5kVmpkcExuZTJxQU02VEhWNGFFbjNYMndOTU1UakpRandDVnlTb1dPdkxYRzdFTEJpdUdtWEtxVmZXTTZvWEsxdXhiTm5JX2FPeVJjODc3RVBiUFFaYm5aZzA4R1pBVFpQS3Z5WGJkdnV2SlM2ZENocGtlX1NTX0o2dWVsVWc?oc=5",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNanBpbzc2T3d5VHBwTTEtdThfOW4yRTJ5RjJkal9rbjg1WVRKU1pYT0lXbm1Gamh6ZzFFcll2NTJuMlZodklMYVZGR214RVJrTlZKRTVkaTJVTW94d2VOdHBPTEFsb29aNWhwNkw4RENLanZONEd4WEhLcjgzamloWUFoN1h6b2M1aVJRRHVKZTFpRUlWM1dHdkxHSVZYcFhwX0h3Q3JSdUxscU5DQjFpUzZmNm9YTFU5SkRV?oc=5",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORG10RkNsdmkxSkxkTWt6UzRtOWN3UlB4RFB3ZGZHVzUtNFFRMDBNZWxCaEc4dzNaZ0lBbG56YVE1T1BvSDhYXzNlbF9yNFRuNlBwRTFlc3RKQ2Jrai1JVkY5ZXctSFR6YVZzTksyTnFncnU0NjllX1VaM2o2Z2xTT00yN3E5M2dUanF3T0FaTWlNenE3U2pGZW9jYXhhNmhzejJ6dDZVbWJyOFpoNHQxeTNZTjd6MDZGZ3k4?oc=5",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVY3MDZrY1lCTmoyVWctWmRud0RtaGl5S2U4VzdDRlQyVF9YQmlndS1sVzhaRlU3RVl2alVjNkcwQ3k1SzhrcHlLc1dwM2o5WmVja3RleWNER0VtVThoUkNZNUI2bTdhVHY1MWpNMG9TTGpDVW5LcTctTUhfN0hzMHJrd2RxcnBzQ2cwcTI3Y2hjT29qSjd2LWJVTFFZNzJoTEl3ZU1FbHJta1RERENpRUlrRnVlSGNubUZn?oc=5",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObzJBN2VKZ2RiRS1QQTFmQmNXUHdQb1dmcHlqTmNvWEw4Q3FwUEE5M3V3SzgtSUFscGdfODdNSnZXN2NJRFFsaDB2VmpWSTdEdGJPa2RueHFYX1JxbHMzbzRWTUpzUjhpalpZX0YwUDd2RE5ZTC1kdWRQMkhlTGJjVHZSRE9WNXlnTkRHM3czajRGOUlIOUZUcDlIQ0c4dzIyTnVxTUw2dUdIUDlRWGhVZndOYTVfaFNsbWZZ?oc=5",
+  "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNTlRfT3FrcFlKOThBRTRGMWNxVFJIeXlvcUEycXNDTE9UNmVtNVBiZWRtWnh1Z2pMaVhjeWJPWU1zME5CZlpIdXlGUVFLdEtrZEVqSktWeTg0aWhqTHRwdnMtUWJqUDUwOW9iOUJ5SkE1X0JpSkYweE82MklzMmw4LTRtT25EeDdha0VvNk5vM2pOU0Q1T2I4aFFfV0V0UjJkVnl2NUh0cXpwd19FVEJEVkprRnNOTjNYUWx0UlA2dW9tOGRJcTdhVjBhdGhjVDNTZ2V6UDdjMWQzaE5kdTROXzZQdXhsVHBOMHpZQWtrWFRpWmVZRzNWWmtibThUUUxGTUwwbUFsa19qbVZxYllsazBTRlJZVVZmdzRWM2sxQU5FSktHY0NmSFhuMk16X29wRXk4RWVCZUh3NzQ?oc=5",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUFR4RkVrOGxGUHItNXF3bzhManJoR3ltTGN1dE81aTdwMjVia0RvSk53Ylk4V0ZHakU3X1JHODRTTFpMZkkzRWxtcGNGYTRhUFIyaF9wcnRmVDBGX0ZUSUluOWZtNEJ4UHZhTTlsMjdxYTZfMzFJblJXa1ZMdHlxZWJsbno3ZWZscktkRE9fQmNMQkxrUHYyMlhhNy1hQnZBeEhJcjMwcWhVcFp5RllXeXhQeTNUUUF3NnJJMg?oc=5",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSS1aUWY1UWxPNDZvdFFtamcxak9HQU1XcmZqcEtGTFZ0aUpMaFlvMkdjbDBQWGJEcUszSTF1V3MtbW9taHlaLXA5dFlMS1ItNXltS0VER1o3Y2NqQkJ2cTFRdktqZ0I4Z1dxWWtLcnc4cUk3SkpuRWR4UmxQNFF6U0RnM2xZTlUyQXhqN2pKNzJBbUVWckpRRVA3a05FUWVzT2RHejY0WnlqZ3NUN3h0cUNURHJYU2ZtZ0E0UA?oc=5",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPXzFCX2twUnhTakIzbUpUNWtOZFVMNUx5WkVsZXBjRFFPU3E0UWNtOVRvQzAyVms3b1hkYnNCYkR0SFV3VG1rYXBtclNFVDd5RzU0Mnc3NWwxQVRscXBDSmVPdzJJRnRjTGU5VXcyMmxTOEptRU4yS0ozY1RMNlBGazNURk8yMGNWVXJuOTlaVEt1UmhDZGVKaTVEWVcxMUo2SzQ2UmpFaTFiUkstRkRDUjVsaktPa0FGRGpXSQ?oc=5",
@@ -1861,6 +1929,7 @@
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQmhzN1JRRFlVdTJObHk1R1Q3Z2puN0lBTExHc2xlVUZEQ2xPdnFUbW9STkttcExWQ1VFWjRPMEJkZGZKTDhqYlY5VE9Bb1BidWVrZVN4a24tSFZVYkVZVkFibmVKaE52VnpDUlBKNTJ4TWJNRFRVRXVaNnNFMW1lUmNTNm9LNzEyZ2ZZcC1zWER6cnd2eFl2TV9RZnFNMlFhQ2JJY2VuS2FvWEVmX25OTE43VDVybnl1dlBVQU1LQQ?oc=5",
   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFdXczl1eFh0VV94dE15cXVCM25MbFcyWlJQMi01X0pXekZEZ3ZfaGppMXZxT3BJbHlSd2VuUkxtOXRIMmdfdmVZcWFjYXMxU1lwTldTMjJKZ3ptdWhtQ1pTNkdXbkVXR1UwRHVqT2NhN1JEdHJGb1F6Ykg2WlRGa3ZCSWpTbUpRdHR1eFMwWElZdzVrMlBuQXZ6ZGhQRUVIUngxRHhzc2hUa1hqZGh4bGQwcUFxNnU0NjJJVGxDUQ?oc=5",
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDBQZGNaZzl2OUt4TXJ6cXJJUndFc09qQjN2UHVNZnpBSmZRN0UwclVwUVVLZGI3dzlpOUl5VzlIT3JaSlFoY24wRzVUM0FvUXFPYmpEQ1hiUmlPTWQ3ZVFPd2JzUnNjY3JaSWVtMm5xdzZZSjNCZnVBTEF6cDZfdTNzWnZmZmw5WmRMMGdCV2dGOWxUWFhTd2JQTHBKUnQyNjN4U1NJcVV3czBDYWl4ZXJGRU5NRHF1dm1jRHVCdFg?oc=5",
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXZEVzR2Q3RRWE56cV80NXlHNl9SSU5TVWdFNUVZdWxrVHVNT1JUUWlfTlVQSmk0LU5OWDRsVzhlNWtaNG05OFhRTDI2NU03MUZ4WHBackhnenJPSDBMb0Y4YWFNdXd3TnZqZV9IWllGVVlXdVJaVTg2ZEstb0VuUDhLNUhPdXR6Q3JqalNyWmttbHBzUE5YdDdkWDFzbmlReDdES25TUkFMaEIxdm5qSUhTQzRwZUFsdzFERWdkNlRZdw?oc=5",
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWlMVHh4U1pNMVVjRDZ3ZjE2bmgwYUplR3Y3ajh6d0Z4Ym1aLVZjR3N1WnFhTklNVW1xczg3eUw5SVQ0TlRiOGxPZERZX0ppYW5rRjFqZW03UjRJTi11QktLRDRXcmNNSjloZ2RRem1tRHVUUTlfOHFVZTRXcExram42Ykw1UGFUUVdINm9FRGZVOGcxeDNJeGpwTGdjSmd0LWlVcTZwTFlDQXNDcG94c3VnNC1GSE0zcFNvRDNGVWpyUQ?oc=5",
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS1dYQUJwcTFVN3RFQWJBaDg1QjZJRGZEU2xhdDlkMS04YmFEZTctci1mdVFWX2ZGQzFqcnNhTklKYTdFdTd6a29meGh4eUhKV1lsT0YtQURLVjJLVjVxUWlyQ3FzSWYyTXJaREZZYVc4NjlvT2JTVDFUVTVOLTFvVGozcGpERVFKTXBwc0RkX3plVnB5VGN6OU5zakw3UTVrNHU5UlVXM1gwQlVDM2pnRjZiM2tJR09HSGlscHhhTnFpZw?oc=5",
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0dxWHF6LU1fWjllWVhVeXhDS1JKdGlIMldhdVZkMGF0NkoyTTdEdzZiak50T3Bvb2ZYUWQ5b1pNQXhRUG9LeEFzNUtac1R1eE5zT1JLSDV4TFhoVTdhQTFLZjl0OWJSelhtSWdhNEdFZnNhOUpXZ0dGRWNsblphQnRxenBpTWN1UUZBeGM3V2p2N1hheTFxdF9Ca25fY3BqNkVrNUtqSlViazBOWWYzVFdrYVVnMGdBVjdJX1NjTGxJQQ?oc=5",
@@ -1896,6 +1965,7 @@
   "https://news.harvard.edu/gazette/story/2026/11/schools-that-ban-cellphones-see-uptick-in-test-scores/",
   "https://news.harvard.edu/gazette/story/2026/11/why-do-so-many-people-have-neanderthal-dna/",
   "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+  "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
   "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
   "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
   "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
@@ -1946,6 +2016,7 @@
   "https://news.umich.edu/optimizing-ai-energy-consumption-throughout-its-entire-lifecycle/",
   "https://news.umich.edu/u-m-to-improve-pedestrian-vehicle-safety-at-intersections-with-5-66m-from-usdot/",
   "https://news.yale.edu/2026/11/18/opening-doors-field-research-and-yale",
+  "https://news.yale.edu/2026/11/23/wolbachia-mosquito-bug-could-change-everything",
   "https://newsroom.ucla.edu/in-the-news/how-much-is-ai-contributing-to-climate-change",
   "https://newsroom.ucla.edu/in-the-news/mathematicians-develop-their-own-ai-tools-amid-concerns-over-commercial-models-and-more-ucla-media",
   "https://newsroom.ucla.edu/releases/2026-ucla-scholars-highly-cited-researchers",
